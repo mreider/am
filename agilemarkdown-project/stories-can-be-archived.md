@@ -1,10 +1,10 @@
 Title: stories can be archived  
 Created: 2018-05-10 11:43 AM  
-Modified: 2018-05-10 11:43 AM  
+Modified: 2018-05-15 07:49 PM  
 Author: Matt Reider  
-Status: planned  
-Assigned: falconandy
-Estimate: 3
+Status: doing  
+Assigned: falconandy  
+Estimate: 3  
 
 # Stories can be archived
 
