@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-15 10:25 PM  
+Modified: 2018-05-15 10:31 PM  
 
 ```
 12.1│                                                       
@@ -29,6 +29,8 @@ Modified: 2018-05-15 10:25 PM
  User | Excerpt | Story 
 ---|---|---
  falconandy | let me know what you think here. | [embed caddy server](embed-caddy-server) 
+ falconandy | sound ok? | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) 
+ falconandy | let me know what you think | [links should include folders](links-should-include-folders) 
  falconandy | it looks like this does not work am work -s p -t "foo oauth" - I thought I said this should be an "O... | [tag-stories](tag-stories) 
 
 ### Doing
@@ -48,6 +50,7 @@ Modified: 2018-05-15 10:25 PM
 ### Unplanned
  User | Title | Points | Tags 
 ---|---|:---:|---
+ falconandy | [links should include folders](links-should-include-folders) | 1 | cleanup
 
 ### Finished
  User | Title | Points | Tags 
