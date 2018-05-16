@@ -5,6 +5,7 @@ Author: mreider
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
+archive: 1
 
 # Problem statement
 
@@ -18,4 +19,4 @@ The points graph is too wide to show up nicely on the home page.
 
 # Comments
 
-  @mreider The width is decreased from 84 symbols to 60. 
+  @mreider The width is decreased from 84 symbols to 60.
