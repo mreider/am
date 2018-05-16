@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-15 10:21 PM  
+Modified: 2018-05-15 10:25 PM  
 
 ```
 12.1│                                                       
@@ -29,7 +29,7 @@ Modified: 2018-05-15 10:21 PM
  User | Excerpt | Story 
 ---|---|---
  falconandy | let me know what you think here. | [embed caddy server](embed-caddy-server) 
- mreider | Ready for testing | [tag-stories](tag-stories) 
+ falconandy | it looks like this does not work am work -s p -t "foo oauth" - I thought I said this should be an "O... | [tag-stories](tag-stories) 
 
 ### Doing
  User | Title | Points | Tags 
