@@ -1,3 +1,3 @@
  Author | Idea | Tags 
 ---|---|---
- Matt Reider | [Some things](some-things) | 
+ Matt Reider | [Some things](some-things) | cleanup
