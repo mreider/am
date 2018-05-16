@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-15 10:37 PM  
+Modified: 2018-05-15 10:43 PM  
 
 ```
 12.1│                                                       
@@ -32,6 +32,7 @@ Modified: 2018-05-15 10:37 PM
  falconandy | sound ok? | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) 
  falconandy | this works perfectly! | [outside users can add ideas](outside-users-can-add-ideas) 
  falconandy | it looks like this does not work am work -s p -t "foo oauth" - I thought I said this should be an "O... | [tag-stories](tag-stories) 
+ falconandy | any experience here? | [think about building binaries](think-about-building-binaries) 
 
 ### Doing
  User | Title | Points | Tags 
@@ -49,6 +50,7 @@ Modified: 2018-05-15 10:37 PM
 ### Unplanned
  User | Title | Points | Tags 
 ---|---|:---:|---
+ falconandy | [think about building binaries](think-about-building-binaries) |  | 
 
 ### Finished
  User | Title | Points | Tags 
