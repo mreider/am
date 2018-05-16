@@ -2,7 +2,7 @@ Title: put some placeholders in the story
 Created: 2018-05-02 06:07 PM  
 Modified: 2018-05-11 08:59 PM  
 Author: mreider  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 1  
 
@@ -25,6 +25,6 @@ We could follow the same patterns that you can see here, in this story.
 
 ## Comments
 
-@mreider Ready for testing
+ @mreider Ready for testing
 
 ## Attachments
