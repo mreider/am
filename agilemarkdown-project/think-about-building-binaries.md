@@ -17,6 +17,8 @@ It looks like we could build binaries and publish them to Github using Travis CI
 
 ## Comments
 
-@falconandy any experience here?
+  @falconandy any experience here?
+
+@mreider No real experience. But I read the article about it a few days ago.
 
 ## Attachments

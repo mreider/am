@@ -35,4 +35,8 @@ Please add tags to the markdown tables for for 'am work' and 'am points'
 ## Comments
 
  @mreider Ready for testing
-@falconandy it looks like this does not work am work -s p -t "foo oauth" - I thought I said this should be an "OR" ? Are you treating it like an "AND"?
+
+ @falconandy it looks like this does not work am work -s p -t "foo oauth" - I thought I said this should be an "OR" ? Are you treating it like an "AND"?
+
+@mreider You wrote in Upwork chat "let's use quotes if there's more than 1. and it's an AND"
+I'll change it to OR

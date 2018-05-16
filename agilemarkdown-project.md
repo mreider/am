@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-15 10:43 PM  
+Modified: 2018-05-16 08:28 PM  
 
 ```
 12.1│                                                       
@@ -29,10 +29,9 @@ Modified: 2018-05-15 10:43 PM
  User | Excerpt | Story 
 ---|---|---
  falconandy | let me know what you think here. | [embed caddy server](embed-caddy-server) 
- falconandy | sound ok? | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) 
- falconandy | this works perfectly! | [outside users can add ideas](outside-users-can-add-ideas) 
- falconandy | it looks like this does not work am work -s p -t "foo oauth" - I thought I said this should be an "O... | [tag-stories](tag-stories) 
- falconandy | any experience here? | [think about building binaries](think-about-building-binaries) 
+ mreider | They shouldn't be (re)generated since a commit "Implemented "Make things generic" Andrey Sokolov 11.... | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) 
+ mreider | You wrote in Upwork chat "let's use quotes if there's more than 1. and it's an AND" I'll change it to... | [tag-stories](tag-stories) 
+ mreider | No real experience. But I read the article about it a few days ago. | [think about building binaries](think-about-building-binaries) 
 
 ### Doing
  User | Title | Points | Tags 
