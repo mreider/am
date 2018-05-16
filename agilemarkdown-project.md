@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-16 10:27 PM  
+Modified: 2018-05-16 10:34 PM  
 
 ```
 12.1│                                                       
@@ -46,6 +46,7 @@ Modified: 2018-05-16 10:27 PM
  falconandy | [tags have their own pages](tags-have-their-own-pages) | 3 | 
  falconandy | [links-should-have-subdirectory](links-should-have-subdirectory) |  | 
  falconandy | [embed caddy server](embed-caddy-server) | 5 | server oauth web
+ falconandy | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) | 1 | cleanup
 
 ### Unplanned
  User | Title | Points | Tags 
