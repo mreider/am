@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-15 10:31 PM  
+Modified: 2018-05-15 10:34 PM  
 
 ```
 12.1│                                                       
@@ -8,19 +8,19 @@ Modified: 2018-05-15 10:31 PM
     │                                                 •     
     │                                                • •    
     │                                                • •    
-    │                                               •  •    
+    │                                               •   •   
     P                                               •   •   
     o                                              •    •   
-    i                                              •    •   
-    n                                             •     •   
-    t                                             •      •  
-    s                                            •       •  
-    │                                            •       •  
-    │                                           •         • 
-    │                                          •          • 
-    │                                         •           • 
-    │                                        •             •
-    │••••••••••••••••••••••••••••••••••••••••              •
+    i                                              •     •  
+    n                                             •      •  
+    t                                             •       • 
+    s                                            •        • 
+    │                                            •         •
+    │                                           •          •
+    │                                          •            
+    │                                         •             
+    │                                        •              
+    │••••••••••••••••••••••••••••••••••••••••               
 0.0 │-----------------------Week----------------------------
      -11.0                                               0.0
 
@@ -31,13 +31,13 @@ Modified: 2018-05-15 10:31 PM
  falconandy | let me know what you think here. | [embed caddy server](embed-caddy-server) 
  falconandy | sound ok? | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) 
  falconandy | let me know what you think | [links should include folders](links-should-include-folders) 
+ falconandy | this works perfectly! | [outside users can add ideas](outside-users-can-add-ideas) 
  falconandy | it looks like this does not work am work -s p -t "foo oauth" - I thought I said this should be an "O... | [tag-stories](tag-stories) 
 
 ### Doing
  User | Title | Points | Tags 
 ---|---|:---:|---
  falconandy | [tag-stories](tag-stories) | 5 | 
- falconandy | [outside users can add ideas](outside-users-can-add-ideas) | 3 | 
  falconandy | [stories can be archived](stories-can-be-archived) | 3 | 
 
 ### Planned
@@ -63,3 +63,4 @@ Modified: 2018-05-15 10:31 PM
  falconandy | [support for clarification requests](send-comments-to-users) | 3 | 
  falconandy | [put some placeholders in the story](put-some-placeholders-in-the-story) | 1 | 
  falconandy | [regenerate overview](regenerate-overview) | 3 | 
+ falconandy | [outside users can add ideas](outside-users-can-add-ideas) | 3 | 

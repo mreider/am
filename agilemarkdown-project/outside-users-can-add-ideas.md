@@ -2,7 +2,7 @@ Title: outside users can add ideas
 Created: 2018-05-10 11:14 AM  
 Modified: 2018-05-14 08:51 PM  
 Author: Matt Reider  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 3  
 
@@ -44,3 +44,7 @@ Author | Idea | Tags |
 Jimmy | (idea name)[ideas/idea-link.md](pivotal-tracker-import) | (tag1)[tag-page] (tag2)[tag2-page] |
 
 ```
+
+## Comments
+
+@falconandy this works perfectly!
