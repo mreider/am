@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-16 08:28 PM  
+Modified: 2018-05-16 10:27 PM  
 
 ```
 12.1│                                                       
@@ -30,6 +30,7 @@ Modified: 2018-05-16 08:28 PM
 ---|---|---
  falconandy | let me know what you think here. | [embed caddy server](embed-caddy-server) 
  mreider | They shouldn't be (re)generated since a commit "Implemented "Make things generic" Andrey Sokolov 11.... | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) 
+ mreider | Ready for testing. There is a chance of some regression. | [stories can be archived](stories-can-be-archived) 
  mreider | You wrote in Upwork chat "let's use quotes if there's more than 1. and it's an AND" I'll change it to... | [tag-stories](tag-stories) 
  mreider | No real experience. But I read the article about it a few days ago. | [think about building binaries](think-about-building-binaries) 
 

@@ -27,3 +27,6 @@ A link to the archive page should go at bottom of the project page as follows:
 ```
 (Archived stories)[link to archive page]
 ```
+## Comments
+
+@mreider Ready for testing. There is a chance of some regression.
