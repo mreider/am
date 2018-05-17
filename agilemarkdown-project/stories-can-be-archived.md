@@ -2,7 +2,7 @@ Title: stories can be archived
 Created: 2018-05-10 11:43 AM  
 Modified: 2018-05-15 07:49 PM  
 Author: Matt Reider  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 3  
 
@@ -29,4 +29,4 @@ A link to the archive page should go at bottom of the project page as follows:
 ```
 ## Comments
 
-@mreider Ready for testing. There is a chance of some regression.
+ @mreider Ready for testing. There is a chance of some regression.

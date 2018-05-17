@@ -1,10 +1,10 @@
 Title: generate index page  
 Created: 2018-05-16 10:34 PM  
-Modified: 2018-05-16 10:34 PM  
+Modified: 2018-05-17 10:11 PM  
 Tags:   
 Author: Matt Reider  
-Status: planned  
-Assigned:   
+Status: doing  
+Assigned: falconandy  
 Estimate:   
 
 # Generate index page
@@ -19,6 +19,10 @@ Look at the current index page and re-generate the backlogs section every time. 
 
 ## Comments
 
-@falconandy new bit for you
+ @falconandy new bit for you
+
+ @mreider Ready for testing
+
+@falconandy Can you put a horizontal rule to separate the backlogs in the list? (I think `---` is an <hr> in Markdown)
 
 ## Attachments

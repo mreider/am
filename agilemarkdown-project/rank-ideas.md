@@ -1,11 +1,11 @@
 Title: rank ideas  
 Created: 2018-05-16 07:33 PM  
-Modified: 2018-05-16 07:33 PM  
+Modified: 2018-05-17 09:56 PM  
 Tags:   
 Author: mreider  
-Status: unplanned  
-Assigned:  falconandy
-Estimate:   1
+Status: planned  
+Assigned: falconandy  
+Estimate: 1  
 
 # Rank ideas
 
