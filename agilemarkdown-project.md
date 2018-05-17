@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-16 10:36 PM  
+Modified: 2018-05-16 07:39 PM  
 
 ```
 12.1│                                                       
@@ -52,6 +52,7 @@ Modified: 2018-05-16 10:36 PM
  User | Title | Points | Tags 
 ---|---|:---:|---
  falconandy | [think about building binaries](think-about-building-binaries) |  | 
+ falconandy | [rank ideas](rank-ideas) | 1 | 
 
 ### Finished
  User | Title | Points | Tags 
