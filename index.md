@@ -2,11 +2,11 @@
 
 Welcome to Agilemarkdown, an open source backlog manager that uses Markdown and Git. To read more about the project visit [agilemarkdown.com](http://agilemarkdown.com)
 
-## backlogs
+## Backlogs
 
 [agilemarkdown-project](agilemarkdown-project.md)
 
-[archive](agile-markdown-project/archive.md)
+[archive](agilemarkdown-project/archive.md)
 
 ## Idea board
 
