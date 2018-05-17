@@ -1,9 +1,9 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-16 07:39 PM  
+Modified: 2018-05-16 07:52 PM  
 
 ```
-12.1│                                                       
+17.6│                                                       
     │                                                 •     
     │                                                 •     
     │                                                • •    
@@ -12,13 +12,13 @@ Modified: 2018-05-16 07:39 PM
     P                                               •   •   
     o                                              •    •   
     i                                              •     •  
-    n                                             •      •  
+    n                                              •     •  
     t                                             •       • 
-    s                                            •        • 
+    s                                             •       • 
     │                                            •         •
-    │                                           •          •
-    │                                          •            
-    │                                         •             
+    │                                            •         •
+    │                                           •           
+    │                                         ••            
     │                                        •              
     │••••••••••••••••••••••••••••••••••••••••               
 0.0 │-----------------------Week----------------------------
@@ -29,15 +29,11 @@ Modified: 2018-05-16 07:39 PM
  User | Excerpt | Story 
 ---|---|---
  falconandy | let me know what you think here. | [embed caddy server](embed-caddy-server) 
- mreider | They shouldn't be (re)generated since a commit "Implemented "Make things generic" Andrey Sokolov 11.... | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) 
  mreider | Ready for testing. There is a chance of some regression. | [stories can be archived](stories-can-be-archived) 
- mreider | You wrote in Upwork chat "let's use quotes if there's more than 1. and it's an AND" I'll change it to... | [tag-stories](tag-stories) 
- mreider | No real experience. But I read the article about it a few days ago. | [think about building binaries](think-about-building-binaries) 
 
 ### Doing
  User | Title | Points | Tags 
 ---|---|:---:|---
- falconandy | [tag-stories](tag-stories) | 5 | 
  falconandy | [stories can be archived](stories-can-be-archived) | 3 | 
  falconandy | [links-should-have-subdirectory](links-should-have-subdirectory) |  | 
 
@@ -46,7 +42,6 @@ Modified: 2018-05-16 07:39 PM
 ---|---|:---:|---
  falconandy | [tags have their own pages](tags-have-their-own-pages) | 3 | 
  falconandy | [embed caddy server](embed-caddy-server) | 5 | server oauth web
- falconandy | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) | 1 | cleanup
 
 ### Unplanned
  User | Title | Points | Tags 
@@ -66,3 +61,5 @@ Modified: 2018-05-16 07:39 PM
  falconandy | [put some placeholders in the story](put-some-placeholders-in-the-story) | 1 | 
  falconandy | [regenerate overview](regenerate-overview) | 3 | 
  falconandy | [outside users can add ideas](outside-users-can-add-ideas) | 3 | 
+ falconandy | [kill Home and sidebar pages](kill-Home-and-sidebar-pages) | 1 | cleanup
+ falconandy | [tag-stories](tag-stories) | 5 | 

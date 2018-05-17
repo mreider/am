@@ -3,9 +3,9 @@ Created: 2018-05-15 10:29 PM
 Modified: 2018-05-15 10:29 PM  
 Tags: cleanup
 Author: Matt Reider  
-Status: Planned  
+Status: finished  
 Assigned: falconandy
-Estimate:  1 
+Estimate:  1
 
 # Kill Home and sidebar pages
 
@@ -19,9 +19,9 @@ Stop generating them and remove them from this repo
 
 ## Comments
 
-  @falconandy sound ok?
+ @falconandy sound ok?
 
-@mreider They shouldn't be (re)generated since a commit "Implemented "Make things generic" Andrey Sokolov 11.05.18 22:24".
-I've removed them. 
+ @mreider They shouldn't be (re)generated since a commit "Implemented "Make things generic" Andrey Sokolov 11.05.18 22:24".
+I've removed them.
 
 ## Attachments
