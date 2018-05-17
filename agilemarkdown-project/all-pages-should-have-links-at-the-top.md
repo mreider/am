@@ -28,6 +28,5 @@ Links will be next to one another
 
 ## Comments
 
-@falconandy and this one too :)
 
 ## Attachments

@@ -1,11 +1,11 @@
 Title: header should go above metadataa  
 Created: 2018-05-17 09:01 PM  
-Modified: 2018-05-17 09:01 PM  
+Modified: 2018-05-17 09:56 PM  
 Tags:   
 Author: Matt Reider  
-Status: unplanned  
+Status: planned  
 Assigned: falconandy  
-Estimate: 1
+Estimate: 1  
 
 # Header should go above metadataa
 
@@ -22,6 +22,5 @@ Put the metadata below the header in the idea.md as well as the idea pages as we
 
 ## Comments
 
-@falconandy here's a new one
 
 ## Attachments

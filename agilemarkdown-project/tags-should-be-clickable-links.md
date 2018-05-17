@@ -1,11 +1,11 @@
 Title: tags should be clickable links  
 Created: 2018-05-17 09:12 PM  
-Modified: 2018-05-17 09:12 PM  
+Modified: 2018-05-17 09:56 PM  
 Tags:   
 Author: Matt Reider  
-Status: unplanned  
-Assigned: falconandy   
-Estimate: 1
+Status: planned  
+Assigned: falconandy  
+Estimate: 1  
 
 # Tags should be clickable links
 
@@ -20,6 +20,5 @@ Any table that has tags in it on project page, ideas page, archive page - those 
 
 ## Comments
 
-@falconandy to be done after you build tag pages
 
 ## Attachments
