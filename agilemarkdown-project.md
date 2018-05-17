@@ -28,7 +28,6 @@ Modified: 2018-05-16 07:52 PM
 ### Clarifications
  User | Excerpt | Story 
 ---|---|---
- falconandy | let me know what you think here. | [embed caddy server](embed-caddy-server) 
  mreider | Ready for testing. There is a chance of some regression. | [stories can be archived](stories-can-be-archived) 
 
 ### Doing
@@ -41,7 +40,6 @@ Modified: 2018-05-16 07:52 PM
  User | Title | Points | Tags 
 ---|---|:---:|---
  falconandy | [tags have their own pages](tags-have-their-own-pages) | 3 | 
- falconandy | [embed caddy server](embed-caddy-server) | 5 | server oauth web
 
 ### Unplanned
  User | Title | Points | Tags 
