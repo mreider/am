@@ -1,22 +1,22 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-17 09:05 PM  
+Modified: 2018-05-17 09:09 PM  
 
 ```
 17.6│                                                       
     │                                                 •     
-    │                                                 •     
+    │                                                 ••    
     │                                                • •    
-    │                                                • •    
+    │                                                •  •   
     │                                               •   •   
-    P                                               •   •   
-    o                                              •    •   
-    i                                              •     •  
-    n                                              •     •  
-    t                                             •       • 
-    s                                             •       • 
-    │                                            •         •
-    │                                            •         •
+    P                                               •    •  
+    o                                              •     •  
+    i                                              •      • 
+    n                                              •      • 
+    t                                             •        •
+    s                                             •         
+    │                                            •          
+    │                                            •          
     │                                           •           
     │                                         ••            
     │                                        •              
@@ -28,7 +28,7 @@ Modified: 2018-05-17 09:05 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| mreider | Ready for testing | [generate index page](agilemarkdown-project/generate-index-page.md) |
+| falconandy | Can you put a horizontal rule to separate the backlogs in the list? (I think `---` is an <hr> in Mar... | [generate index page](agilemarkdown-project/generate-index-page.md) |
 | falconandy | here's a new one | [header should go above metadataa](agilemarkdown-project/header-should-go-above-metadata.md) |
 | mreider | Ready for testing | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) |
 | mreider | Ready for testing. There is a chance of some regression. | [stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
@@ -36,7 +36,6 @@ Modified: 2018-05-17 09:05 PM
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) |  |  |
 | falconandy | [stories can be archived](agilemarkdown-project/stories-can-be-archived.md) | 3 |  |
 | falconandy | [generate index page](agilemarkdown-project/generate-index-page.md) |  |  |
 
@@ -66,3 +65,6 @@ Modified: 2018-05-17 09:05 PM
 | falconandy | [regenerate overview](agilemarkdown-project/regenerate-overview.md) | 3 |  |
 | falconandy | [support for clarification requests](agilemarkdown-project/send-comments-to-users.md) | 3 |  |
 | falconandy | [tag-stories](agilemarkdown-project/tag-stories.md) | 5 |  |
+| falconandy | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) | 1 |  |
+
+[Archived stories](agilemarkdown-project/archive.md)
