@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-16 07:52 PM  
+Modified: 2018-05-16 10:41 PM  
 
 ```
 17.6│                                                       
@@ -28,6 +28,7 @@ Modified: 2018-05-16 07:52 PM
 ### Clarifications
  User | Excerpt | Story 
 ---|---|---
+ falconandy | new bit for you | [generate index page](generate-index-page) 
  mreider | Ready for testing. There is a chance of some regression. | [stories can be archived](stories-can-be-archived) 
 
 ### Doing
@@ -40,6 +41,7 @@ Modified: 2018-05-16 07:52 PM
  User | Title | Points | Tags 
 ---|---|:---:|---
  falconandy | [tags have their own pages](tags-have-their-own-pages) | 3 | 
+  | [generate index page](generate-index-page) |  | 
 
 ### Unplanned
  User | Title | Points | Tags 
