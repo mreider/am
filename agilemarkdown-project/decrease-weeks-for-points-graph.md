@@ -19,3 +19,4 @@ The points graph is too wide to show up nicely on the home page.
 # Comments
 
   @mreider The width is decreased from 84 symbols to 60.
+@falconandy now that I am moving away from Github, you can put it back to 84. Sorry for the busy work.

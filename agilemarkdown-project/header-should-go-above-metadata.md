@@ -17,6 +17,8 @@ followed by the problem statement
 ## Possible solution
 
 We can parse that header line as the title, rather than the title: key
+Put the metadata below the header in the idea.md as well as the idea pages as well as the archive page as well
+
 
 ## Comments
 

@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-17 09:09 PM  
+Modified: 2018-05-17 09:53 PM  
 
 ```
 17.6│                                                       
@@ -28,10 +28,16 @@ Modified: 2018-05-17 09:09 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
+| falconandy | and this one too :) | [all pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) |
+| falconandy | another new bit for you | [archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) |
+| falconandy | now that I am moving away from Github, you can put it back to 84. Sorry for the busy work. | [decrease weeks for points graph](agilemarkdown-project/decrease-weeks-for-points-graph.md) |
 | falconandy | Can you put a horizontal rule to separate the backlogs in the list? (I think `---` is an <hr> in Mar... | [generate index page](agilemarkdown-project/generate-index-page.md) |
 | falconandy | here's a new one | [header should go above metadataa](agilemarkdown-project/header-should-go-above-metadata.md) |
 | mreider | Ready for testing | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) |
+| falconandy | sorry, can you also add a header to this page # Ideas | [outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) |
+| falconandy | another bit for you | [pivotal import should support tags](agilemarkdown-project/pivotal-import-should-support-tags.md) |
 | mreider | Ready for testing. There is a chance of some regression. | [stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
+| falconandy | to be done after you build tag pages | [tags should be clickable links](agilemarkdown-project/tags-should-be-clickable-links.md) |
 
 ### Doing
 | User | Title | Points | Tags |
@@ -43,6 +49,9 @@ Modified: 2018-05-17 09:09 PM
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
+| falconandy | [all pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
+| falconandy | [archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
+| falconandy | [pivotal import should support tags](agilemarkdown-project/pivotal-import-should-support-tags.md) | 2 |  |
 
 ### Unplanned
 | User | Title | Points | Tags |
@@ -50,6 +59,8 @@ Modified: 2018-05-17 09:09 PM
 | falconandy | [rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
 | falconandy | [think about building binaries](agilemarkdown-project/think-about-building-binaries.md) |  |  |
 | falconandy | [header should go above metadataa](agilemarkdown-project/header-should-go-above-metadata.md) | 1 |  |
+| falconandy | [improve change status command](agilemarkdown-project/improve-change-status-command.md) | 2 |  |
+| falconandy | [tags should be clickable links](agilemarkdown-project/tags-should-be-clickable-links.md) | 1 |  |
 
 ### Finished
 | User | Title | Points | Tags |
@@ -66,5 +77,4 @@ Modified: 2018-05-17 09:09 PM
 | falconandy | [support for clarification requests](agilemarkdown-project/send-comments-to-users.md) | 3 |  |
 | falconandy | [tag-stories](agilemarkdown-project/tag-stories.md) | 5 |  |
 | falconandy | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) | 1 |  |
-
-[Archived stories](agilemarkdown-project/archive.md)
+| falconandy | [test-for-archive](agilemarkdown-project/test-for-archive.md) | 2 |  |
