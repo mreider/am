@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-17 04:13 PM  
+Modified: 2018-05-17 04:17 PM  
 
 ```
 17.6│                                                       
@@ -49,6 +49,7 @@ Modified: 2018-05-17 04:13 PM
 | falconandy | [rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
 | falconandy | [tags should be clickable links](agilemarkdown-project/tags-should-be-clickable-links.md) | 1 |  |
 | falconandy | [version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |  |  |
+| falconandy | [make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
 
 ### Unplanned
 | User | Title | Points | Tags |
