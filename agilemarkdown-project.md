@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-17 11:16 PM  
+Modified: 2018-05-17 09:05 PM  
 
 ```
 17.6│                                                       
@@ -29,6 +29,7 @@ Modified: 2018-05-17 11:16 PM
 | User | Excerpt | Story |
 |---|---|---|
 | mreider | Ready for testing | [generate index page](agilemarkdown-project/generate-index-page.md) |
+| falconandy | here's a new one | [header should go above metadataa](agilemarkdown-project/header-should-go-above-metadata.md) |
 | mreider | Ready for testing | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) |
 | mreider | Ready for testing. There is a chance of some regression. | [stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
 
@@ -49,6 +50,7 @@ Modified: 2018-05-17 11:16 PM
 |---|---|:---:|---|
 | falconandy | [rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
 | falconandy | [think about building binaries](agilemarkdown-project/think-about-building-binaries.md) |  |  |
+| falconandy | [header should go above metadataa](agilemarkdown-project/header-should-go-above-metadata.md) | 1 |  |
 
 ### Finished
 | User | Title | Points | Tags |
