@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-17 10:23 PM  
+Modified: 2018-05-17 11:16 PM  
 
 ```
 17.6│                                                       
@@ -28,6 +28,7 @@ Modified: 2018-05-17 10:23 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
+| mreider | Ready for testing | [generate index page](agilemarkdown-project/generate-index-page.md) |
 | mreider | Ready for testing | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) |
 | mreider | Ready for testing. There is a chance of some regression. | [stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
 
