@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-17 08:25 PM  
+Modified: 2018-05-17 10:23 PM  
 
 ```
 17.6│                                                       
@@ -28,7 +28,6 @@ Modified: 2018-05-17 08:25 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| falconandy | new bit for you | [generate index page](agilemarkdown-project/generate-index-page.md) |
 | mreider | Ready for testing | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) |
 | mreider | Ready for testing. There is a chance of some regression. | [stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
 
@@ -37,11 +36,11 @@ Modified: 2018-05-17 08:25 PM
 |---|---|:---:|---|
 | falconandy | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) |  |  |
 | falconandy | [stories can be archived](agilemarkdown-project/stories-can-be-archived.md) | 3 |  |
+| falconandy | [generate index page](agilemarkdown-project/generate-index-page.md) |  |  |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-|  | [generate index page](agilemarkdown-project/generate-index-page.md) |  |  |
 | falconandy | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
 
 ### Unplanned
