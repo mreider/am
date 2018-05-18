@@ -1,11 +1,7 @@
-
-Created: 2018-05-18 11:07 PM  
-Modified: 2018-05-18 11:07 PM  
-
 # Agilemarkdown-project
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-18 10:29 PM  
+Modified: 2018-05-18 11:23 PM  
 
 ```
 17.6│                                                                               
@@ -33,6 +29,7 @@ Modified: 2018-05-18 10:29 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
+| falconandy | it looks like we're generating dates twice on the product page? Once above the tile, and once below? | [Header should go above metadata](agilemarkdown-project/header-should-go-above-metadata.md) |
 | falconandy | yes, sounds great. | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 | falconandy | no | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 | falconandy | ok, my mistake. too complicated. Let's have them appear in order of modified? Is that ok? | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
