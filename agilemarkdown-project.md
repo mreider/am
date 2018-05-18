@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-18 08:47 PM  
+Modified: 2018-05-18 09:12 PM  
 
 ```
 17.6│                                                                               
@@ -28,6 +28,9 @@ Modified: 2018-05-18 08:47 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
+| mreider | Should the list be grouped by story status? | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
+| mreider | Should the list show archived stories? | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
+| mreider | Is "the reorganizing" the second way to change story priority? How it should work together if storie... | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 
 ### Doing
 | User | Title | Points | Tags |
