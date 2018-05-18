@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-18 08:46 PM  
+Modified: 2018-05-18 08:47 PM  
 
 ```
 17.6│                                                                               
@@ -33,11 +33,11 @@ Modified: 2018-05-18 08:46 PM
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [generate index page](agilemarkdown-project/generate-index-page.md) |  |  |
+| falconandy | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
 | falconandy | [all pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
 | falconandy | [archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | falconandy | [header should go above metadataa](agilemarkdown-project/header-should-go-above-metadata.md) | 1 |  |
