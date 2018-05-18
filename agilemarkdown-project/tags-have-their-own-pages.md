@@ -29,15 +29,16 @@ MARKDOWN TABLE
 
 ```
 
-Just like the project page - we want to be able to reorganize the list of these stories and preserve that order.
-
 Go ahead and regenerate this page with every sync, so we can avoid problems like the overview page has.
 
 
 ## Comments
 
-@mreider Should the list be grouped by story status?
+ @mreider Should the list be grouped by story status?
+@falconandy yes, sounds great.
 
-@mreider Should the list show archived stories?
+ @mreider Should the list show archived stories?
+@falconandy no
 
-@mreider Is "the reorganizing" the second way to change story priority? How it should work together if stories order is changed both in overview and tags pages? 
+ @mreider Is "the reorganizing" the second way to change story priority? How it should work together if stories order is changed both in overview and tags pages? 
+@falconandy ok, my mistake. too complicated. Let's have them appear in order of modified? Is that ok?
