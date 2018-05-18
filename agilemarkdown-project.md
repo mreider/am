@@ -1,6 +1,6 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-18 08:40 PM  
+Modified: 2018-05-18 08:46 PM  
 
 ```
 17.6│                                                                               
@@ -28,7 +28,6 @@ Modified: 2018-05-18 08:40 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| falconandy | sorry, can you also add a header to this page # Ideas | [outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) |
 
 ### Doing
 | User | Title | Points | Tags |
