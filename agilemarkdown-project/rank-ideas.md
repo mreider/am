@@ -1,4 +1,5 @@
-Title: rank ideas  
+# Rank ideas
+
 Created: 2018-05-16 07:33 PM  
 Modified: 2018-05-17 09:56 PM  
 Tags:   
@@ -6,8 +7,6 @@ Author: mreider
 Status: planned  
 Assigned: falconandy  
 Estimate: 1  
-
-# Rank ideas
 
 ## Problem statement
 

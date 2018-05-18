@@ -1,12 +1,11 @@
-Title: support for clarification requests  
+# Support for clarification requests
+  
 Created: 2018-05-03 03:32 PM  
 Modified: 2018-05-08 09:18 PM  
 Author: mreider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
-
-# Support for clarification requests
 
 ## Problem statement
 

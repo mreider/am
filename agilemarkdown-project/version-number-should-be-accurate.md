@@ -1,4 +1,5 @@
-Title: version number should be accurate  
+# Version number should be accurate
+
 Created: 2018-05-17 09:57 PM  
 Modified: 2018-05-17 09:57 PM  
 Tags:   
@@ -6,8 +7,6 @@ Author: Matt Reider
 Status: planned
 Assigned: falconandy
 Estimate:   
-
-# Version number should be accurate
 
 ## Problem statement
 

@@ -1,13 +1,12 @@
-Title: header should go above metadataa  
+# Header should go above metadata
+
 Created: 2018-05-17 09:01 PM  
-Modified: 2018-05-17 09:56 PM  
+Modified: 2018-05-18 09:19 PM  
 Tags:   
 Author: Matt Reider  
-Status: planned  
+Status: doing  
 Assigned: falconandy  
 Estimate: 1  
-
-# Header should go above metadataa
 
 ## Problem statement
 

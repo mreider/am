@@ -1,4 +1,5 @@
-Title: pivotal import should support tags  
+# Pivotal import should support tags
+
 Created: 2018-05-17 09:19 PM  
 Modified: 2018-05-17 09:19 PM  
 Tags:   
@@ -6,8 +7,6 @@ Author: Matt Reider
 Status: planned  
 Assigned: falconandy
 Estimate: 2
-
-# Pivotal import should support tags
 
 ## Problem statement
 

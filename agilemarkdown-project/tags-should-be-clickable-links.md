@@ -1,4 +1,5 @@
-Title: tags should be clickable links  
+# Tags should be clickable links
+
 Created: 2018-05-17 09:12 PM  
 Modified: 2018-05-17 09:56 PM  
 Tags:   
@@ -6,8 +7,6 @@ Author: Matt Reider
 Status: planned  
 Assigned: falconandy  
 Estimate: 1  
-
-# Tags should be clickable links
 
 ## Problem statement
 

@@ -1,12 +1,11 @@
-Title: outside users can add ideas  
+# Outside users can add ideas
+
 Created: 2018-05-10 11:14 AM  
 Modified: 2018-05-14 08:51 PM  
 Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
-
-# Outside users can add ideas
 
 ## Problem statement
 

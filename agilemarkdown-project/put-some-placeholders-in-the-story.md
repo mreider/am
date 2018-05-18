@@ -1,12 +1,11 @@
-Title: put some placeholders in the story  
+# Put some placeholders in the story
+
 Created: 2018-05-02 06:07 PM  
 Modified: 2018-05-11 08:59 PM  
 Author: mreider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
-
-# Put some placeholders in the story
 
 ## Problem statement
 

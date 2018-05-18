@@ -1,12 +1,11 @@
-Title: tag-stories  
+# Tag stories
+
 Created: 2018-05-02 02:16 PM  
 Modified: 2018-05-11 10:27 PM  
 Author: mreider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 5  
-
-# Tag stories
 
 ## Problem statement
 

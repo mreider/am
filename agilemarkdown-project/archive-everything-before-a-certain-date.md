@@ -1,4 +1,5 @@
-Title: archive everything before a certain date  
+# Archive everything before a certain date
+
 Created: 2018-05-17 09:21 PM  
 Modified: 2018-05-17 09:21 PM  
 Tags:   
@@ -6,8 +7,6 @@ Author: Matt Reider
 Status: planned  
 Assigned: falconandy
 Estimate: 2
-
-# Archive everything before a certain date
 
 ## Problem statement
 

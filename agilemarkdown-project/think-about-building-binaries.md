@@ -1,4 +1,5 @@
-Title: think about building binaries  
+# Think about building binaries
+
 Created: 2018-05-15 10:41 PM  
 Modified: 2018-05-15 10:41 PM  
 Tags:   
@@ -6,8 +7,6 @@ Author: Matt Reider
 Status: unplanned  
 Assigned: falconandy
 Estimate:   
-
-# Think about building binaries
 
 ## Problem statement
 

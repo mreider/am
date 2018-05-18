@@ -1,4 +1,5 @@
-Title: make sure to create ideas and archive  
+# Make sure to create ideas and archive
+
 Created: 2018-05-17 04:15 PM  
 Modified: 2018-05-17 04:15 PM  
 Tags:   
@@ -6,8 +7,6 @@ Author: Matt Reider
 Status: planned  
 Assigned: falconandy   
 Estimate: 1
-
-# Make sure to create ideas and archive
 
 ## Problem statement
 

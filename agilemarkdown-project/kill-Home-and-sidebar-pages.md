@@ -1,4 +1,5 @@
-Title: kill Home and sidebar pages  
+# Kill Home and sidebar pages
+
 Created: 2018-05-15 10:29 PM  
 Modified: 2018-05-15 10:29 PM  
 Tags: cleanup
@@ -6,8 +7,6 @@ Author: Matt Reider
 Status: finished  
 Assigned: falconandy
 Estimate:  1
-
-# Kill Home and sidebar pages
 
 ## Problem statement
 

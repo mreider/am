@@ -1,12 +1,11 @@
-Title: prioritize_stories  
+# Prioritize stories  
+
 Created: 2018-05-02 11:44 AM  
 Modified: 2018-05-04 08:46 PM  
 Author: mreider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
-
-# Prioritize stories  
 
 ## Problem statement
 

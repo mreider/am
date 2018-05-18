@@ -1,4 +1,5 @@
-Title: improve change status command  
+# Improve change status command
+
 Created: 2018-05-17 09:23 PM  
 Modified: 2018-05-17 09:56 PM  
 Tags:   
@@ -6,8 +7,6 @@ Author: Matt Reider
 Status: planned  
 Assigned: falconandy  
 Estimate: 2  
-
-# Improve change status command
 
 ## Problem statement
 

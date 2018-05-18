@@ -1,12 +1,11 @@
-Title: links-should-have-subdirectory  
+# Links-should-have-subdirectory
+
 Created: 2018-05-13 10:06 PM  
 Modified: 2018-05-16 10:36 PM  
 Author: Matt Reider  
 Status: finished 
 Assigned: falconandy  
 Estimate: 1
-
-# Links-should-have-subdirectory
 
 ## Problem statement
 

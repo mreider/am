@@ -1,12 +1,11 @@
-Title: make-things-generic.md  
+# Make things generic
+
 Created: 2018-05-10 11:07 AM  
 Modified: 2018-05-12 04:08 PM  
 Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
-
-# Make things generic
 
 ## Problem Overview
 
