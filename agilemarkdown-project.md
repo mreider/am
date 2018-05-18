@@ -1,34 +1,33 @@
 Title: agilemarkdown-project  
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-17 04:17 PM  
+Modified: 2018-05-18 08:33 PM  
 
 ```
-17.6│                                                       
-    │                                                 •     
-    │                                                 ••    
-    │                                                •  •   
-    │                                                •  •   
-    │                                               •    •  
-    P                                               •     • 
-    o                                              •       •
-    i                                              •        
-    n                                              •        
-    t                                             •         
-    s                                             •         
-    │                                            •          
-    │                                            •          
-    │                                           •           
-    │                                         ••            
-    │                                        •              
-    │••••••••••••••••••••••••••••••••••••••••               
-0.0 │-----------------------Week----------------------------
-     -11.0                                               0.0
+17.6│                                                                               
+    │                                                                      •        
+    │                                                                     • ••      
+    │                                                                     •   •     
+    │                                                                    •     •    
+    │                                                                    •      ••  
+    P                                                                   •         • 
+    o                                                                  •           •
+    i                                                                  •            
+    n                                                                 •             
+    t                                                                 •             
+    s                                                                •              
+    │                                                                •              
+    │                                                               •               
+    │                                                             ••                
+    │                                                           ••                  
+    │                                                         ••                    
+    │•••••••••••••••••••••••••••••••••••••••••••••••••••••••••                      
+0.0 │-----------------------------------Week----------------------------------------
+     -11.0                                                                       0.0
 
 ```
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| falconandy | now that I am moving away from Github, you can put it back to 84. Sorry for the busy work. | [decrease weeks for points graph](agilemarkdown-project/decrease-weeks-for-points-graph.md) |
 | falconandy | Can you put a horizontal rule to separate the backlogs in the list? (I think `---` is an <hr> in Mar... | [generate index page](agilemarkdown-project/generate-index-page.md) |
 | falconandy | sorry, can you also add a header to this page # Ideas | [outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) |
 
