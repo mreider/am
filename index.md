@@ -4,7 +4,7 @@ Welcome to Agilemarkdown, an open source backlog manager that uses Markdown and 
 
 ## backlogs
 
-[Agilemarkdown-project](agilemarkdown-project.md)
+[](agilemarkdown-project.md)
 
 [archive](agilemarkdown-project/archive.md)
 
