@@ -1,7 +1,7 @@
 # Agilemarkdown-project
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-18 11:24 PM  
+Modified: 2018-05-18 11:32 PM  
 
 ```
 17.6│                                                                               
@@ -29,7 +29,6 @@ Modified: 2018-05-18 11:24 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| falconandy | it looks like we're generating dates twice on the product page? Once above the tile, and once below? | [Header should go above metadata](agilemarkdown-project/header-should-go-above-metadata.md) |
 | falconandy | yes, sounds great. | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 | falconandy | test | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 | falconandy | no | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |

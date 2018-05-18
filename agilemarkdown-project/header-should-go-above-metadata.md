@@ -21,6 +21,5 @@ Put the metadata below the header in the idea.md as well as the idea pages as we
 
 ## Comments
  @mreider Ready for testing 
-@falconandy it looks like we're generating dates twice on the product page? Once above the tile, and once below?
 
 ## Attachments
