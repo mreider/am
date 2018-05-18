@@ -1,7 +1,7 @@
 # Agilemarkdown-project
-  
+
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-18 09:12 PM  
+Modified: 2018-05-18 10:29 PM  
 
 ```
 17.6│                                                                               
@@ -29,48 +29,49 @@ Modified: 2018-05-18 09:12 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| mreider | Should the list be grouped by story status? | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
-| mreider | Should the list show archived stories? | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
-| mreider | Is "the reorganizing" the second way to change story priority? How it should work together if storie... | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
+| mreider | Ready for testing | [Header should go above metadata](agilemarkdown-project/header-should-go-above-metadata.md) |
+| mreider | Should the list be grouped by story status? | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
+| mreider | Should the list show archived stories? | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
+| mreider | Is "the reorganizing" the second way to change story priority? How it should work together if storie... | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [generate index page](agilemarkdown-project/generate-index-page.md) |  |  |
-| falconandy | [tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
+| falconandy | [Generate index page](agilemarkdown-project/generate-index-page.md) |  |  |
+| falconandy | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
+| falconandy | [Header should go above metadata](agilemarkdown-project/header-should-go-above-metadata.md) | 1 |  |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [all pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
-| falconandy | [archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
-| falconandy | [header should go above metadataa](agilemarkdown-project/header-should-go-above-metadata.md) | 1 |  |
-| falconandy | [improve change status command](agilemarkdown-project/improve-change-status-command.md) | 2 |  |
-| falconandy | [pivotal import should support tags](agilemarkdown-project/pivotal-import-should-support-tags.md) | 2 |  |
-| falconandy | [rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
-| falconandy | [tags should be clickable links](agilemarkdown-project/tags-should-be-clickable-links.md) | 1 |  |
-| falconandy | [version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |  |  |
-| falconandy | [make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
+| falconandy | [All pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
+| falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
+| falconandy | [Improve change status command](agilemarkdown-project/improve-change-status-command.md) | 2 |  |
+| falconandy | [Pivotal import should support tags](agilemarkdown-project/pivotal-import-should-support-tags.md) | 2 |  |
+| falconandy | [Rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
+| falconandy | [Tags should be clickable links](agilemarkdown-project/tags-should-be-clickable-links.md) | 1 |  |
+| falconandy | [Version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |  |  |
+| falconandy | [Make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
 
 ### Unplanned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [think about building binaries](agilemarkdown-project/think-about-building-binaries.md) |  |  |
+| falconandy | [Think about building binaries](agilemarkdown-project/think-about-building-binaries.md) |  |  |
 
 ### Finished
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [decrease weeks for points graph](agilemarkdown-project/decrease-weeks-for-points-graph.md) | 1 |  |
-| falconandy | [overview page needs unique names](agilemarkdown-project/overview-page-needs-unique-names.md) | 1 |  |
-| falconandy | [pivotal-tracker-import](agilemarkdown-project/pivotal-tracker-import.md) | 2 |  |
-| falconandy | [prioritize_stories](agilemarkdown-project/prioritize-stories.md) | 3 |  |
-| falconandy | [support for clarification requests](agilemarkdown-project/send-comments-to-users.md) | 3 |  |
-| falconandy | [put some placeholders in the story](agilemarkdown-project/put-some-placeholders-in-the-story.md) | 1 |  |
-| falconandy | [regenerate overview](agilemarkdown-project/regenerate-overview.md) | 3 |  |
-| falconandy | [outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) | 3 |  |
-| falconandy | [kill Home and sidebar pages](agilemarkdown-project/kill-Home-and-sidebar-pages.md) | 1 | cleanup |
-| falconandy | [tag-stories](agilemarkdown-project/tag-stories.md) | 5 |  |
-| falconandy | [make-things-generic.md](agilemarkdown-project/make-things-generic.md.md) | 1 |  |
-| falconandy | [links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) | 1 |  |
-| falconandy | [stories can be archived](agilemarkdown-project/stories-can-be-archived.md) | 3 |  |
-| falconandy | [test-for-archive](agilemarkdown-project/test-for-archive.md) | 2 |  |
+| falconandy | [Decrease weeks for points graph](agilemarkdown-project/decrease-weeks-for-points-graph.md) | 1 |  |
+| falconandy | [Overview page needs unique names](agilemarkdown-project/overview-page-needs-unique-names.md) | 1 |  |
+| falconandy | [Pivotal-tracker-import](agilemarkdown-project/pivotal-tracker-import.md) | 2 |  |
+| falconandy | [Prioritize stories](agilemarkdown-project/prioritize-stories.md) | 3 |  |
+| falconandy | [Support for clarification requests](agilemarkdown-project/send-comments-to-users.md) | 3 |  |
+| falconandy | [Put some placeholders in the story](agilemarkdown-project/put-some-placeholders-in-the-story.md) | 1 |  |
+| falconandy | [Regenerate overview](agilemarkdown-project/regenerate-overview.md) | 3 |  |
+| falconandy | [Outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) | 3 |  |
+| falconandy | [Kill Home and sidebar pages](agilemarkdown-project/kill-Home-and-sidebar-pages.md) | 1 | cleanup |
+| falconandy | [Tag stories](agilemarkdown-project/tag-stories.md) | 5 |  |
+| falconandy | [Make things generic](agilemarkdown-project/make-things-generic.md.md) | 1 |  |
+| falconandy | [Links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) | 1 |  |
+| falconandy | [Stories can be archived](agilemarkdown-project/stories-can-be-archived.md) | 3 |  |
+| falconandy | [Test-for-archive](agilemarkdown-project/test-for-archive.md) | 2 |  |
