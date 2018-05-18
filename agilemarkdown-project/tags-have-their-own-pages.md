@@ -36,6 +36,7 @@ Go ahead and regenerate this page with every sync, so we can avoid problems like
 
  @mreider Should the list be grouped by story status?
 @falconandy yes, sounds great.
+@falconandy test
 
  @mreider Should the list show archived stories?
 @falconandy no
