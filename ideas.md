@@ -1,3 +1,5 @@
+# Ideas
+
 | Author | Idea | Tags |
 |---|---|---|
-| Matt Reider | [Some things](ideas/some-things.md) |  |
+| Matt Reider | [](ideas/some-things.md) |  |
