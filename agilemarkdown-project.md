@@ -1,6 +1,4 @@
 
-Created: 2018-05-18 10:37 PM  
-Modified: 2018-05-18 10:50 PM  
 # Agilemarkdown-project
 
 Created: 2018-05-02 10:25 AM  
