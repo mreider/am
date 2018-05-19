@@ -35,11 +35,12 @@ Go ahead and regenerate this page with every sync, so we can avoid problems like
 ## Comments
 
  @mreider Should the list be grouped by story status?
-@falconandy yes, sounds great.
-@falconandy test
+ @falconandy yes, sounds great.
+ @falconandy test
 
  @mreider Should the list show archived stories?
-@falconandy no
+ @falconandy no
 
  @mreider Is "the reorganizing" the second way to change story priority? How it should work together if stories order is changed both in overview and tags pages? 
-@falconandy ok, my mistake. too complicated. Let's have them appear in order of modified? Is that ok?
+ @falconandy ok, my mistake. too complicated. Let's have them appear in order of modified? Is that ok?
+@mreider Ok. Small detail - Ascending or Descending?

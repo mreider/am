@@ -1,7 +1,7 @@
 # Agilemarkdown-project
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-18 11:32 PM  
+Modified: 2018-05-19 05:39 PM  
 
 ```
 17.6│                                                                               
@@ -29,10 +29,7 @@ Modified: 2018-05-18 11:32 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| falconandy | yes, sounds great. | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
-| falconandy | test | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
-| falconandy | no | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
-| falconandy | ok, my mistake. too complicated. Let's have them appear in order of modified? Is that ok? | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
+| mreider | Ok. Small detail - Ascending or Descending? | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 
 ### Doing
 | User | Title | Points | Tags |
