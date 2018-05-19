@@ -43,4 +43,6 @@ Go ahead and regenerate this page with every sync, so we can avoid problems like
 
  @mreider Is "the reorganizing" the second way to change story priority? How it should work together if stories order is changed both in overview and tags pages? 
  @falconandy ok, my mistake. too complicated. Let's have them appear in order of modified? Is that ok?
-@mreider Ok. Small detail - Ascending or Descending?
+ @mreider Ok. Small detail - Ascending or Descending?
+ 
+@falconandy descending
