@@ -1,12 +1,14 @@
 # Make sure to create ideas and archive
 
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+
 Created: 2018-05-17 04:15 PM  
-Modified: 2018-05-17 04:15 PM  
+Modified: 2018-05-20 08:03 PM  
 Tags:   
 Author: Matt Reider  
 Status: planned  
-Assigned: falconandy   
-Estimate: 1
+Assigned: falconandy  
+Estimate: 1  
 
 ## Problem statement
 

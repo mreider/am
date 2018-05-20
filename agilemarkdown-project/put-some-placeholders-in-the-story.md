@@ -1,7 +1,9 @@
 # Put some placeholders in the story
 
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+
 Created: 2018-05-02 06:07 PM  
-Modified: 2018-05-11 08:59 PM  
+Modified: 2018-05-20 08:02 PM  
 Author: mreider  
 Status: finished  
 Assigned: falconandy  

@@ -1,27 +1,29 @@
 # Agilemarkdown-project
 
+[archive](agilemarkdown-project/archive.md) [index](index.md) [ideas](ideas.md) [tags](tags.md)
+
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-20 02:49 PM  
+Modified: 2018-05-20 08:03 PM  
 
 ```
-17.6│                                                                               
+30.8│                                                                               
+    │                                                                              •
+    │                                                                             • 
+    │                                                                             • 
+    │                                                                            •  
+    │                                                                            •  
+    P                                                                           •   
+    o                                                                           •   
+    i                                                                          •    
+    n                                                                          •    
+    t                                                                         •     
+    s                                                                         •     
+    │                                                                        •      
+    │                                                                        •      
+    │                                                                       •       
+    │                                                                       •       
     │                                                                      •        
-    │                                                                     • •       
-    │                                                                     •  •      
-    │                                                                    •    •     
-    │                                                                    •     •    
-    P                                                                   •       •   
-    o                                                                  •         •  
-    i                                                                  •          • 
-    n                                                                 •            •
-    t                                                                 •             
-    s                                                                •              
-    │                                                                •              
-    │                                                               •               
-    │                                                             ••                
-    │                                                           ••                  
-    │                                                         ••                    
-    │•••••••••••••••••••••••••••••••••••••••••••••••••••••••••                      
+    │•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••        
 0.0 │-----------------------------------Week----------------------------------------
      -11.0                                                                       0.0
 
@@ -43,11 +45,11 @@ Modified: 2018-05-20 02:49 PM
 |---|---|:---:|---|
 | falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | falconandy | [Improve change status command](agilemarkdown-project/improve-change-status-command.md) | 2 |  |
-| falconandy | [Make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
 | falconandy | [Pivotal import should support tags](agilemarkdown-project/pivotal-import-should-support-tags.md) | 2 |  |
 | falconandy | [Rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
 | falconandy | [Tags should be clickable links](agilemarkdown-project/tags-should-be-clickable-links.md) | 1 |  |
 | falconandy | [Version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |  |  |
+| falconandy | [Make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
 
 ### Unplanned
 | User | Title | Points | Tags |

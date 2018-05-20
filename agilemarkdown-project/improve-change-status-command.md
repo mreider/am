@@ -1,7 +1,9 @@
 # Improve change status command
 
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+
 Created: 2018-05-17 09:23 PM  
-Modified: 2018-05-17 09:56 PM  
+Modified: 2018-05-20 08:02 PM  
 Tags:   
 Author: Matt Reider  
 Status: planned  

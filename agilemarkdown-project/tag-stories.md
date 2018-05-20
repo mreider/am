@@ -1,7 +1,9 @@
 # Tag stories
 
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+
 Created: 2018-05-02 02:16 PM  
-Modified: 2018-05-11 10:27 PM  
+Modified: 2018-05-20 08:02 PM  
 Author: mreider  
 Status: finished  
 Assigned: falconandy  

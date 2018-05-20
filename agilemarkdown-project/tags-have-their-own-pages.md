@@ -1,7 +1,9 @@
 # Tags have their own pages
 
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+
 Created: 2018-05-10 11:31 AM  
-Modified: 2018-05-18 08:46 PM  
+Modified: 2018-05-20 08:02 PM  
 Author: Matt Reider  
 Status: doing  
 Assigned: falconandy  

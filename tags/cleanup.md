@@ -1,5 +1,7 @@
 # Tag: cleanup  
   
+[index](../index.md) [ideas](../ideas.md) [tags](../tags.md)  
+  
 ## Finished  
 | User | Project | Title | Points | Tags |  
 |---|---|---|:---:|---|  

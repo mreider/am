@@ -1,7 +1,9 @@
-# Decrease weeks for points graph  
+# Decrease weeks for points graph
+
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
 
 Created: 2018-05-02 05:55 PM  
-Modified: 2018-05-12 04:06 PM  
+Modified: 2018-05-20 08:02 PM  
 Author: mreider  
 Status: finished  
 Assigned: falconandy  
