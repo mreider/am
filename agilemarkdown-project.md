@@ -1,7 +1,7 @@
 # Agilemarkdown-project
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-19 05:39 PM  
+Modified: 2018-05-20 02:39 PM  
 
 ```
 17.6│                                                                               
@@ -29,7 +29,6 @@ Modified: 2018-05-19 05:39 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| mreider | Ok. Small detail - Ascending or Descending? | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 
 ### Doing
 | User | Title | Points | Tags |
