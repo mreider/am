@@ -1,12 +1,12 @@
 # All pages should have links at the top
 
 Created: 2018-05-17 09:49 PM  
-Modified: 2018-05-17 09:49 PM  
+Modified: 2018-05-20 02:49 PM  
 Tags:   
 Author: Matt Reider  
-Status: planned
-Assigned: falconandy 
-Estimate: 1
+Status: doing  
+Assigned: falconandy  
+Estimate: 1  
 
 ## Problem statement
 

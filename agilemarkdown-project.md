@@ -1,7 +1,7 @@
 # Agilemarkdown-project
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-20 02:39 PM  
+Modified: 2018-05-20 02:49 PM  
 
 ```
 17.6│                                                                               
@@ -36,11 +36,11 @@ Modified: 2018-05-20 02:39 PM
 | falconandy | [Generate index page](agilemarkdown-project/generate-index-page.md) |  |  |
 | falconandy | [Header should go above metadata](agilemarkdown-project/header-should-go-above-metadata.md) | 1 |  |
 | falconandy | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
+| falconandy | [All pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [All pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
 | falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | falconandy | [Improve change status command](agilemarkdown-project/improve-change-status-command.md) | 2 |  |
 | falconandy | [Make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
