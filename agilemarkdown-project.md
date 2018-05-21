@@ -31,10 +31,6 @@ Modified: 2018-05-18 10:29 PM
 ### Clarifications
  User | Excerpt | Story 
 ---|---|---
- mreider | Ready for testing | [](header-should-go-above-metadata) 
- mreider | Should the list be grouped by story status? | [](tags-have-their-own-pages) 
- mreider | Should the list show archived stories? | [](tags-have-their-own-pages) 
- mreider | Is "the reorganizing" the second way to change story priority? How it should work together if storie... | [](tags-have-their-own-pages) 
 
 ### Doing
  User | Title | Points | Tags 
