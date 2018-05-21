@@ -1,11 +1,13 @@
 # Links-should-have-subdirectory
 
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+
 Created: 2018-05-13 10:06 PM  
-Modified: 2018-05-16 10:36 PM  
+Modified: 2018-05-20 08:02 PM  
 Author: Matt Reider  
-Status: finished 
+Status: finished  
 Assigned: falconandy  
-Estimate: 1
+Estimate: 1  
 
 ## Problem statement
 

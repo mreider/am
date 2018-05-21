@@ -1,12 +1,14 @@
 # Kill Home and sidebar pages
 
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+
 Created: 2018-05-15 10:29 PM  
-Modified: 2018-05-15 10:29 PM  
-Tags: cleanup
+Modified: 2018-05-20 08:02 PM  
+Tags: cleanup  
 Author: Matt Reider  
 Status: finished  
-Assigned: falconandy
-Estimate:  1
+Assigned: falconandy  
+Estimate: 1  
 
 ## Problem statement
 

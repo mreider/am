@@ -11,3 +11,7 @@ Welcome to Agilemarkdown, an open source backlog manager that uses Markdown and 
 ## Idea board
 
 [idea board](ideas.md)
+
+## Tags
+
+[tags](tags.md)

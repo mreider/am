@@ -1,10 +1,12 @@
 # Header should go above metadata
 
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+
 Created: 2018-05-17 09:01 PM  
-Modified: 2018-05-18 09:19 PM  
+Modified: 2018-05-20 08:02 PM  
 Tags:   
 Author: Matt Reider  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 1  
 
@@ -20,6 +22,6 @@ Put the metadata below the header in the idea.md as well as the idea pages as we
 
 
 ## Comments
-@mreider Ready for testing 
+ @mreider Ready for testing 
 
 ## Attachments

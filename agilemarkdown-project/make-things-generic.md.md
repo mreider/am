@@ -1,7 +1,9 @@
 # Make things generic
 
+[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+
 Created: 2018-05-10 11:07 AM  
-Modified: 2018-05-12 04:08 PM  
+Modified: 2018-05-20 08:02 PM  
 Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
