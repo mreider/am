@@ -8,10 +8,15 @@ Welcome to Agilemarkdown, an open source backlog manager that uses Markdown and 
 
 [archive](agilemarkdown-project/archive.md)
 
+---
+
+[Tags](tags.md)
+
+[archive](tags/archive.md)
+
 ## Idea board
 
 [idea board](ideas.md)
 
 ## Tags
-
 [tags](tags.md)
