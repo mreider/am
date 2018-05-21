@@ -1,5 +1,3 @@
-# Ideas
-
-| Author | Idea | Tags |
-|---|---|---|
-| Matt Reider | [Some things](ideas/some-things.md) | cleanup |
+ Author | Idea | Tags 
+---|---|---
+ Matt Reider | [Some things](some-things) | 
