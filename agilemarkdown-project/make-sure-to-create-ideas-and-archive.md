@@ -1,9 +1,9 @@
 # Make sure to create ideas and archive
 
-[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+[home](../index.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md) || [idea list](../ideas.md) || [tag list](../tags.md)
 
 Created: 2018-05-22 04:10 PM  
-Modified: 2018-05-22 04:10 PM  
+Modified: 2018-05-22 04:22 PM  
 [home](../index.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md) || [idea list](../ideas.md) || [tag list](../tags.md)
 
 Created: 2018-05-17 04:15 PM  

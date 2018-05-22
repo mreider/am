@@ -1,6 +1,6 @@
 # Ideas
 
-[index](index.md) [tags](tags.md)
+[home](index.md) || [tag list](tags.md)
 
 | Author | Idea | Tags |
 |---|---|---|
