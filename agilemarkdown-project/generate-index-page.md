@@ -8,7 +8,7 @@ Tags:
 Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
-Estimate:  2 
+Estimate:  2
 
 ## Problem statement
 
@@ -25,5 +25,7 @@ Look at the current index page and re-generate the backlogs section every time. 
  @mreider Ready for testing
 
  @falconandy Can you put a horizontal rule to separate the backlogs in the list? (I think `---` is an <hr> in Markdown)
+
+@falconandy The link to the backlog is broken on the index page
 
 ## Attachments

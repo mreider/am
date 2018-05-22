@@ -22,6 +22,19 @@ Put the metadata below the header in the idea.md as well as the idea pages as we
 
 
 ## Comments
- @mreider Ready for testing 
+ @mreider Ready for testing
+
+@falconandy look at project/agilemarkdown-project.md and you will see twice the created / modified. This might just be that your old page had this above, and you keep regenerating it when you commit it. I removed it but it keeps getting overwritten:
+
+```
+Created: 2018-05-21 04:02 PM
+Modified: 2018-05-21 04:07 PM
+
+Agilemarkdown-project
+
+Created: 2018-05-02 10:25 AM
+Modified: 2018-05-18 10:29 PM
+```
+
 
 ## Attachments
