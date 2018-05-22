@@ -61,8 +61,6 @@ Modified: 2018-05-18 10:29 PM
 ### Unplanned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-|  | [Test-headers](agilemarkdown-project/test-headers.md) |  |  |
-| falconandy | [Think about building binaries](agilemarkdown-project/think-about-building-binaries.md) |  |  |
 
 ### Finished
 | User | Title | Points | Tags |
