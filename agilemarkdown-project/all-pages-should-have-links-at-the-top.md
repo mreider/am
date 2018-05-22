@@ -29,5 +29,12 @@ Links will be next to one another
 
 ## Comments
 
+@falconandy some changes:
+- let's make these more descriptive and change the order: "home" (was index) "project page" "idea list" "tag list"
+- let's separate each link with a couple of spaces and "||" i.e. "home  ||  project page  ||  idea list ||  tag list"
+- the links should be above the header in the Archive page - also get rid of the ":" next to the Archive header
+- add these links to the top of the index page too, just like everywhere else
+- the links should look the same on every page. They are not all on the "Tags" page the same way they should be
+- They are also not all on the ideas page
 
 ## Attachments

@@ -51,3 +51,5 @@ Jimmy | (idea name)[ideas/idea-link.md](pivotal-tracker-import) | (tag1)[tag-pag
   @falconandy this works perfectly!
 
   @falconandy sorry, can you also add a header to this page # Ideas
+
+@falconandy the idea link is broken on the idea page because there is nothing printing inside of ``[here](but this is fine)`` this is also happening on the index page. I think this is because it was grabbing titles from the title key/pair not the header.
