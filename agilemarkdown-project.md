@@ -2,7 +2,7 @@
 [archive](agilemarkdown-project/archive.md) [index](index.md) [ideas](ideas.md) [tags](tags.md)
 
 Created: 2018-05-21 04:02 PM  
-Modified: 2018-05-21 05:08 PM  
+Modified: 2018-05-21 07:54 PM  
 # Agilemarkdown-project
 
 Created: 2018-05-02 10:25 AM  
@@ -38,6 +38,7 @@ Modified: 2018-05-18 10:29 PM
 | falconandy | The link to the backlog is broken on the index page | [Generate index page](agilemarkdown-project/generate-index-page.md) |
 | falconandy | look at project/agilemarkdown-project.md and you will see twice the created / modified. This might j... | [Header should go above metadata](agilemarkdown-project/header-should-go-above-metadata.md) |
 | falconandy | the idea link is broken on the idea page because there is nothing printing inside of ``[here](but th... | [Outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) |
+| falconandy | it also looks like we are creating the menu links and dates over and over again. see here: https://r... | [Outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) |
 | falconandy | this page also needs the same menu items at the top and in the same format as the others. | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 
 ### Doing
