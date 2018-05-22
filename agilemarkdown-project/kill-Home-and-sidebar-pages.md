@@ -1,9 +1,9 @@
 # Kill Home and sidebar pages
 
-[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+[home](../index.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md) || [idea list](../ideas.md) || [tag list](../tags.md)
 
 Created: 2018-05-15 10:29 PM  
-Modified: 2018-05-20 08:02 PM  
+Modified: 2018-05-22 07:44 PM  
 Tags: cleanup  
 Author: Matt Reider  
 Status: finished  

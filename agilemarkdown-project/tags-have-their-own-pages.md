@@ -1,9 +1,9 @@
 # Tags have their own pages
 
-[project](../agilemarkdown-project.md) [archive](archive.md) [index](../index.md) [ideas](../ideas.md) [tags](../tags.md)
+[home](../index.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md) || [idea list](../ideas.md) || [tag list](../tags.md)
 
 Created: 2018-05-10 11:31 AM  
-Modified: 2018-05-20 08:02 PM  
+Modified: 2018-05-22 07:44 PM  
 Author: Matt Reider  
 Status: doing  
 Assigned: falconandy  
