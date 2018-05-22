@@ -38,16 +38,19 @@ Links will be next to one another
 - They are also not all on the ideas page
 
 @mreider
-- let's make these more descriptive and change the order: "home" (was index) "project page" "idea list" "tag list"
+- let's make these more descriptive and change the order: "home" (was index) "project page" "idea list" "tag list"  
 fixed
 
-- let's separate each link with a couple of spaces and "||" i.e. "home  ||  project page  ||  idea list ||  tag list"
+- let's separate each link with a couple of spaces and "||" i.e. "home  ||  project page  ||  idea list ||  tag list"  
+fixed
+
+- the links should be above the header in the Archive page - also get rid of the ":" next to the Archive header  
 Why above the header in the Archive Page? For all other pages the links are below - the links should be above the header in the Archive page - also get rid of the ":" next to the Archive header
 
-- add these links to the top of the index page too, just like everywhere else
-- the links should look the same on every page. They are not all on the "Tags" page the same way they should be
-- They are also not all on the ideas page
-The index, ideas and tags page are not for a specific project - I can't add the 'project page' link, only links for all projects/archives
+- add these links to the top of the index page too, just like everywhere else  
+- the links should look the same on every page. They are not all on the "Tags" page the same way they should be  
+- They are also not all on the ideas page  
+The index, ideas and tags page are not for a specific project - I can't add the 'project page' link, only links for all projects/archives  
 Should I add a self-referenced link to each page - so the index page will contain the "home" link?
 
 
