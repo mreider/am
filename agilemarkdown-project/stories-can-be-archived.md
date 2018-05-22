@@ -31,3 +31,5 @@ A link to the archive page should go at bottom of the project page as follows:
 ## Comments
 
  @mreider Ready for testing. There is a chance of some regression.
+
+@mreider Should 'work', 'change-status', 'assign' commands show all items or only active (non archived)?
