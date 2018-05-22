@@ -3,7 +3,7 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-22 10:16 PM  
+Modified: 2018-05-22 10:18 PM  
 
 ```
 34.1│                                                                               
@@ -40,12 +40,12 @@ Modified: 2018-05-22 10:16 PM
 | falconandy | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
 | falconandy | [Make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
 | falconandy | [Improve change status command](agilemarkdown-project/improve-change-status-command.md) | 2 |  |
+| falconandy | [Pivotal import should support tags](agilemarkdown-project/pivotal-import-should-support-tags.md) | 2 |  |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
-| falconandy | [Pivotal import should support tags](agilemarkdown-project/pivotal-import-should-support-tags.md) | 2 |  |
 | falconandy | [Rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
 | falconandy | [Tags should be clickable links](agilemarkdown-project/tags-should-be-clickable-links.md) | 1 |  |
 | falconandy | [Version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |  |  |
