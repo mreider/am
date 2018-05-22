@@ -1,7 +1,5 @@
 # Tags  
   
-[home](index.md) || [idea list](ideas.md)  
+[index](index.md) [ideas](ideas.md)  
   
 ---  
-  
-[cleanup](tags/cleanup.md)
