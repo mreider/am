@@ -1,7 +1,7 @@
 # Ideas
 
-[home](index.md) || [tag list](tags.md)
+[index](index.md) [tags](tags.md)
 
 | Author | Idea | Tags |
 |---|---|---|
-| Matt Reider | [Some things](ideas/some-things.md) | cleanup |
+| Matt Reider | [Some things](ideas/some-things.md) |  |
