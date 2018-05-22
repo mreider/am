@@ -1,4 +1,4 @@
-# Archive: Agilemarkdown-project
+# Archive: 
 
 [project page](../agilemarkdown-project.md) || [home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md)
 
