@@ -1,9 +1,9 @@
 # Stories can be archived
 
-[home](../index.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md) || [idea list](../ideas.md) || [tag list](../tags.md)
+[home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
 
 Created: 2018-05-10 11:43 AM  
-Modified: 2018-05-22 07:44 PM  
+Modified: 2018-05-22 08:49 PM  
 Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
