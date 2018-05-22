@@ -1,6 +1,6 @@
 # Tags  
   
-[index](index.md) [ideas](ideas.md)  
+[home](index.md) || [idea list](ideas.md)  
   
 ---  
   
