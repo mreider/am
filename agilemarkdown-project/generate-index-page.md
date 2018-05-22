@@ -30,6 +30,6 @@ Look at the current index page and re-generate the backlogs section every time. 
 
  @falconandy Can you put a horizontal rule to separate the backlogs in the list? (I think `---` is an <hr> in Markdown)
 
-@falconandy The link to the backlog is broken on the index page
+ @falconandy The link to the backlog is broken on the index page
 
 ## Attachments

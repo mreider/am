@@ -53,4 +53,6 @@ Go ahead and regenerate this page with every sync, so we can avoid problems like
 
  @falconandy descending
 
-@falconandy this page also needs the same menu items at the top and in the same format as the others.
+  @falconandy this page also needs the same menu items at the top and in the same format as the others.
+
+@mreider The tag pages are not related to a specific project. I can't add the 'project page' link, only links to all related projects. 
