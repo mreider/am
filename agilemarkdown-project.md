@@ -2,7 +2,7 @@
 [archive](agilemarkdown-project/archive.md) [index](index.md) [ideas](ideas.md) [tags](tags.md)
 
 Created: 2018-05-21 04:02 PM  
-Modified: 2018-05-21 05:08 PM  
+Modified: 2018-05-22 12:10 AM  
 # Agilemarkdown-project
 
 Created: 2018-05-02 10:25 AM  
@@ -60,8 +60,6 @@ Modified: 2018-05-18 10:29 PM
 ### Unplanned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-|  | [Test-headers](agilemarkdown-project/test-headers.md) |  |  |
-| falconandy | [Think about building binaries](agilemarkdown-project/think-about-building-binaries.md) |  |  |
 
 ### Finished
 | User | Title | Points | Tags |
