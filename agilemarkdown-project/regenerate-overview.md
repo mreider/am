@@ -19,5 +19,5 @@ Don't try and merge changes from the overview page, just regenerate it. This cou
 
 ## Comments
 
-@falconandy I created a cron that runs am sync. The problem is that the project and archive pages (and maybe others) are
+ @falconandy I created a cron that runs am sync. The problem is that the project and archive pages (and maybe others) are
 being regenerated even when there are no changes and the modified date is causing git commits. Can you change so that we only regenerate if there is a change?

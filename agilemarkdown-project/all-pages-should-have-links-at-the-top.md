@@ -37,7 +37,7 @@ Links will be next to one another
 - the links should look the same on every page. They are not all on the "Tags" page the same way they should be
 - They are also not all on the ideas page
 
-@mreider
+ @mreider
 - let's make these more descriptive and change the order: "home" (was index) "project page" "idea list" "tag list"  
 fixed
 
