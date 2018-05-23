@@ -3,7 +3,7 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-23 09:41 PM  
+Modified: 2018-05-23 10:03 PM  
 
 ```
 34.1│                                                                               
@@ -61,7 +61,7 @@ Modified: 2018-05-23 09:41 PM
 | falconandy | [Decrease weeks for points graph](agilemarkdown-project/decrease-weeks-for-points-graph.md) | 1 |  |
 | falconandy | [Generate index page](agilemarkdown-project/generate-index-page.md) | 2 |  |
 | falconandy | [Header should go above metadata](agilemarkdown-project/header-should-go-above-metadata.md) | 1 |  |
-| falconandy | [Kill Home and sidebar pages](agilemarkdown-project/kill-Home-and-sidebar-pages.md) | 1 | cleanup |
+| falconandy | [Kill Home and sidebar pages](agilemarkdown-project/kill-Home-and-sidebar-pages.md) | 1 | [cleanup](tags/cleanup.md) |
 | falconandy | [Links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) | 1 |  |
 | falconandy | [Make things generic](agilemarkdown-project/make-things-generic.md.md) | 1 |  |
 | falconandy | [Outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) | 3 |  |
