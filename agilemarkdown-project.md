@@ -3,7 +3,7 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-23 08:30 PM  
+Modified: 2018-05-23 08:38 PM  
 
 ```
 34.1│                                                                               
@@ -31,6 +31,7 @@ Modified: 2018-05-23 08:30 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
+| mreider | "before that date" Should I compare "create date" or "modified date"? "Before" - do you mean strict ... | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) |
 | mreider | Should 'work', 'change-status', 'assign' commands show all items or only active (non archived)? | [Stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
 
 ### Doing
