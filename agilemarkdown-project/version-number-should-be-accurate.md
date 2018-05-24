@@ -20,4 +20,6 @@ Is there a way you can increase the version number each time with each commit?
 
 ## Comments
 
+@mreider I've added build.sh script to build/install the binary with version info equal to UTC date/time of the last git commit (like 2018.05.24.181642)
+
 ## Attachments
