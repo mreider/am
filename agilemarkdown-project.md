@@ -3,7 +3,7 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-23 10:03 PM  
+Modified: 2018-05-24 10:21 PM  
 
 ```
 34.1│                                                                               
@@ -45,11 +45,11 @@ Modified: 2018-05-23 10:03 PM
 | falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | falconandy | [Rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
 | falconandy | [Tags should be clickable links](agilemarkdown-project/tags-should-be-clickable-links.md) | 1 |  |
+| falconandy | [Version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |  |  |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [Version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |  |  |
 
 ### Unplanned
 | User | Title | Points | Tags |
