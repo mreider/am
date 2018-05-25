@@ -22,6 +22,7 @@ make sure not to add the key twice.
 
 ## Comments
 
-@mreider "before that date" Should I compare "create date" or "modified date"? "Before" - do you mean strict less (<) or <= ? 
+ @mreider "before that date" Should I compare "create date" or "modified date"? "Before" - do you mean strict less (<) or <= ? 
+@falconandy let's use modified date and do <=
 
 ## Attachments
