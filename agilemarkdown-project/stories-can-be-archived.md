@@ -32,4 +32,6 @@ A link to the archive page should go at bottom of the project page as follows:
 
  @mreider Ready for testing. There is a chance of some regression.
 
-@mreider Should 'work', 'change-status', 'assign' commands show all items or only active (non archived)?
+ @mreider Should 'work', 'change-status', 'assign' commands show all items or only active (non archived)?
+
+@falconandy once something is archived it should not show up in any lists. If user wants to "unarchive" they can move it manually

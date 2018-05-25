@@ -3,10 +3,10 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-25 09:12 PM  
+Modified: 2018-05-25 09:20 PM  
 
 ```
-35.2│                                                                               
+38.5│                                                                               
     │                                                                              •
     │                                                                             • 
     │                                                                             • 
@@ -32,7 +32,7 @@ Modified: 2018-05-25 09:12 PM
 | User | Excerpt | Story |
 |---|---|---|
 | falconandy | let's use modified date and do <= | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) |
-| mreider | Should 'work', 'change-status', 'assign' commands show all items or only active (non archived)? | [Stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
+| falconandy | once something is archived it should not show up in any lists. If user wants to "unarchive" they can... | [Stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
 | falconandy | this has an issue with tags from Pivotal Tracker. It looks like Pivotal separates tags with commas, ... | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 | mreider | I've added build.sh script to build/install the binary with version info equal to UTC date/time of t... | [Version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |
 
@@ -40,8 +40,6 @@ Modified: 2018-05-25 09:12 PM
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
-| falconandy | [Make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
-| falconandy | [Improve change status command](agilemarkdown-project/improve-change-status-command.md) | 2 |  |
 | falconandy | [Pivotal import should support tags](agilemarkdown-project/pivotal-import-should-support-tags.md) | 2 |  |
 | falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | falconandy | [Rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
@@ -51,6 +49,7 @@ Modified: 2018-05-25 09:12 PM
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
+| falconandy | [Current project should be shown](agilemarkdown-project/current-project-should-be-shown.md) | 1 |  |
 
 ### Unplanned
 | User | Title | Points | Tags |
@@ -73,3 +72,5 @@ Modified: 2018-05-25 09:12 PM
 | falconandy | [Stories can be archived](agilemarkdown-project/stories-can-be-archived.md) | 3 |  |
 | falconandy | [Tag stories](agilemarkdown-project/tag-stories.md) | 5 |  |
 | falconandy | [All pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
+| falconandy | [Improve change status command](agilemarkdown-project/improve-change-status-command.md) | 2 |  |
+| falconandy | [Make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
