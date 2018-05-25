@@ -3,10 +3,10 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-24 10:24 PM  
+Modified: 2018-05-25 09:10 PM  
 
 ```
-34.1│                                                                               
+35.2│                                                                               
     │                                                                              •
     │                                                                             • 
     │                                                                             • 
@@ -33,12 +33,12 @@ Modified: 2018-05-24 10:24 PM
 |---|---|---|
 | mreider | "before that date" Should I compare "create date" or "modified date"? "Before" - do you mean strict ... | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) |
 | mreider | Should 'work', 'change-status', 'assign' commands show all items or only active (non archived)? | [Stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
+| falconandy | this has an issue with tags from Pivotal Tracker. It looks like Pivotal separates tags with commas, ... | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
 | mreider | I've added build.sh script to build/install the binary with version info equal to UTC date/time of t... | [Version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |
 
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [All pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
 | falconandy | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
 | falconandy | [Make sure to create ideas and archive](agilemarkdown-project/make-sure-to-create-ideas-and-archive.md) | 1 |  |
 | falconandy | [Improve change status command](agilemarkdown-project/improve-change-status-command.md) | 2 |  |
@@ -74,3 +74,4 @@ Modified: 2018-05-24 10:24 PM
 | falconandy | [Support for clarification requests](agilemarkdown-project/send-comments-to-users.md) | 3 |  |
 | falconandy | [Stories can be archived](agilemarkdown-project/stories-can-be-archived.md) | 3 |  |
 | falconandy | [Tag stories](agilemarkdown-project/tag-stories.md) | 5 |  |
+| falconandy | [All pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
