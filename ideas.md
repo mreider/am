@@ -2,7 +2,7 @@
 
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md)
 
-## Rank: 1
+## Rank: p1
 
 | Author | Idea | Tags |
 |---|---|---|
