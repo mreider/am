@@ -8,7 +8,7 @@
 |---|---|---|
 | Matt Reider | [Some things](ideas/some-things.md) | [cleanup](tags/cleanup.md) |
 
-## Rank: unassigned
+## Rank: p3
 
 | Author | Idea | Tags |
 |---|---|---|
