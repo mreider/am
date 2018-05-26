@@ -49,4 +49,30 @@ and then a few buttons for navigating back to the normal page etc
 
 @falconandy - let me know if this is crazy or not - or if you have other ideas
 
+@mreider I think, we could suggest to use a custom Caddy template file if Pendulum should be used.
+For example, the template below has 4 additional lines to add 'EDIT' link (only for stories and projects) - you could test it, it should work:
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Agilemarkdown</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://example.org/css/styles.css">
+</head>
+<body body style="margin:20px;padding:20px">
+<br>
+
+{{if or (eq .URI "/") (eq .URI "/index.md") (eq .URI "/ideas.md") (eq .URI "/tags.md") (.PathMatches "/tags/") (.PathMatches "/ideas/")}}
+{{ else }}
+<a href="https://{{.Host}}:666/edit{{.URI}}">EDIT</a>
+{{end}}
+
+<div class="container">
+  {{.Doc.body}}
+</div>
+
+</body>
+</html>
+```
+
 ## Attachments
