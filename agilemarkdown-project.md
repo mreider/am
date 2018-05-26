@@ -3,7 +3,7 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-26 12:43 AM  
+Modified: 2018-05-26 11:37 AM  
 
 ```
 42.9│                                                                               
@@ -31,7 +31,6 @@ Modified: 2018-05-26 12:43 AM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| falconandy | let's use modified date and do <= | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) |
 | falconandy | - let me know if this is crazy or not - or if you have other ideas | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) |
 | falconandy | once something is archived it should not show up in any lists. If user wants to "unarchive" they can... | [Stories can be archived](agilemarkdown-project/stories-can-be-archived.md) |
 | falconandy | this has an issue with tags from Pivotal Tracker. It looks like Pivotal separates tags with commas, ... | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) |
