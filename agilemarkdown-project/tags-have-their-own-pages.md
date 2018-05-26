@@ -53,4 +53,4 @@ Go ahead and regenerate this page with every sync, so we can avoid problems like
 
  @mreider The tag pages are not related to a specific project. I can't add the 'project page' link, only links to all related projects. 
 
-@falconandy this has an issue with tags from Pivotal Tracker. It looks like Pivotal separates tags with commas, but allows tags with spaces in them. If you could fix the import to replace the space with a dash, and then treat each comma separated tag as a different tag that would be great.
+ @falconandy this has an issue with tags from Pivotal Tracker. It looks like Pivotal separates tags with commas, but allows tags with spaces in them. If you could fix the import to replace the space with a dash, and then treat each comma separated tag as a different tag that would be great.
