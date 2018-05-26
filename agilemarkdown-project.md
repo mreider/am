@@ -3,7 +3,7 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-26 07:41 PM  
+Modified: 2018-05-26 04:00 PM  
 
 ```
 42.9│                                                                               
@@ -34,6 +34,7 @@ Modified: 2018-05-26 07:41 PM
 | falconandy | - let me know if this is crazy or not - or if you have other ideas | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) |
 | mreider | I think, we could suggest to use a custom Caddy template file if Pendulum should be used. For example... | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) |
 | mreider | I've looked at the Pendulum source code. It seems, it could be forked and customized to our needs. | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) |
+| falconamdy | - I will fork and add you | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) |
 
 ### Doing
 | User | Title | Points | Tags |
