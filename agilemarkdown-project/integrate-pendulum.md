@@ -41,6 +41,8 @@ right template for ideas - since it's different than stories (with rank?)
 
 If you can haack pendulum, it would be interesting to add a button to sync.
 
+So we could have three new buttons next to the current "new file" button - sync, new story, new idea.
+
 ## Comments
 
 @falconandy - let me know if this is crazy or not - or if you have other ideas
