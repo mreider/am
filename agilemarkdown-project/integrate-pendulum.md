@@ -75,4 +75,6 @@ For example, the template below has 4 additional lines to add 'EDIT' link (only 
 </html>
 ```
 
+@mreider I've looked at the Pendulum source code. It seems, it could be forked and customized to our needs.
+
 ## Attachments
