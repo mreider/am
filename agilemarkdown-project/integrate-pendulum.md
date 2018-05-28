@@ -47,9 +47,9 @@ and then a few buttons for navigating back to the normal page etc
 
 ## Comments
 
-@falconandy - let me know if this is crazy or not - or if you have other ideas
+ @falconandy - let me know if this is crazy or not - or if you have other ideas
 
-@mreider I think, we could suggest to use a custom Caddy template file if Pendulum should be used.
+ @mreider I think, we could suggest to use a custom Caddy template file if Pendulum should be used.
 For example, the template below has 4 additional lines to add 'EDIT' link (only for stories and projects) - you could test it, it should work:
 ```
 <!DOCTYPE html>
@@ -75,7 +75,85 @@ For example, the template below has 4 additional lines to add 'EDIT' link (only 
 </html>
 ```
 
-@mreider I've looked at the Pendulum source code. It seems, it could be forked and customized to our needs.
+ @mreider I've looked at the Pendulum source code. It seems, it could be forked and customized to our needs.
 
-@falconamdy - I will fork and add you
+ @falconamdy - I will fork and add you
+
+@mreider See the next section "Proof of concept"
+
+## Proof of concept
+
+### Sample template file (for Caddy)
+
+New links (buttons) to 'Edit' (available on project, story and idea pages), 'Add story' (available on project, story and archive pages) and 'Add Idea' (available on all pages)
+
+Additional css for link panel (class 'nav')
+
+Link part 'https://{{.Host}}:666/' should be modified if need (http/https, port)
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Agilemarkdown</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://example.org/css/styles.css">
+<style>
+.nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 5px;
+}
+</style>
+</head>
+<body body style="margin:20px;padding:20px">
+<div class="nav">
+{{if or (eq .URI "/") (eq .URI "/index.md") (eq .URI "/ideas.md") (eq .URI "/tags.md") (.PathMatches "/tags/")}}
+{{ else }}
+  <a href="https://{{.Host}}:666/edit{{.URI}}">Edit</a>
+{{if not (.PathMatches "/ideas/")}}
+  <a href="https://{{.Host}}:666/addStory{{.URI}}">Add story</a>
+{{end}}
+{{end}}
+  <a href="https://{{.Host}}:666/addIdea">Add idea</a>
+</div>
+<div class="container">
+  {{.Doc.body}}
+</div>
+
+</body>
+</html>
+```
+
+### Custom Pendulum Binary
+
+```
+cd ~/go/src/github.com
+mkdir titpetric
+cd titpetric
+git clone https://github.com/mreider/pendulum-agilemarkdown pendulum
+cd pendulum
+go get -u github.com/jteeuwen/go-bindata/...
+./build_all.sh
+```
+
+Then use a binary for your OS from build/ subfolder instead of standard version. 
+
+### Agilemarkdown Binary
+
+Fresh Agilemarkdown binary should be put to the same folder where Pendulum binary is.
+
+### Run
+
+Run Caddy
+
+Run custom Pendulum
+
+New links should work
+
+### Issues
+
+A Caddy user should be passed to Pendulum to be used as an author of stories/ideas
+
 ## Attachments
