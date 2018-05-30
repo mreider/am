@@ -9,10 +9,10 @@ Modified: 2018-05-30 06:20 PM
 [home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
 
 Created: 2018-05-26 12:31 AM  
-Modified: 2018-05-26 12:42 AM  
+Modified: 2018-05-30 10:17 PM  
 Tags:   
 Author: Matt Reider  
-Status: planned  
+Status: doing  
 Assigned: falconadny  
 Estimate: 5  
 
