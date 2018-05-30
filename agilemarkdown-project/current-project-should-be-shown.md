@@ -1,5 +1,7 @@
 # Current project should be shown
 
+Project: Agilemarkdown-project
+
 [home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
 
 Created: 2018-05-25 09:15 PM  
