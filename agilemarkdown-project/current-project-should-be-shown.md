@@ -3,10 +3,10 @@
 [home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
 
 Created: 2018-05-25 09:15 PM  
-Modified: 2018-05-25 09:20 PM  
+Modified: 2018-05-30 09:37 PM  
 Tags:   
 Author: Matt Reider  
-Status: planned  
+Status: doing  
 Assigned: falconandy  
 Estimate: 1  
 
