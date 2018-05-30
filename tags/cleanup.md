@@ -2,11 +2,6 @@
 
 [home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md)
 
-## Finished
-| User | Project | Title | Points | Tags |
-|---|---|---|:---:|---|
-| falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Kill Home and sidebar pages](../agilemarkdown-project/kill-Home-and-sidebar-pages.md) | 1 | [cleanup](cleanup.md) |
-
 ## Ideas
 
 | Author | Idea | Tags |
