@@ -3,7 +3,7 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-05-31 07:25 PM  
+Modified: 2018-05-31 11:08 PM  
 
 ```
 42.9│                                                                               
@@ -40,11 +40,11 @@ Modified: 2018-05-31 07:25 PM
 | falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | falconandy | [Current project should be shown](agilemarkdown-project/current-project-should-be-shown.md) | 1 |  |
 | falconadny | [Proper-clarifications-and-ideas](agilemarkdown-project/proper-clarifications-and-ideas.md) | 5 |  |
+| falconandy | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) | 5 |  |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) | 5 |  |
 
 ### Unplanned
 | User | Title | Points | Tags |
