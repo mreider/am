@@ -1,10 +1,6 @@
 # Pivotal-tracker-import
 
-[home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
-
-Project: Agilemarkdown-project  
-Created: 2018-05-30 06:20 PM  
-Modified: 2018-05-30 06:20 PM  
+Project: Agilemarkdown-project
 
 [home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
 
