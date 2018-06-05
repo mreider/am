@@ -52,7 +52,7 @@ Clear?
 ```
 
 Fresh Agilmarkdown and Pendulum are required.
-can't send by @falconandy at 2018-06-05 10:39 PM: SMTP server isn't configured
+sent by @falconandy at 2018-06-05 10:39 PM
 
 
 ## Attachments

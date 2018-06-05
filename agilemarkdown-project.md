@@ -3,7 +3,7 @@
 [home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-06-05 10:35 PM  
+Modified: 2018-06-05 10:39 PM  
 
 ```
 42.9│                                                                               
@@ -31,7 +31,6 @@ Modified: 2018-06-05 10:35 PM
 ### Clarifications
 | User | Excerpt | Story |
 |---|---|---|
-| falconandy | Ready for testing. `.config.json` should be filled (the dot to hide the config file in Pendulum): ``` { | [Proper-clarifications-and-ideas](agilemarkdown-project/proper-clarifications-and-ideas.md) |
 
 ### Doing
 | User | Title | Points | Tags |
