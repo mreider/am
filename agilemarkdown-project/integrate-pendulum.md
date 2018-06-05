@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
 
 Created: 2018-05-26 12:15 AM  
-Modified: 2018-05-31 11:08 PM  
+Modified: 2018-06-05 10:33 PM  
 Tags:   
 Author: Matt Reider  
 Status: doing  
@@ -82,6 +82,7 @@ For example, the template below has 4 additional lines to add 'EDIT' link (only 
  @falconamdy - I will fork and add you
 
 @mreider See the next section "Proof of concept"
+sent by @falconandy at 2018-06-05 10:33 PM
 
 ## Proof of concept
 

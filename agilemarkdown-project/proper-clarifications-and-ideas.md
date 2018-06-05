@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
 
 Created: 2018-05-26 12:31 AM  
-Modified: 2018-05-30 10:17 PM  
+Modified: 2018-06-05 10:39 PM  
 Tags:   
 Author: Matt Reider  
 Status: doing  
@@ -38,5 +38,21 @@ No need to ignore comments with spaces before the @mreider - this functionality 
 Clear?
 
 ## Comments
+
+@falconandy Ready for testing.
+
+`.config.json` should be filled (the dot to hide the config file in Pendulum):
+```
+{
+  "SmtpServer": "SMTP_SERVER:PORT",
+  "SmtpUser": "USER_NAME",
+  "SmtpPassword": "PASSWORD",
+  "RemoteGitUrlFormat": "%s/blob/master/%s"
+}
+```
+
+Fresh Agilmarkdown and Pendulum are required.
+can't send by @falconandy at 2018-06-05 10:39 PM: SMTP server isn't configured
+
 
 ## Attachments
