@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
 
 Created: 2018-05-26 12:31 AM  
-Modified: 2018-06-05 10:39 PM  
+Modified: 2018-06-05 10:41 PM  
 Tags:   
 Author: Matt Reider  
 Status: doing  
@@ -39,7 +39,7 @@ Clear?
 
 ## Comments
 
-@falconandy Ready for testing.
+@mreider Ready for testing.
 
 `.config.json` should be filled (the dot to hide the config file in Pendulum):
 ```
@@ -52,7 +52,7 @@ Clear?
 ```
 
 Fresh Agilmarkdown and Pendulum are required.
-sent by @falconandy at 2018-06-05 10:39 PM
+sent by @falconandy at 2018-06-05 10:41 PM
 
 
 ## Attachments
