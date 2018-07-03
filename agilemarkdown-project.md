@@ -1,6 +1,6 @@
 # Agilemarkdown-project
 
-[home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [velocity](velocity.md) || [archive](agilemarkdown-project/archive.md)
+[home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
 Modified: 2018-07-03 02:41 PM  

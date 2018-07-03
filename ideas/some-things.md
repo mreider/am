@@ -1,6 +1,6 @@
 # Some things
 
-[home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [velocity](../velocity.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md)
 
 Created: 2018-05-15 10:31 PM  
 Modified: 2018-05-22 07:44 PM  

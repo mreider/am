@@ -1,6 +1,6 @@
 # Tag: cleanup
 
-[home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [velocity](../velocity.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md)
 
 ## Finished
 | User | Project | Title | Points | Tags |

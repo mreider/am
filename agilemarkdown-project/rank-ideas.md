@@ -2,7 +2,7 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) || [idea list](../ideas.md) || [tag list](../tags.md) || [velocity](../velocity.md) || [project page](../agilemarkdown-project.md) || [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-05-16 07:33 PM  
 Modified: 2018-05-23 08:54 PM  
