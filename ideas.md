@@ -1,6 +1,6 @@
 # Ideas
 
-[home](index.md) || [idea list](ideas.md) || [tag list](tags.md)
+[home](index.md) || [idea list](ideas.md) || [tag list](tags.md) || [velocity](velocity.md)
 
 ## Rank: p1
 
