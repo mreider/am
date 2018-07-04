@@ -3,7 +3,7 @@
 [home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-07-04 02:41 PM  
+Modified: 2018-07-04 02:45 PM  
 
 ### Doing
 | User | Title | Points | Tags |
@@ -18,6 +18,7 @@ Modified: 2018-07-04 02:41 PM
 | falconandy | [Put backlogs in a table on home](agilemarkdown-project/put-backlogs-in-a-table-on-home.md) | 1 |  |
 | falconandy | [Stories can be on more than one timeline](agilemarkdown-project/Forecast-dates-by-tag.md) | 3 |  |
 | falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 |  |
+| falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [Cleanup](tags/cleanup.md) |
 
 ### Unplanned
 | User | Title | Points | Tags |
