@@ -8,7 +8,6 @@ Modified: 2018-07-04 02:47 AM
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) | 5 |  |
 
 ### Planned
 | User | Title | Points | Tags |
@@ -45,3 +44,4 @@ Modified: 2018-07-04 02:47 AM
 | falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | falconandy | [Current project should be shown](agilemarkdown-project/current-project-should-be-shown.md) | 1 |  |
 | falconadny | [Proper-clarifications-and-ideas](agilemarkdown-project/proper-clarifications-and-ideas.md) | 5 |  |
+| falconandy | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) | 5 |  |
