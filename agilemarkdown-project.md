@@ -3,7 +3,7 @@
 [home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-07-04 03:19 PM  
+Modified: 2018-07-04 03:21 PM  
 
 ### Doing
 | User | Title | Points | Tags |
@@ -25,6 +25,7 @@ Modified: 2018-07-04 03:19 PM
 ### Unplanned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
+| Falconandy | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [Cleanup](tags/cleanup.md) |
 
 ### Finished
 | User | Title | Points | Tags |
