@@ -29,6 +29,7 @@ Tag deleted. Sync to regenerate files.
 
 If answer is yes then delete this tag from every story across all projects.
 
+Also delete the forecasted dates for that tag across all stories.
 
 ## Comments
 
