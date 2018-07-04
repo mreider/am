@@ -1,4 +1,4 @@
-# Forecast dates by tag
+# Stories can be on more than one timeline
 
 Project: Agilemarkdown-project
 
@@ -8,7 +8,7 @@ Created: 2018-07-04 02:16 PM
 Modified: 2018-07-04 02:18 PM  
 Tags:   
 Author: Matt Reider  
-Status: unplanned  
+Status: planned
 Assigned: falconandy  
 Estimate: 3  
 
