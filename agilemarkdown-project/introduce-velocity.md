@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 03:49 AM  
-Modified: 2018-07-04 01:14 PM  
+Modified: 2018-07-04 02:39 PM  
 Tags:   
 Author: Matt Reider  
 Status: doing  
@@ -31,5 +31,7 @@ sent by @mreider at 2018-07-04 04:00 AM
 @falconandy also, could you change the X axis to have mm-dd of the weeks, rather than -N weeks prior.
 sent by @mreider at 2018-07-04 01:14 PM
 
+@mreider I added a new 'velocity' subdirectory with velocity images for all backlogs
+can't send by @ at 2018-07-04 02:39 PM: unknown user falconandy1980@gmail.com
 
 ## Attachments
