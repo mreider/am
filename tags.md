@@ -4,4 +4,5 @@
   
 ---  
   
+[bug](tags/bug.md)  
 [cleanup](tags/cleanup.md)

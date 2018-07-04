@@ -3,7 +3,7 @@
 [home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-07-04 03:53 AM  
+Modified: 2018-07-04 03:56 AM  
 
 ### Doing
 | User | Title | Points | Tags |
@@ -13,6 +13,7 @@ Modified: 2018-07-04 03:53 AM
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
+| falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
 
 ### Unplanned
 | User | Title | Points | Tags |
