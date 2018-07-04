@@ -7,7 +7,7 @@ Project: Agilemarkdown-project
 Created: 2018-05-10 11:31 AM  
 Modified: 2018-05-22 08:49 PM  
 Author: Matt Reider  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 3  
 
