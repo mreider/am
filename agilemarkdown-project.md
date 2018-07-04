@@ -8,7 +8,6 @@ Modified: 2018-07-04 02:45 AM
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | falconandy | [Current project should be shown](agilemarkdown-project/current-project-should-be-shown.md) | 1 |  |
 | falconadny | [Proper-clarifications-and-ideas](agilemarkdown-project/proper-clarifications-and-ideas.md) | 5 |  |
 | falconandy | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) | 5 |  |
@@ -45,3 +44,4 @@ Modified: 2018-07-04 02:45 AM
 | falconandy | [Version number should be accurate](agilemarkdown-project/version-number-should-be-accurate.md) |  |  |
 | falconandy | [Rank ideas](agilemarkdown-project/rank-ideas.md) | 1 |  |
 | falconandy | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
+| falconandy | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
