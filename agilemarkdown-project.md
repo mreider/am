@@ -19,7 +19,6 @@ Modified: 2018-07-04 03:58 AM
 ### Unplanned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-|  | [Test](agilemarkdown-project/test.md) |  |  |
 
 ### Finished
 | User | Title | Points | Tags |
