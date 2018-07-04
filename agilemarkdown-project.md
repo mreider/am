@@ -3,11 +3,12 @@
 [home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-07-04 03:52 AM  
+Modified: 2018-07-04 03:53 AM  
 
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
+| falconandy | [Introduce velocity](agilemarkdown-project/introduce-velocity.md) | 3 |  |
 
 ### Planned
 | User | Title | Points | Tags |
@@ -17,7 +18,6 @@ Modified: 2018-07-04 03:52 AM
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 |  | [Test](agilemarkdown-project/test.md) |  |  |
-| falconandy | [Introduce velocity](agilemarkdown-project/introduce-velocity.md) | 3 |  |
 
 ### Finished
 | User | Title | Points | Tags |

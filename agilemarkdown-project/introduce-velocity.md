@@ -6,9 +6,9 @@ Project: Agilemarkdown-project
 
 Created: 2018-07-04 03:49 AM  
 Modified: 2018-07-04 03:53 AM  
-Tags:   
+Tags: 
 Author: Matt Reider  
-Status: unplanned  
+Status: doing  
 Assigned: falconandy  
 Estimate: 3  
 
