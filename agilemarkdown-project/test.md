@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 02:49 AM  
-Modified: 2018-07-04 02:49 AM  
+Modified: 2018-07-04 02:54 AM  
 Tags:   
 Author: Matt Reider  
 Status: unplanned  
@@ -19,13 +19,13 @@ Estimate:
 ## Comments
 
 @mreider test
-can't send by @mreider at 2018-07-04 02:49 AM: 534 5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbtX
-5.7.14 PQ7hbbOjIpxAH8okt_RN9zoCykmJmoHA-oh2xch6C_DHEjjg4Qbpe-vJ6BcYNnsKF0Ppi7
-5.7.14 -poujv_eU_czy8rLya08gaBdEiB4I5upo4kCUkclqLOmy4tZ5cK3VI8aHPI8LsmF3Y_523
-5.7.14 ajMYubE62NqISkSOOsxYtdxCgAMi1sAwON38JicEKYHeh0QbEJI37ovFEHKRzAv0UE6m1w
-5.7.14 7wydihH0vaOaYfj5Dd41bTH092qes> Please log in via your web browser and
+can't send by @mreider at 2018-07-04 02:54 AM: 534 5.7.14 <https://accounts.google.com/signin/continue?sarp=1&scc=1&plt=AKgnsbuW
+5.7.14 RYpctm6yVE-spS7lbbyulOQjyGe6G3-H0xe0viFnTE5YmHv5mKFs7v4owQsWOA9IxtAAiH
+5.7.14 z2-o-MtxECoPfn0V4aMZSWQMOsKSHzoeSx0Ev-NqPs0rL_oO_c9DIfwGSHXbw-DNySpodm
+5.7.14 Dl3X1d-bVSC0Sfc_QxNzI0LmMF5p7AlIzHDnVZf1n0gUqfvf9Fk0xrLtPOpM4BZV2iBWOo
+5.7.14 LP__z4zHxtDi7KRDRSQMt5hv-6674> Please log in via your web browser and
 5.7.14 then try again.
 5.7.14  Learn more at
-5.7.14  https://support.google.com/mail/answer/78754 b62-v6sm2054267qkj.48 - gsmtp
+5.7.14  https://support.google.com/mail/answer/78754 f32-v6sm2194876qta.41 - gsmtp
 
 ## Attachments
