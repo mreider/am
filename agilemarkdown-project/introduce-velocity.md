@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 03:49 AM  
-Modified: 2018-07-04 06:51 PM  
+Modified: 2018-07-04 06:54 PM  
 Tags:   
 Author: Matt Reider  
 Status: doing  
@@ -29,13 +29,13 @@ sent by @mreider at 2018-07-04 03:53 AM
 sent by @mreider at 2018-07-04 04:00 AM
 
 @mreider I added a new 'velocity' subdirectory with velocity images for all backlogs
-can't send by @falconandy at 2018-07-04 06:51 PM: SMTP server isn't configured
+sent by @falconandy at 2018-07-04 06:54 PM
 
 @falconandy also, could you change the X axis to have mm-dd of the weeks, rather than -N weeks prior.
 sent by @mreider at 2018-07-04 01:14 PM
 
 @mreider mm-dd should be: "July-02 - July-08" (from Monday to Sunday), "July-01 - July-07" (from Sunday to Saturday), "June-28 - July-04" (sliding week) or something else?
-can't send by @falconandy at 2018-07-04 06:51 PM: SMTP server isn't configured
+sent by @falconandy at 2018-07-04 06:54 PM
 
 
 ## Attachments
