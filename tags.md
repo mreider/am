@@ -6,4 +6,5 @@
   
 [Cleanup](tags/cleanup.md)  
 [bug](tags/bug.md)  
-[cleanup](tags/cleanup.md)
+[cleanup](tags/cleanup.md)  
+[visuals](tags/visuals.md)

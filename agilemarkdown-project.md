@@ -3,7 +3,7 @@
 [home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-07-04 03:11 PM  
+Modified: 2018-07-04 03:19 PM  
 
 ### Doing
 | User | Title | Points | Tags |
@@ -20,6 +20,7 @@ Modified: 2018-07-04 03:11 PM
 | falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 |  |
 | falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [Cleanup](tags/cleanup.md) |
 | Falconandy | [Change file name when story title changes](agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [cleanup](tags/cleanup.md) |
+| Falconandy | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 | [visuals](tags/visuals.md) |
 
 ### Unplanned
 | User | Title | Points | Tags |
