@@ -3,7 +3,7 @@
 [home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-07-04 03:58 AM  
+Modified: 2018-07-04 12:59 PM  
 
 ### Doing
 | User | Title | Points | Tags |
@@ -15,6 +15,7 @@ Modified: 2018-07-04 03:58 AM
 |---|---|:---:|---|
 | falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
 | falconandy | [Closing pendulum should refresh](agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 |  |
+| falconandy | [Put backlogs in a table on home](agilemarkdown-project/put-backlogs-in-a-table-on-home.md) | 1 |  |
 
 ### Unplanned
 | User | Title | Points | Tags |

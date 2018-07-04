@@ -1,0 +1,30 @@
+# Put backlogs in a table on home
+
+Project: Agilemarkdown-project
+
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+
+Created: 2018-07-04 12:57 PM  
+Modified: 2018-07-04 01:00 PM  
+Tags:   
+Author: Matt Reider  
+Status: planned  
+Assigned: falconandy  
+Estimate: 1  
+
+## Problem statement
+
+The format of the home page needs
+A table
+
+## Possible solution
+
+Instead of listing the backlogs separated by a horizontal rule (hr tag) it would look better to list them in a table with two columns - one for the backlog name, other column for the archive link.
+
+## Comments
+
+@falconandy new little thing
+sent by @mreider at 2018-07-04 01:00 PM
+
+## Attachments
+
