@@ -8,5 +8,6 @@
 [Timelines](tags/timelines.md)  
 [bug](tags/bug.md)  
 [cleanup](tags/cleanup.md)  
+[tags](tags/tags.md)  
 [timelines](tags/timelines.md)  
 [visuals](tags/visuals.md)
