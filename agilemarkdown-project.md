@@ -3,7 +3,7 @@
 [home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-07-04 02:12 PM  
+Modified: 2018-07-04 02:18 PM  
 
 ### Doing
 | User | Title | Points | Tags |
@@ -21,6 +21,7 @@ Modified: 2018-07-04 02:12 PM
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 |  |
+| falconandy | [Forecast dates by tag](agilemarkdown-project/Forecast-dates-by-tag.md) | 3 |  |
 
 ### Finished
 | User | Title | Points | Tags |
