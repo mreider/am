@@ -6,5 +6,5 @@
 
 [Agilemarkdown-project](agilemarkdown-project.md)
 
-![velocity](agilemarkdown-project/velocity.png)
+![velocity](velocity/agilemarkdown-project.png)
 
