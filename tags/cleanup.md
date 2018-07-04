@@ -2,6 +2,11 @@
 
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md)
 
+## Planned
+| User | Project | Title | Points | Tags |
+|---|---|---|:---:|---|
+| Falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Change file name when story title changes](../agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [cleanup](cleanup.md) |
+
 ## Finished
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
