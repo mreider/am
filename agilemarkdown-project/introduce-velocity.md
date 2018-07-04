@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 03:49 AM  
-Modified: 2018-07-04 06:54 PM  
+Modified: 2018-07-04 11:51 PM  
 Tags:   
 Author: Matt Reider  
 Status: doing  
@@ -36,6 +36,9 @@ sent by @mreider at 2018-07-04 01:14 PM
 
 @mreider mm-dd should be: "July-02 - July-08" (from Monday to Sunday), "July-01 - July-07" (from Sunday to Saturday), "June-28 - July-04" (sliding week) or something else?
 sent by @falconandy at 2018-07-04 06:54 PM
+
+@falconandy just the day of the Sunday, or the Monday, like "July 08" is fine.
+sent by @mreider at 2018-07-04 11:51 PM
 
 
 ## Attachments
