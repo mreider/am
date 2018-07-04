@@ -10,4 +10,5 @@
 ## Unplanned
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
+| falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags can be deleted](../agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [Cleanup](cleanup.md) |
 | Falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [Cleanup](cleanup.md) |
