@@ -3,7 +3,7 @@
 [home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-07-04 03:45 PM  
+Modified: 2018-07-05 11:07 AM  
 
 ### Doing
 | User | Title | Points | Tags |
