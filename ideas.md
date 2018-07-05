@@ -13,3 +13,9 @@
 | Author | Idea | Tags |
 |---|---|---|
 | Matt Reider | [Foo](ideas/foo) |  |
+
+## Rank: unassigned
+
+| Author | Idea | Tags |
+|---|---|---|
+| Matt Reider | [Test](ideas/test.md) |  |
