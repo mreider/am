@@ -22,11 +22,11 @@ Modified: 2018-07-05 11:57 AM
 | falconandy | [Tags can be deleted](agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [Cleanup](tags/cleanup.md) |
 | falconandy | [Tags can be changed](agilemarkdown-project/Tags-can-be-changed.md) | 2 | [tags](tags/tags.md) |
 | falconandy | [Archived stories are not forecasted](agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [cleanup](tags/cleanup.md) |
+| falconandy | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 | [ideas](tags/ideas.md) |
 
 ### Unplanned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 | [ideas](tags/ideas.md) |
 
 ### Finished
 | User | Title | Points | Tags |
