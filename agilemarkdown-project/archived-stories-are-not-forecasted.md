@@ -1,0 +1,29 @@
+# Archived stories are not forecasted
+
+Project: Agilemarkdown-project
+
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+
+Created: 2018-07-05 04:09 PM  
+Modified: 2018-07-05 04:09 PM  
+Tags: cleanup  
+Author: Matt Reider  
+Status: planned  
+Assigned: falconandy  
+Estimate: 2  
+
+## Problem statement
+
+When we archive things we should not be forecasting them on a timeline.
+
+## Possible solution
+
+Make sure that anything archived does not appear on a timeline. We could strip the dates, or just not include them. Or both.
+
+## Comments
+
+@falconandy this one too.
+sent by @mreider at 2018-07-05 04:10 PM
+
+## Attachments
+

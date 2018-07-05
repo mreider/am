@@ -24,6 +24,7 @@ Modified: 2018-07-05 11:57 AM
 | Falconandy | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [Cleanup](tags/cleanup.md) |
 | falconandy | [Tags can be deleted](agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [Cleanup](tags/cleanup.md) |
 | falconandy | [Tags can be changed](agilemarkdown-project/Tags-can-be-changed.md) | 2 | [tags](tags/tags.md) |
+| falconandy | [Archived stories are not forecasted](agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [cleanup](tags/cleanup.md) |
 
 ### Unplanned
 | User | Title | Points | Tags |
