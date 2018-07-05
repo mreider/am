@@ -5,10 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 12:57 PM  
-Modified: 2018-07-05 01:05 PM  
+Modified: 2018-07-05 09:22 PM  
 Tags:   
 Author: Matt Reider  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 1  
 
