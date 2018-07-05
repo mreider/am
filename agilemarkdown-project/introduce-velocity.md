@@ -40,5 +40,7 @@ sent by @falconandy at 2018-07-04 06:54 PM
 @falconandy just the day of the Sunday, or the Monday, like "July 08" is fine.
 sent by @mreider at 2018-07-04 11:51 PM
 
+@mreider done - now it's a Sunday date of a week
+sent by @falconandy at 2018-07-05 01:03 PM
 
 ## Attachments

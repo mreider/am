@@ -25,5 +25,8 @@ Make sure that the modified date changes so that velocity is measured properly
 @falconandy can you look at this bug?
 sent by @mreider at 2018-07-04 03:56 AM
 
+@mreider ready to test. You should update agilemarkdown binary on the server reider.club
+sent by @falconandy at 2018-07-05 01:03 PM
+
 ## Attachments
 
