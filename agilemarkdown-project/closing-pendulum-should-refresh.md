@@ -25,5 +25,9 @@ Closing pendulum should refresh the page so I can see latest changes
 @falconandy can you look into this?
 sent by @mreider at 2018-07-04 03:58 AM
 
+@mreider The issue is browser cache. To disable caching I need to modify Caddy - I have to set a few response headers (as described in https://stackoverflow.com/questions/49547/how-to-control-web-page-caching-across-all-browsers).
+If it's ok, please fork the Caddy - I'll modify it. Also I can setup Travis for the fork if need. 
+sent by @falconandy at 2018-07-05 08:09 PM
+
 ## Attachments
 
