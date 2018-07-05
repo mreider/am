@@ -29,5 +29,8 @@ sent by @mreider at 2018-07-04 03:58 AM
 If it's ok, please fork the Caddy - I'll modify it. Also I can setup Travis for the fork if need. 
 sent by @falconandy at 2018-07-05 08:09 PM
 
+@falconandy really? I don't see an HTTP request to the server when I close pendulum, so why would the headers matter? When I hit refresh, the page refreshes just fine. Caddy supports header settings, so I can add them to the caddyfile.
+sent by @mreider at 2018-07-05 08:36 PM
+
 ## Attachments
 
