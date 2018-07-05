@@ -5,10 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 03:56 AM  
-Modified: 2018-07-05 02:32 PM  
-Tags:   
+Modified: 2018-07-05 08:54 PM  
+Tags: cleanup  
 Author: Matt Reider  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 3  
 
@@ -35,7 +35,10 @@ sent by @mreider at 2018-07-05 08:36 PM
 @falconandy never mind. I do see the request. I'll try to add the headers myself.
 sent by @mreider at 2018-07-05 08:37 PM
 
-test
+@falconandy ok adding  header / {
+   Cache-Control "no-store, must-revalidate"
+ } to my caddyfile fixed the issue. Thanks!
+sent by @mreider at 2018-07-05 08:54 PM
 
 ## Attachments
 

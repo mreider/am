@@ -11,6 +11,7 @@
 ## Finished
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
+| falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Closing pendulum should refresh](../agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 | [cleanup](cleanup.md) |
 | falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Kill Home and sidebar pages](../agilemarkdown-project/kill-Home-and-sidebar-pages.md) | 1 | [cleanup](cleanup.md) |
 
 ## Ideas
