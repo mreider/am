@@ -3,17 +3,17 @@
 [home](index.md) • [idea list](ideas.md) • [tag list](tags.md) • [velocity](velocity.md) • [archive](agilemarkdown-project/archive.md)
 
 Created: 2018-05-02 10:25 AM  
-Modified: 2018-07-05 11:07 AM  
+Modified: 2018-07-05 11:57 AM  
 
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [Introduce velocity](agilemarkdown-project/introduce-velocity.md) | 3 |  |
+| falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
 | falconandy | [Closing pendulum should refresh](agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 |  |
 | falconandy | [Put backlogs in a table on home](agilemarkdown-project/put-backlogs-in-a-table-on-home.md) | 1 |  |
 | falconandy | [Stories can be on more than one timeline](agilemarkdown-project/Forecast-dates-by-tag.md) | 3 | [Timelines](tags/timelines.md) |
