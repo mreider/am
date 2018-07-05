@@ -32,5 +32,8 @@ sent by @falconandy at 2018-07-05 08:09 PM
 @falconandy really? I don't see an HTTP request to the server when I close pendulum, so why would the headers matter? When I hit refresh, the page refreshes just fine. Caddy supports header settings, so I can add them to the caddyfile.
 sent by @mreider at 2018-07-05 08:36 PM
 
+@falconandy never mind. I do see the request. I'll try to add the headers myself.
+sent by @mreider at 2018-07-05 08:37 PM
+
 ## Attachments
 
