@@ -8,7 +8,6 @@ Modified: 2018-07-05 11:57 AM
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [Introduce velocity](agilemarkdown-project/introduce-velocity.md) | 3 |  |
 | falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
 | falconandy | [Put backlogs in a table on home](agilemarkdown-project/put-backlogs-in-a-table-on-home.md) | 1 |  |
 | falconandy | [Closing pendulum should refresh](agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 |  |
@@ -58,3 +57,4 @@ Modified: 2018-07-05 11:57 AM
 | falconandy | [Current project should be shown](agilemarkdown-project/current-project-should-be-shown.md) | 1 |  |
 | falconadny | [Proper-clarifications-and-ideas](agilemarkdown-project/proper-clarifications-and-ideas.md) | 5 |  |
 | falconandy | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) | 5 |  |
+| falconandy | [Introduce velocity](agilemarkdown-project/introduce-velocity.md) | 3 |  |

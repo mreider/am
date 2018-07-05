@@ -5,10 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 03:49 AM  
-Modified: 2018-07-04 11:51 PM  
+Modified: 2018-07-05 04:11 PM  
 Tags:   
 Author: Matt Reider  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 3  
 
@@ -42,5 +42,8 @@ sent by @mreider at 2018-07-04 11:51 PM
 
 @mreider done - now it's a Sunday date of a week
 sent by @falconandy at 2018-07-05 01:03 PM
+
+@falconandy looks great. Thanks.
+sent by @mreider at 2018-07-05 04:11 PM
 
 ## Attachments
