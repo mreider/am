@@ -9,12 +9,5 @@ Modified: 2018-07-05 03:44 PM
 
 [Agilemarkdown-project](agilemarkdown-project.md)
 
-![velocity](agilemarkdown-project/velocity.png)
-
-
----
-
-[Velocity](velocity.md)
-
-![velocity](velocity/velocity.png)
+![velocity](velocity/agilemarkdown-project.png)
 

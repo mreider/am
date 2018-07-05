@@ -4,10 +4,6 @@
 
 Welcome to Agilemarkdown, an open source backlog manager that uses Markdown and Git. To read more about the project visit [agilemarkdown.com](http: //agilemarkdown.com)  
 
-## backlogs
-
-[Agilemarkdown-project](agilemarkdown-project.md) • [archive](agilemarkdown-project/archive.md)
-
----
-
-[Velocity](velocity.md) • [archive](velocity/archive.md)
+| Backlog | Archive |
+|---|---|
+| [Agilemarkdown-project](agilemarkdown-project.md) | [archive](agilemarkdown-project/archive.md) |

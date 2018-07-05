@@ -5,10 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 03:54 AM  
-Modified: 2018-07-04 03:56 AM  
+Modified: 2018-07-05 11:57 AM  
 Tags: bug  
 Author: Matt Reider  
-Status: planned  
+Status: doing  
 Assigned: falconandy  
 Estimate: 2  
 
@@ -24,6 +24,9 @@ Make sure that the modified date changes so that velocity is measured properly
 
 @falconandy can you look at this bug?
 sent by @mreider at 2018-07-04 03:56 AM
+
+@mreider ready to test. You should update agilemarkdown binary on the server reider.club
+sent by @falconandy at 2018-07-05 01:03 PM
 
 ## Attachments
 
