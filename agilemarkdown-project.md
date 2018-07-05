@@ -27,6 +27,7 @@ Modified: 2018-07-05 11:57 AM
 ### Unplanned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
+| falconandy | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 | [ideas](tags/ideas.md) |
 
 ### Finished
 | User | Title | Points | Tags |
