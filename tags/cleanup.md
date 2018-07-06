@@ -2,11 +2,15 @@
 
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md)
 
+## Doing
+| User | Project | Title | Points | Tags |
+|---|---|---|:---:|---|
+| Falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Change file name when story title changes](../agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [cleanup](cleanup.md) |
+
 ## Planned
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
 | falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [cleanup](cleanup.md) |
-| Falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Change file name when story title changes](../agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [cleanup](cleanup.md) |
 
 ## Finished
 | User | Project | Title | Points | Tags |
