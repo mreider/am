@@ -34,7 +34,7 @@ Modified: 2018-07-05 11:57 AM
 | falconandy | [Generate index page](agilemarkdown-project/generate-index-page.md) | 2 |  |
 | falconandy | [Kill Home and sidebar pages](agilemarkdown-project/kill-Home-and-sidebar-pages.md) | 1 | [cleanup](tags/cleanup.md) |
 | falconandy | [Links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) | 1 |  |
-| falconandy | [Make things generic](agilemarkdown-project/make-things-generic.md.md) | 1 |  |
+| falconandy | [Make things generic](agilemarkdown-project/make-things-generic.md) | 1 |  |
 | falconandy | [Outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) | 3 |  |
 | falconandy | [Overview page needs unique names](agilemarkdown-project/overview-page-needs-unique-names.md) | 1 |  |
 | falconandy | [Pivotal-tracker-import](agilemarkdown-project/pivotal-tracker-import.md) | 2 |  |
