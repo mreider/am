@@ -5,10 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 02:43 PM  
-Modified: 2018-07-04 02:45 PM  
+Modified: 2018-07-06 10:08 AM  
 Tags: Cleanup  
 Author: Matt Reider  
-Status: planned  
+Status: doing  
 Assigned: falconandy  
 Estimate: 3  
 

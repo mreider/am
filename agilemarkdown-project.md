@@ -9,13 +9,13 @@ Modified: 2018-07-05 11:57 AM
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
+| falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [Cleanup](tags/cleanup.md) |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [Stories can be on more than one timeline](agilemarkdown-project/Forecast-dates-by-tag.md) | 3 | [Timelines](tags/timelines.md) |
 | falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
-| falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [Cleanup](tags/cleanup.md) |
 | Falconandy | [Change file name when story title changes](agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [cleanup](tags/cleanup.md) |
 | Falconandy | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 | [visuals](tags/visuals.md) |
 | Falconandy | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [Cleanup](tags/cleanup.md) |
