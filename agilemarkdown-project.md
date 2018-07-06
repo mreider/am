@@ -15,7 +15,7 @@ Modified: 2018-07-05 11:57 AM
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [Stories can be on more than one timeline](agilemarkdown-project/Forecast-dates-by-tag.md) | 3 | [Timelines](tags/timelines.md) |
+| falconandy | [Stories can be on more than one timeline](agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](tags/timelines.md) |
 | falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | Falconandy | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 | [visuals](tags/visuals.md) |
 | Falconandy | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [Cleanup](tags/cleanup.md) |
@@ -41,7 +41,7 @@ Modified: 2018-07-05 11:57 AM
 | falconandy | [Prioritize stories](agilemarkdown-project/prioritize-stories.md) | 3 |  |
 | falconandy | [Put some placeholders in the story](agilemarkdown-project/put-some-placeholders-in-the-story.md) | 1 |  |
 | falconandy | [Regenerate overview](agilemarkdown-project/regenerate-overview.md) | 3 |  |
-| falconandy | [Support for clarification requests](agilemarkdown-project/send-comments-to-users.md) | 3 |  |
+| falconandy | [Support for clarification requests](agilemarkdown-project/support-for-clarification-requests.md) | 3 |  |
 | falconandy | [Stories can be archived](agilemarkdown-project/stories-can-be-archived.md) | 3 |  |
 | falconandy | [Tag stories](agilemarkdown-project/tag-stories.md) | 5 |  |
 | falconandy | [All pages should have links at the top](agilemarkdown-project/all-pages-should-have-links-at-the-top.md) | 1 |  |
