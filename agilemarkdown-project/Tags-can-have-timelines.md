@@ -5,10 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Created: 2018-07-04 01:21 PM  
-Modified: 2018-07-04 02:12 PM  
+Modified: 2018-07-07 12:18 PM  
 Tags: timelines
 Author: Matt Reider  
-Status: planned  
+Status: doing  
 Assigned: falconandy  
 Estimate: 5  
 
