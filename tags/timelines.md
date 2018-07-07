@@ -2,7 +2,7 @@
 
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md)
 
-## Planned
+## Doing
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
 | falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags can have timelines](../agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](timelines.md) |
