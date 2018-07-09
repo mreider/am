@@ -18,4 +18,5 @@
 
 | Author | Idea | Tags |
 |---|---|---|
+| Matt Reider | [Hi there](ideas/hi-there.md) |  |
 | Matt Reider | [Test](ideas/test.md) |  |
