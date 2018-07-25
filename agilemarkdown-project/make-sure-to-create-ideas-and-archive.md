@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-17 04:15 PM  
-Modified: 2018-05-25 09:19 PM  
 Tags:   
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
@@ -23,3 +20,9 @@ an ideas folder up front so that outside users know where to put new ideas.
 ## Comments
 
 ## Attachments
+
+## Metadata
+
+Created: 2018-05-17 04:15 PM  
+Modified: 2018-05-25 09:19 PM  
+Author: Matt Reider  

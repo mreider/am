@@ -2,11 +2,8 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-02 11:44 AM  
-Modified: 2018-05-22 08:49 PM  
-Author: mreider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
@@ -24,3 +21,9 @@ When a user types a command from the command line like `am work` or `am change-s
 ## Comments
 
  @falconandy - this works great.
+
+## Metadata
+
+Created: 2018-05-02 11:44 AM  
+Modified: 2018-05-22 08:49 PM  
+Author: mreider  

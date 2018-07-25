@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-16 10:34 PM  
-Modified: 2018-05-25 09:11 PM  
 Tags:   
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 2  
@@ -31,3 +28,9 @@ Look at the current index page and re-generate the backlogs section every time. 
  @falconandy The link to the backlog is broken on the index page
 
 ## Attachments
+
+## Metadata
+
+Created: 2018-05-16 10:34 PM  
+Modified: 2018-05-25 09:11 PM  
+Author: Matt Reider  

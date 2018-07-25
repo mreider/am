@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-07-06 07:53 PM  
-Modified: 2018-07-15 01:25 PM  
 Tags: velocity  
-Author: Matt Reider  
 Status: doing  
 Assigned: falconandy  
 Estimate: 2  
@@ -27,3 +24,9 @@ sent by @mreider at 2018-07-06 07:54 PM
 
 ## Attachments
 
+
+## Metadata
+
+Created: 2018-07-06 07:53 PM  
+Modified: 2018-07-15 01:25 PM  
+Author: Matt Reider  

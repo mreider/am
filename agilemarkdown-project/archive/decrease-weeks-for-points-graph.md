@@ -2,11 +2,8 @@
 
 Project: Agilemarkdown-project
 
-[home](../../index.md) • [idea list](../../ideas.md) • [tag list](../../tags.md) • [velocity](../../velocity.md) • [project page](../../agilemarkdown-project.md) • [archive](../archive.md)
+[home](../../index.md) • [idea list](../../ideas.md) • [tag list](../../tags.md) • [velocity](../../velocity.md) • [timeline](../../timeline.md) • [project page](../../agilemarkdown-project.md) • [archive](../archive.md)
 
-Created: 2018-05-02 05:55 PM  
-Modified: 2018-05-25 09:12 PM  
-Author: mreider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
@@ -26,3 +23,9 @@ The points graph is too wide to show up nicely on the home page.
 
   @mreider The width is decreased from 84 symbols to 60.
   @falconandy now that I am moving away from Github, you can put it back to 84. Sorry for the busy work.
+
+## Metadata
+
+Created: 2018-05-02 05:55 PM  
+Modified: 2018-05-25 09:12 PM  
+Author: mreider  

@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-16 07:33 PM  
-Modified: 2018-05-23 08:54 PM  
 Tags:   
-Author: mreider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
@@ -53,3 +50,9 @@ same as above...
 ## Comments
 
 ## Attachments
+
+## Metadata
+
+Created: 2018-05-16 07:33 PM  
+Modified: 2018-05-23 08:54 PM  
+Author: mreider  

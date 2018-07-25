@@ -2,13 +2,10 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-07-04 02:16 PM  
-Modified: 2018-07-14 11:01 AM  
-Tags:   Timelines
-Author: Matt Reider  
-Status: doing
+Tags: Timelines  
+Status: doing  
 Assigned: falconandy  
 Estimate: 3  
 
@@ -26,3 +23,9 @@ So forecast_start_[tag]: date etc.
 
 ## Attachments
 
+
+## Metadata
+
+Created: 2018-07-04 02:16 PM  
+Modified: 2018-07-14 11:01 AM  
+Author: Matt Reider  

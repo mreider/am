@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-07-04 03:49 AM  
-Modified: 2018-07-05 04:11 PM  
 Tags:   
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
@@ -47,3 +44,9 @@ sent by @falconandy at 2018-07-05 01:03 PM
 sent by @mreider at 2018-07-05 04:11 PM
 
 ## Attachments
+
+## Metadata
+
+Created: 2018-07-04 03:49 AM  
+Modified: 2018-07-05 04:11 PM  
+Author: Matt Reider  

@@ -2,11 +2,8 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-02 02:16 PM  
-Modified: 2018-05-22 08:49 PM  
-Author: mreider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 5  
@@ -43,3 +40,9 @@ Please add tags to the markdown tables for for 'am work' and 'am points'
 
  @mreider You wrote in Upwork chat "let's use quotes if there's more than 1. and it's an AND"
 I'll change it to OR
+
+## Metadata
+
+Created: 2018-05-02 02:16 PM  
+Modified: 2018-05-22 08:49 PM  
+Author: mreider  

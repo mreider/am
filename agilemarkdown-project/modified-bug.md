@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-07-04 03:54 AM  
-Modified: 2018-07-05 11:57 AM  
 Tags: bug  
-Author: Matt Reider  
 Status: doing  
 Assigned: falconandy  
 Estimate: 2  
@@ -30,3 +27,9 @@ sent by @falconandy at 2018-07-05 01:03 PM
 
 ## Attachments
 
+
+## Metadata
+
+Created: 2018-07-04 03:54 AM  
+Modified: 2018-07-05 11:57 AM  
+Author: Matt Reider  

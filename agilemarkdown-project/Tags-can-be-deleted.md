@@ -2,13 +2,10 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-07-04 03:22 PM  
-Modified: 2018-07-14 11:02 PM  
 Tags: Cleanup  
-Author: Matt Reider  
-Status: doing 
+Status: doing  
 Assigned: falconandy  
 Estimate: 2  
 
@@ -35,3 +32,9 @@ Also delete the forecasted dates for that tag across all stories.
 
 ## Attachments
 
+
+## Metadata
+
+Created: 2018-07-04 03:22 PM  
+Modified: 2018-07-14 11:02 PM  
+Author: Matt Reider  

@@ -2,11 +2,8 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-13 10:06 PM  
-Modified: 2018-05-22 08:49 PM  
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
@@ -24,3 +21,9 @@ User directory names in the links on the project page.
  @mreider Ready for testing
 
 ## Attachments
+
+## Metadata
+
+Created: 2018-05-13 10:06 PM  
+Modified: 2018-05-22 08:49 PM  
+Author: Matt Reider  

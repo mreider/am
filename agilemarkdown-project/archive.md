@@ -1,9 +1,6 @@
 # Archive: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md)
-
-Created: 2018-05-16 08:19 PM  
-Modified: 2018-05-25 09:12 PM  
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md)
 
 ### Finished
 | User | Title | Points | Tags |

@@ -2,11 +2,8 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-10 11:31 AM  
-Modified: 2018-05-22 08:49 PM  
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
@@ -56,3 +53,9 @@ Go ahead and regenerate this page with every sync, so we can avoid problems like
  @mreider The tag pages are not related to a specific project. I can't add the 'project page' link, only links to all related projects. 
 
  @falconandy this has an issue with tags from Pivotal Tracker. It looks like Pivotal separates tags with commas, but allows tags with spaces in them. If you could fix the import to replace the space with a dash, and then treat each comma separated tag as a different tag that would be great.
+
+## Metadata
+
+Created: 2018-05-10 11:31 AM  
+Modified: 2018-05-22 08:49 PM  
+Author: Matt Reider  

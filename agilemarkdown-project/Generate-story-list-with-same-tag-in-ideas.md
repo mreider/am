@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-07-04 03:13 PM  
-Modified: 2018-07-06 03:50 PM  
 Tags: visuals  
-Author: Matt Reider  
 Status: doing  
 Assigned: Falconandy  
 Estimate: 2  
@@ -24,3 +21,9 @@ When am sync runs, see if an idea’s tag has related stories and create a table
 
 ## Attachments
 
+
+## Metadata
+
+Created: 2018-07-04 03:13 PM  
+Modified: 2018-07-06 03:50 PM  
+Author: Matt Reider  

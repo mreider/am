@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-07-04 01:21 PM  
-Modified: 2018-07-07 12:18 PM  
-Tags: timelines
-Author: Matt Reider  
+Tags: timelines  
 Status: doing  
 Assigned: falconandy  
 Estimate: 5  
@@ -82,3 +79,9 @@ sent by @falconandy at 2018-07-12 02:36 PM
 
 ## Attachments
 
+
+## Metadata
+
+Created: 2018-07-04 01:21 PM  
+Modified: 2018-07-07 12:18 PM  
+Author: Matt Reider  

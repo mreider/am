@@ -2,11 +2,8 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-02 11:19 AM  
-Modified: 2018-05-22 08:49 PM  
-Author: mreider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
@@ -33,3 +30,9 @@ Do you think it might be better to name the index pages according to the backlog
 Your suggestion about index page names is better than the current solution, I think. Let's try it! 
 
 ## Attachments
+
+## Metadata
+
+Created: 2018-05-02 11:19 AM  
+Modified: 2018-05-22 08:49 PM  
+Author: mreider  

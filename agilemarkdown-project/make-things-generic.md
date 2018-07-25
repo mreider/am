@@ -2,11 +2,8 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-10 11:07 AM  
-Modified: 2018-05-22 08:49 PM  
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
@@ -25,3 +22,8 @@ Since the progress graph is useful, let's put that at the top of the project pag
 
   @falconandy this is a new one for the planned list.
   @mreider Ready for testing
+## Metadata
+
+Created: 2018-05-10 11:07 AM  
+Modified: 2018-05-22 08:49 PM  
+Author: Matt Reider  

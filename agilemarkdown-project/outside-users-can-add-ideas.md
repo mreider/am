@@ -2,11 +2,8 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-10 11:14 AM  
-Modified: 2018-05-22 08:49 PM  
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
@@ -57,3 +54,9 @@ Jimmy | (idea name)[ideas/idea-link.md](pivotal-tracker-import) | (tag1)[tag-pag
  @falconandy the idea link is broken on the idea page because there is nothing printing inside of ``[here](but this is fine)`` this is also happening on the index page. I think this is because it was grabbing titles from the title key/pair not the header.
 
  @falconandy it also looks like we are creating the menu links and dates over and over again. see here: https://reider.club/project/ideas/some-things.md
+
+## Metadata
+
+Created: 2018-05-10 11:14 AM  
+Modified: 2018-05-22 08:49 PM  
+Author: Matt Reider  

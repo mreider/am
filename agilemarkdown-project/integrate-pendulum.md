@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-26 12:15 AM  
-Modified: 2018-06-05 10:33 PM  
 Tags:   
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 5  
@@ -160,3 +157,9 @@ New links should work
 A Caddy user should be passed to Pendulum to be used as an author of stories/ideas
 
 ## Attachments
+
+## Metadata
+
+Created: 2018-05-26 12:15 AM  
+Modified: 2018-06-05 10:33 PM  
+Author: Matt Reider  

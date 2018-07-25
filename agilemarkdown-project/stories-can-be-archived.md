@@ -2,11 +2,8 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-10 11:43 AM  
-Modified: 2018-05-22 08:49 PM  
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
@@ -37,3 +34,9 @@ A link to the archive page should go at bottom of the project page as follows:
  @mreider Should 'work', 'change-status', 'assign' commands show all items or only active (non archived)?
 
   @falconandy once something is archived it should not show up in any lists. If user wants to "unarchive" they can move it manually
+
+## Metadata
+
+Created: 2018-05-10 11:43 AM  
+Modified: 2018-05-22 08:49 PM  
+Author: Matt Reider  

@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-07-04 03:56 AM  
-Modified: 2018-07-05 08:54 PM  
 Tags: cleanup  
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
@@ -42,3 +39,9 @@ sent by @mreider at 2018-07-05 08:54 PM
 
 ## Attachments
 
+
+## Metadata
+
+Created: 2018-07-04 03:56 AM  
+Modified: 2018-07-05 08:54 PM  
+Author: Matt Reider  

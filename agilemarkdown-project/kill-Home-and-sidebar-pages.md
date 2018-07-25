@@ -2,12 +2,9 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Created: 2018-05-15 10:29 PM  
-Modified: 2018-05-22 08:49 PM  
 Tags: cleanup  
-Author: Matt Reider  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
@@ -28,3 +25,9 @@ Stop generating them and remove them from this repo
 I've removed them.
 
 ## Attachments
+
+## Metadata
+
+Created: 2018-05-15 10:29 PM  
+Modified: 2018-05-22 08:49 PM  
+Author: Matt Reider  
