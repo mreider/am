@@ -15,6 +15,7 @@
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | Falconandy | [Pivotal import supports user creation](agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](tags/pivotal.md) |
+| falconandy | [Create users via stories](agilemarkdown-project/Create-users-via-stories.md) | 2 | [users,](tags/users.md) [stories](tags/stories.md) |
 
 ### Unplanned
 | User | Title | Points | Tags |
