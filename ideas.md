@@ -6,7 +6,7 @@
 
 | Author | Idea | Tags |
 |---|---|---|
-| Matt Reider | [Some things](ideas/some-things.md) | [cleanup](tags/cleanup.md) |
+| Matt Reider | [Some things](ideas/some-things.md) | [clean-things](tags/clean-things.md) |
 
 ## Rank: p3
 

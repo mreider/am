@@ -4,11 +4,10 @@ Project: Agilemarkdown-project
 
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Tags: cleanup  
+Tags: clean-things  
 Status: doing  
 Assigned: Falconandy  
 Estimate: 3  
-Timeline cleanup: 2018-08-02 2018-08-06  
 
 ## Problem statement
 

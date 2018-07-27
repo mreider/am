@@ -5,7 +5,7 @@
 ---  
   
 [bug](tags/bug.md)  
-[cleanup](tags/cleanup.md)  
+[clean-things](tags/clean-things.md)  
 [tags](tags/tags.md)  
 [timelines](tags/timelines.md)  
 [velocity](tags/velocity.md)

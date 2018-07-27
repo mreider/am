@@ -5,12 +5,12 @@
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| Falconandy | [Change file name when story title changes](agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [cleanup](tags/cleanup.md) |
-| Falconandy | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [Cleanup](tags/cleanup.md) |
+| Falconandy | [Change file name when story title changes](agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [clean-things](tags/clean-things.md) |
+| Falconandy | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](tags/clean-things.md) |
 | Falconandy | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 |  |
 | falconandy | [Stories can be on more than one timeline](agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](tags/timelines.md) |
 | falconandy | [Tags can be changed](agilemarkdown-project/Tags-can-be-changed.md) | 2 | [tags](tags/tags.md) |
-| falconandy | [Archived stories are not forecasted](agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [cleanup](tags/cleanup.md) |
+| falconandy | [Archived stories are not forecasted](agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](tags/clean-things.md) |
 | falconandy | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | falconandy | [Velocity is based on finished date](agilemarkdown-project/velocity-is-based-on-finished-date.md) | 2 | [velocity](tags/velocity.md) |
 
@@ -26,7 +26,7 @@
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [Generate index page](agilemarkdown-project/generate-index-page.md) | 2 |  |
-| falconandy | [Kill Home and sidebar pages](agilemarkdown-project/kill-Home-and-sidebar-pages.md) | 1 | [cleanup](tags/cleanup.md) |
+| falconandy | [Kill Home and sidebar pages](agilemarkdown-project/kill-Home-and-sidebar-pages.md) | 1 | [clean-things](tags/clean-things.md) |
 | falconandy | [Links-should-have-subdirectory](agilemarkdown-project/links-should-have-subdirectory.md) | 1 |  |
 | falconandy | [Make things generic](agilemarkdown-project/make-things-generic.md) | 1 |  |
 | falconandy | [Outside users can add ideas](agilemarkdown-project/outside-users-can-add-ideas.md) | 3 |  |
@@ -51,9 +51,9 @@
 | falconadny | [Proper-clarifications-and-ideas](agilemarkdown-project/proper-clarifications-and-ideas.md) | 5 |  |
 | falconandy | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) | 5 |  |
 | falconandy | [Introduce velocity](agilemarkdown-project/introduce-velocity.md) | 3 |  |
-| falconandy | [Closing pendulum should refresh](agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 | [cleanup](tags/cleanup.md) |
+| falconandy | [Closing pendulum should refresh](agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 | [clean-things](tags/clean-things.md) |
 | falconandy | [Put backlogs in a table on home](agilemarkdown-project/put-backlogs-in-a-table-on-home.md) | 1 |  |
-| falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [Cleanup](tags/cleanup.md) |
+| falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [clean-things](tags/clean-things.md) |
 | falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
-| falconandy | [Tags can be deleted](agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [Cleanup](tags/cleanup.md) |
+| falconandy | [Tags can be deleted](agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [clean-things](tags/clean-things.md) |
