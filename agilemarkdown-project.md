@@ -6,11 +6,9 @@
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
-| falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [Cleanup](tags/cleanup.md) |
 | Falconandy | [Change file name when story title changes](agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [cleanup](tags/cleanup.md) |
 | Falconandy | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [Cleanup](tags/cleanup.md) |
 | Falconandy | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 | [visuals](tags/visuals.md) |
-| falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | falconandy | [Stories can be on more than one timeline](agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](tags/timelines.md) |
 | falconandy | [Tags can be deleted](agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [Cleanup](tags/cleanup.md) |
 | falconandy | [Tags can be changed](agilemarkdown-project/Tags-can-be-changed.md) | 2 | [tags](tags/tags.md) |
@@ -57,3 +55,5 @@
 | falconandy | [Introduce velocity](agilemarkdown-project/introduce-velocity.md) | 3 |  |
 | falconandy | [Closing pendulum should refresh](agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 | [cleanup](tags/cleanup.md) |
 | falconandy | [Put backlogs in a table on home](agilemarkdown-project/put-backlogs-in-a-table-on-home.md) | 1 |  |
+| falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [Cleanup](tags/cleanup.md) |
+| falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
