@@ -7,7 +7,7 @@
 |---|---|---|:---:|---|
 | falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](clean-things.md) |
 | Falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](clean-things.md) |
-| Falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Change file name when story title changes](../agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [clean-things](clean-things.md) |
+| Falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Change file when story title changes](../agilemarkdown-project/change-file-when-story-title-changes.md) | 3 | [clean-things](clean-things.md) |
 
 ## Finished
 | User | Project | Title | Points | Tags |
