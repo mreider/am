@@ -25,7 +25,8 @@ sent by @mreider at 2018-07-04 03:56 AM
 @mreider ready to test. You should update agilemarkdown binary on the server reider.club
 sent by @falconandy at 2018-07-05 01:03 PM
 @falconandy testing
-can't send by @mreider at 2018-07-27 02:44 AM: EOF
+sent by @mreider at 2018-07-27 02:45 AM
+
 
 
 
