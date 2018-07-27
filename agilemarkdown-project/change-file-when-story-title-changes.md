@@ -5,9 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: clean-things  
-Status: doing  
+Status: finished  
 Assigned: Falconandy  
 Estimate: 3  
+Finished: 2018-07-27 02:54 AM  
 
 ## Problem statement
 
@@ -24,11 +25,14 @@ Don’t worry about file name collisions, fail silently. Whatever.
 @falconandy another story
 sent by @mreider at 2018-07-04 03:11 PM
 
+@falconandy - great!
+sent by @mreider at 2018-07-27 02:54 AM
+
 ## Attachments
 
 
 ## Metadata
 
 Created: 2018-07-04 02:46 PM  
-Modified: 2018-07-06 12:56 PM  
+Modified: 2018-07-27 02:54 AM  
 Author: Matt Reider  
