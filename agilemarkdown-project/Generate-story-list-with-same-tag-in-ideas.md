@@ -4,7 +4,7 @@ Project: Agilemarkdown-project
 
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Tags: visuals  
+Tags:   
 Status: doing  
 Assigned: Falconandy  
 Estimate: 2  

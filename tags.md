@@ -9,5 +9,4 @@
 [ideas](tags/ideas.md)  
 [tags](tags/tags.md)  
 [timelines](tags/timelines.md)  
-[velocity](tags/velocity.md)  
-[visuals](tags/visuals.md)
+[velocity](tags/velocity.md)
