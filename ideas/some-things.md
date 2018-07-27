@@ -14,6 +14,8 @@ Hey. I really think we should do some shit!
 |---|---|---|---|---|
 |f   |f   |f   |f   |f   |
 
+@falconandy test
+
 ## Stories
 
 | User | Project | Title | Status | Points | Tags |
