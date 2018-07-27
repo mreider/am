@@ -85,6 +85,9 @@ sent by @mreider at 2018-07-27 02:47 AM
 @falconandy - I tried to do this with the cleanup-things tag and it failed, perhaps because there is a dash in it? i.e. when I typed 'am timeline cleanup-things' and then '6 2018-08-01 2018-08-02' nothing happened :(
 sent by @mreider at 2018-07-27 03:07 AM
 
+@mreider Fixed
+sent by @falconandy at 2018-07-27 07:26 PM
+
 ## Attachments
 
 
