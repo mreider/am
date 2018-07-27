@@ -5,9 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: Cleanup  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 2  
+Finished: 2018-07-27 02:52 AM  
 
 ## Problem statement
 
@@ -30,11 +31,14 @@ Also delete the forecasted dates for that tag across all stories.
 
 ## Comments
 
+@falconandy great!
+sent by @mreider at 2018-07-27 02:52 AM
+
 ## Attachments
 
 
 ## Metadata
 
 Created: 2018-07-04 03:22 PM  
-Modified: 2018-07-14 11:02 PM  
+Modified: 2018-07-27 02:52 AM  
 Author: Matt Reider  
