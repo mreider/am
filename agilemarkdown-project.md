@@ -9,6 +9,7 @@
 | falconandy | [Stories can be on more than one timeline](agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](tags/timelines.md) |
 | falconandy | [Archived stories are not forecasted](agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](tags/clean-things.md) |
 | falconandy | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
+| falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 
 ### Planned
 | User | Title | Points | Tags |
@@ -50,7 +51,6 @@
 | falconandy | [Closing pendulum should refresh](agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 | [clean-things](tags/clean-things.md) |
 | falconandy | [Put backlogs in a table on home](agilemarkdown-project/put-backlogs-in-a-table-on-home.md) | 1 |  |
 | falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [clean-things](tags/clean-things.md) |
-| falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
 | falconandy | [Tags can be deleted](agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [clean-things](tags/clean-things.md) |
 | falconandy | [Tags can be changed](agilemarkdown-project/Tags-can-be-changed.md) | 2 | [tags](tags/tags.md) |
