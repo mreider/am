@@ -5,9 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags:   
-Status: doing  
+Status: finished  
 Assigned: Falconandy  
 Estimate: 2  
+Finished: 2018-07-27 02:58 AM  
 
 ## Problem statement
 
@@ -19,11 +20,14 @@ When am sync runs, see if an idea’s tag has related stories and create a table
 
 ## Comments
 
+@falconandy - awesome. Accepting this story.
+sent by @mreider at 2018-07-27 02:58 AM
+
 ## Attachments
 
 
 ## Metadata
 
 Created: 2018-07-04 03:13 PM  
-Modified: 2018-07-06 03:50 PM  
+Modified: 2018-07-27 02:58 AM  
 Author: Matt Reider  

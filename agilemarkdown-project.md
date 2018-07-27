@@ -6,7 +6,6 @@
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | Falconandy | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](tags/clean-things.md) |
-| Falconandy | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 |  |
 | falconandy | [Stories can be on more than one timeline](agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](tags/timelines.md) |
 | falconandy | [Archived stories are not forecasted](agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](tags/clean-things.md) |
 | falconandy | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
@@ -57,3 +56,4 @@
 | falconandy | [Tags can be deleted](agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [clean-things](tags/clean-things.md) |
 | falconandy | [Tags can be changed](agilemarkdown-project/Tags-can-be-changed.md) | 2 | [tags](tags/tags.md) |
 | Falconandy | [Change file when story title changes](agilemarkdown-project/change-file-when-story-title-changes.md) | 3 | [clean-things](tags/clean-things.md) |
+| Falconandy | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 |  |
