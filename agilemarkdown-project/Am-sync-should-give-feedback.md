@@ -29,6 +29,8 @@ Sending email to john smith
 Pushing changes to git
 Sync successful
 
+Errors in git, or in sending emails, should be shown.
+
 ## Comments
 
 @falconandy another new bit
