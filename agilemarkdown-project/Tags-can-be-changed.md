@@ -5,9 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: tags  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 2  
+Finished: 2018-07-27 02:53 AM  
 
 ## Problem statement
 
@@ -39,5 +40,5 @@ If the tag already exists, replace all the tags, but make sure the stories don�
 ## Metadata
 
 Created: 2018-07-04 03:39 PM  
-Modified: 2018-07-14 12:10 PM  
+Modified: 2018-07-27 02:53 AM  
 Author: Matt Reider  
