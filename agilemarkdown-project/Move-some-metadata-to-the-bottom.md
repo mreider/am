@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: Cleanup  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 3  
 Timeline cleanup: 2018-07-26 2018-08-01  
@@ -26,6 +26,7 @@ Keep assigned, estimate, tags, status at the top.
 
 @falconandy new one
 sent by @mreider at 2018-07-04 02:45 PM
+@falconany looks good!
 
 ## Attachments
 

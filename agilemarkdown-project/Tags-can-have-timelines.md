@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: timelines  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 5  
 
@@ -74,8 +74,10 @@ sent by @mreider at 2018-07-04 02:12 PM
 
 @mreider Still waiting for your review. I've added timeline pages with gantt charts.
 The original https://github.com/gerald1248/timeline doesn't work properly, so I forked and modified it - https://github.com/falconandy/timeline
-Please, update agilemarkdown at reider.club before and run 'am sync' then 
+Please, update agilemarkdown at reider.club before and run 'am sync' then
 sent by @falconandy at 2018-07-12 02:36 PM
+
+@falconany this looks really good.
 
 ## Attachments
 
