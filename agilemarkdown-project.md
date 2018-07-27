@@ -19,6 +19,7 @@
 | falconandy | [There should be a view by user](agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](tags/users.md) |
 | falconandy | [Pages and work commands have sums](agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](tags/sprints.md) |
 | falconandy | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
+| falconandy | [Am sync should give feedback](agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](tags/sync.md) |
 
 ### Unplanned
 | User | Title | Points | Tags |

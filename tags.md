@@ -9,6 +9,7 @@
 [pivotal](tags/pivotal.md)  
 [sprints](tags/sprints.md)  
 [stories](tags/stories.md)  
+[sync](tags/sync.md)  
 [tags](tags/tags.md)  
 [timelines](tags/timelines.md)  
 [users](tags/users.md)  
