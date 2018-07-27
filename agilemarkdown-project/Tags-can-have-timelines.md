@@ -78,8 +78,9 @@ The original https://github.com/gerald1248/timeline doesn't work properly, so I 
 Please, update agilemarkdown at reider.club before and run 'am sync' then
 sent by @falconandy at 2018-07-12 02:36 PM
 
-@falconany this looks really good.
-can't send by @mreider at 2018-07-27 02:47 AM: unknown user [falconany]
+@falconandy this looks really good.
+sent by @mreider at 2018-07-27 02:47 AM
+
 
 ## Attachments
 
