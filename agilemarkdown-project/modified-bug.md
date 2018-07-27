@@ -25,7 +25,8 @@ sent by @mreider at 2018-07-04 03:56 AM
 @mreider ready to test. You should update agilemarkdown binary on the server reider.club
 sent by @falconandy at 2018-07-05 01:03 PM
 @falconandy testing
-can't send by @mreider at 2018-07-27 02:31 AM: SMTP server isn't configured
+can't send by @mreider at 2018-07-27 02:43 AM: dial tcp: address smtp.gmail.com: missing port in address
+
 
 
 ## Attachments
