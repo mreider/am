@@ -5,7 +5,6 @@
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
 | Falconandy | [Change file name when story title changes](agilemarkdown-project/Change-file-name-when-story-title-changes.md) | 3 | [cleanup](tags/cleanup.md) |
 | Falconandy | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [Cleanup](tags/cleanup.md) |
 | Falconandy | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 | [visuals](tags/visuals.md) |
@@ -57,3 +56,4 @@
 | falconandy | [Put backlogs in a table on home](agilemarkdown-project/put-backlogs-in-a-table-on-home.md) | 1 |  |
 | falconandy | [Move some metadata to the bottom](agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [Cleanup](tags/cleanup.md) |
 | falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
+| falconandy | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |

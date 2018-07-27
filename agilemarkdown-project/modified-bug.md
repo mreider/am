@@ -5,9 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: bug  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 2  
+Finished: 2018-07-27 02:46 AM  
 
 ## Problem statement
 
@@ -31,11 +32,12 @@ sent by @mreider at 2018-07-27 02:45 AM
 
 
 
+
 ## Attachments
 
 
 ## Metadata
 
 Created: 2018-07-04 03:54 AM  
-Modified: 2018-07-05 11:57 AM  
+Modified: 2018-07-27 02:46 AM  
 Author: Matt Reider  
