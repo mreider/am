@@ -8,6 +8,7 @@ Tags: Cleanup
 Status: doing  
 Assigned: falconandy  
 Estimate: 3  
+Timeline cleanup: 2018-07-26 2018-08-01  
 
 ## Problem statement
 
