@@ -11,13 +11,13 @@
 | falconandy | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | falconandy | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | falconandy | [Pages and work commands have sums](agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](tags/sprints.md) |
+| falconandy | [There should be a view by user](agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](tags/users.md) |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | Falconandy | [Pivotal import supports user creation](agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](tags/pivotal.md) |
 | falconandy | [Create users via stories](agilemarkdown-project/Create-users-via-stories.md) | 2 | [users,](tags/users.md) [stories](tags/stories.md) |
-| falconandy | [There should be a view by user](agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](tags/users.md) |
 | falconandy | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
 | falconandy | [Am sync should give feedback](agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](tags/sync.md) |
 | falconandy | [Pivotal import should add proper placeholders](agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](tags/pivotal.md) |

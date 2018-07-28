@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: users  
-Status: planned  
+Status: doing
 Assigned: falconandy  
 Estimate: 3  
 
@@ -33,5 +33,5 @@ sent by @mreider at 2018-07-27 05:16 AM
 ## Metadata
 
 Created: 2018-07-27 04:59 AM  
-Modified: 2018-07-27 04:59 AM  
+Modified: 2018-07-28 11:15 AM
 Author: Matt Reider  
