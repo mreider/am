@@ -20,6 +20,7 @@
 | falconandy | [Pages and work commands have sums](agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](tags/sprints.md) |
 | falconandy | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
 | falconandy | [Am sync should give feedback](agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](tags/sync.md) |
+| falconandy | [Pivotal import should add proper placeholders](agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](tags/pivotal.md) |
 
 ### Unplanned
 | User | Title | Points | Tags |
