@@ -21,6 +21,7 @@
 | falconandy | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
 | falconandy | [Am sync should give feedback](agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](tags/sync.md) |
 | falconandy | [Pivotal import should add proper placeholders](agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](tags/pivotal.md) |
+| falconandy | [Downcase everything on sync](agilemarkdown-project/downcase-everything-on-sync.md) | 1 | [clean-things](tags/clean-things.md) |
 
 ### Unplanned
 | User | Title | Points | Tags |

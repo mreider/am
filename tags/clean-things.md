@@ -8,6 +8,11 @@
 | falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](clean-things.md) |
 | Falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](clean-things.md) |
 
+## Planned
+| User | Project | Title | Points | Tags |
+|---|---|---|:---:|---|
+| falconandy | [Agilemarkdown-project](../agilemarkdown-project.md) | [Downcase everything on sync](../agilemarkdown-project/downcase-everything-on-sync.md) | 1 | [clean-things](clean-things.md) |
+
 ## Finished
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|

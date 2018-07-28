@@ -1,0 +1,31 @@
+# Downcase everything on sync
+
+Project: Agilemarkdown-project
+
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+
+Tags: clean-things  
+Status: planned  
+Assigned: falconandy  
+Estimate: 1  
+
+## Problem statement
+
+usernames, tags, and status should be lower case, otherwise things get messy
+
+## Possible solution
+
+When we am sync, we should downcase those things.
+
+## Comments
+
+@falconandy another bit
+sent by @mreider at 2018-07-28 12:15 AM
+
+## Attachments
+
+## Metadata
+
+Created: 2018-07-28 12:14 AM  
+Modified: 2018-07-28 12:14 AM  
+Author: Matt Reider  
