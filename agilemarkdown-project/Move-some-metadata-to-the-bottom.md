@@ -8,7 +8,6 @@ Tags: clean-things
 Status: finished  
 Assigned: falconandy  
 Estimate: 3  
-Finished: 0001-01-01 12:00 AM  
 
 ## Problem statement
 
