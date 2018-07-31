@@ -11,10 +11,9 @@
 | [falconandy](users/Andrey%20Sokolov.md) | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Pages and work commands have sums](agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](tags/sprints.md) |
-| [falconandy](users/Andrey%20Sokolov.md) | [There should be a view by user](agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](tags/users.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Create users via stories](agilemarkdown-project/Create-users-via-stories.md) | 2 | [users](tags/users.md) [stories](tags/stories.md) |
-| Total Points | | 23 | |
+| Total Points | | 20 | |
 
 ### Planned
 | User | Title | Points | Tags |
@@ -67,3 +66,4 @@
 | [Falconandy](users/Andrey%20Sokolov.md) | [Change file when story title changes](agilemarkdown-project/change-file-when-story-title-changes.md) | 3 | [clean-things](tags/clean-things.md) |
 | [Falconandy](users/Andrey%20Sokolov.md) | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Velocity is based on finished date](agilemarkdown-project/velocity-is-based-on-finished-date.md) | 2 | [velocity](tags/velocity.md) |
+| [falconandy](users/Andrey%20Sokolov.md) | [There should be a view by user](agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](tags/users.md) |
