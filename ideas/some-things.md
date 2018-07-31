@@ -14,11 +14,17 @@ Hey. I really think we should do some shit!
 |---|---|---|---|---|
 |f   |f   |f   |f   |f   |
 
-## comments
+## Comments
 
 @falconandy test
+sent by @falconandy at 2018-07-31 09:32 AM
 
 @falconandy test
+sent by @falconandy at 2018-07-31 09:32 AM
+
+@mreider Currently it works for 'Comments' section only (not 'comments'). I'll fix it later. 
+sent by @falconandy at 2018-07-31 09:32 AM
+
 
 ## Stories
 
