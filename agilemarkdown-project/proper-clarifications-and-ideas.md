@@ -6,7 +6,7 @@ Project: Agilemarkdown-project
 
 Tags:   
 Status: finished  
-Assigned: falconadny  
+Assigned: falconandy  
 Estimate: 5  
 
 ## Problem statement
@@ -57,5 +57,5 @@ sent by @falconandy at 2018-06-05 10:41 PM
 ## Metadata
 
 Created: 2018-05-26 12:31 AM  
-Modified: 2018-06-05 10:41 PM  
+Modified: 2018-07-31 10:59 PM  
 Author: Matt Reider  

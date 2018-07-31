@@ -53,7 +53,7 @@
 | [falconandy](users/Andrey%20Sokolov.md) | [Tags have their own pages](agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Archive everything before a certain date](agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Current project should be shown](agilemarkdown-project/current-project-should-be-shown.md) | 1 |  |
-| falconadny | [Proper-clarifications-and-ideas](agilemarkdown-project/proper-clarifications-and-ideas.md) | 5 |  |
+| [falconandy](users/Andrey%20Sokolov.md) | [Proper-clarifications-and-ideas](agilemarkdown-project/proper-clarifications-and-ideas.md) | 5 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Integrate-pendulum](agilemarkdown-project/integrate-pendulum.md) | 5 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Introduce velocity](agilemarkdown-project/introduce-velocity.md) | 3 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Closing pendulum should refresh](agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 | [clean-things](tags/clean-things.md) |

@@ -25,7 +25,7 @@ Keep assigned, estimate, tags, status at the top.
 
 @falconandy new one
 sent by @mreider at 2018-07-04 02:45 PM
-@falconany looks good!
+@falconandy looks good!
 can't send by @mreider at 2018-07-27 02:30 AM: unknown user [falconany]
 
 ## Attachments

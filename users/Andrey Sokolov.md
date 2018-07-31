@@ -53,6 +53,7 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Tags have their own pages](../agilemarkdown-project/tags-have-their-own-pages.md) | 3 |  |
 | [Archive everything before a certain date](../agilemarkdown-project/archive-everything-before-a-certain-date.md) | 2 |  |
 | [Current project should be shown](../agilemarkdown-project/current-project-should-be-shown.md) | 1 |  |
+| [Proper-clarifications-and-ideas](../agilemarkdown-project/proper-clarifications-and-ideas.md) | 5 |  |
 | [Integrate-pendulum](../agilemarkdown-project/integrate-pendulum.md) | 5 |  |
 | [Introduce velocity](../agilemarkdown-project/introduce-velocity.md) | 3 |  |
 | [Closing pendulum should refresh](../agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 | [clean-things](../tags/clean-things.md) |

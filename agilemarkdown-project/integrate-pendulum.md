@@ -76,7 +76,7 @@ For example, the template below has 4 additional lines to add 'EDIT' link (only 
 
  @mreider I've looked at the Pendulum source code. It seems, it could be forked and customized to our needs.
 
- @falconamdy - I will fork and add you
+ @falconandy - I will fork and add you
 
 @mreider See the next section "Proof of concept"
 sent by @falconandy at 2018-06-05 10:33 PM

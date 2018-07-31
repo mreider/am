@@ -22,6 +22,9 @@ Am sync should check if there are any assigned users that are not either in a fi
 @falconandy another new one
 sent by @mreider at 2018-07-27 04:58 AM
 
+@mreider Should it work in Pendulum editor in some way?
+sent by @falconandy at 2018-07-31 10:59 PM
+
 ## Attachments
 
 ## Metadata
