@@ -88,6 +88,9 @@ sent by @mreider at 2018-07-27 03:07 AM
 @mreider Fixed
 sent by @falconandy at 2018-07-27 07:26 PM
 
+@falconandy - thanks. I am not sure I understand the graph. Is it showing weeks of the month? I am looking at the one on reider.club
+sent by @mreider at 2018-07-31 05:07 AM
+
 ## Attachments
 
 
