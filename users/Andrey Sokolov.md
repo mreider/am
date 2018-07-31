@@ -14,10 +14,9 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](../tags/clean-things.md) |
 | [Comments and emails can be sent from ideas](../agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | [Tags can have timelines](../agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](../tags/timelines.md) |
-| [Pages and work commands have sums](../agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](../tags/sprints.md) |
 | [Users can be created, deleted and changed](../agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](../tags/users.md) |
 | [Create users via stories](../agilemarkdown-project/Create-users-via-stories.md) | 2 | [users](../tags/users.md) [stories](../tags/stories.md) |
-| Total Points | 20 | |
+| Total Points | 18 | |
 
 ### Planned
 | Title | Points | Tags |
@@ -66,3 +65,4 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Generate story list with same tag in ideas](../agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 |  |
 | [Velocity is based on finished date](../agilemarkdown-project/velocity-is-based-on-finished-date.md) | 2 | [velocity](../tags/velocity.md) |
 | [There should be a view by user](../agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](../tags/users.md) |
+| [Pages and work commands have sums](../agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](../tags/sprints.md) |

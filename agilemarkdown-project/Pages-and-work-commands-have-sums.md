@@ -5,9 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: sprints  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 2  
+Finished: 2018-07-31 05:03 AM  
 
 ## Problem statement
 
@@ -28,10 +29,13 @@ Put “total points” rows in the command line tools under ‘am work’ same a
 @falconandy another new bit
 sent by @mreider at 2018-07-27 05:23 AM
 
+@falconandy awesome
+sent by @mreider at 2018-07-31 05:03 AM
+
 ## Attachments
 
 ## Metadata
 
 Created: 2018-07-27 05:18 AM  
-Modified: 2018-07-28 10:30 AM  
+Modified: 2018-07-31 05:03 AM  
 Author: Matt Reider  
