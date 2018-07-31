@@ -22,6 +22,9 @@ Create a comment section in the ideas template, both via am create-idea and pend
 @falconandy another bit
 sent by @mreider at 2018-07-05 09:22 PM
 
+@falconandy I saw you made a commit here, but it doesn't work to email folks from ideas, only stories.
+sent by @mreider at 2018-07-31 05:08 AM
+
 ## Attachments
 
 
