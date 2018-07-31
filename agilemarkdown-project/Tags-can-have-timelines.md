@@ -91,6 +91,9 @@ sent by @falconandy at 2018-07-27 07:26 PM
 @falconandy - thanks. I am not sure I understand the graph. Is it showing weeks of the month? I am looking at the one on reider.club
 sent by @mreider at 2018-07-31 05:07 AM
 
+@mreider So 'https://github.com/gerald1248/timeline' works. It shows week numbers inside a year (1-52). I could try to add day numbers.
+sent by @falconandy at 2018-07-31 09:35 AM
+
 ## Attachments
 
 
