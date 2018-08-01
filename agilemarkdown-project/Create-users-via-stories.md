@@ -28,6 +28,11 @@ sent by @falconandy at 2018-07-31 10:59 PM
 @falconandy - don't you think it would be better to use am sync? if you assigned a user to "someuser" and there was no user file, you would just create it. That's all. Why do you think pendulum would be helpful?
 sent by @mreider at 2018-08-01 04:05 AM
 
+@mreider - I can create an user file, without user email. So I can't send new comments to him.
+Also misprint are possible: there were 3 misprints - falconamdy, falconany and falconadny.
+Three new user files for them?
+sent by @falconandy at 2018-08-01 08:40 AM
+
 ## Attachments
 
 ## Metadata
