@@ -21,6 +21,9 @@ So forecast_start_[tag]: date etc.
 
 ## Comments
 
+@falconandy - I think I made a mistake here. The story will start / end at the same time, but it can appear on more than one timeline by tag. So instead of the story having more than one start / end date, it should be available on more than one timeline - but keep the same start / end. You are free to change the metadata to get us the right functionality here.
+sent by @mreider at 2018-08-01 04:02 AM
+
 ## Attachments
 
 
