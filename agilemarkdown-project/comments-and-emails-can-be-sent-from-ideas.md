@@ -5,9 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags:   
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 2  
+Finished: 2018-08-01 05:49 PM  
 
 ## Problem statement
 
@@ -34,5 +35,5 @@ sent by @falconandy at 2018-08-01 08:49 PM
 ## Metadata
 
 Created: 2018-07-05 09:20 PM  
-Modified: 2018-07-15 12:22 PM  
+Modified: 2018-08-01 05:49 PM  
 Author: Matt Reider  

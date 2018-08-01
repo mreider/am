@@ -12,12 +12,11 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](../tags/clean-things.md) |
 | [Stories can be on more than one timeline](../agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](../tags/timelines.md) |
 | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](../tags/clean-things.md) |
-| [Comments and emails can be sent from ideas](../agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | [Tags can have timelines](../agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](../tags/timelines.md) |
 | [Users can be created, deleted and changed](../agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](../tags/users.md) |
 | [Pivotal import supports user creation](../agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](../tags/pivotal.md) |
 | [Pivotal import should add proper placeholders](../agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](../tags/pivotal.md) |
-| Total Points | 19 | |
+| Total Points | 17 | |
 
 ### Planned
 | Title | Points | Tags |
@@ -66,3 +65,4 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Velocity is based on finished date](../agilemarkdown-project/velocity-is-based-on-finished-date.md) | 2 | [velocity](../tags/velocity.md) |
 | [There should be a view by user](../agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](../tags/users.md) |
 | [Pages and work commands have sums](../agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](../tags/sprints.md) |
+| [Comments and emails can be sent from ideas](../agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
