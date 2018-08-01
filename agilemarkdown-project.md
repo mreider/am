@@ -11,16 +11,16 @@
 | [falconandy](users/Andrey%20Sokolov.md) | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
-| Total Points | | 16 | |
+| [Falconandy](users/Andrey%20Sokolov.md) | [Pivotal import supports user creation](agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](tags/pivotal.md) |
+| [falconandy](users/Andrey%20Sokolov.md) | [Pivotal import should add proper placeholders](agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](tags/pivotal.md) |
+| Total Points | | 19 | |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| [Falconandy](users/Andrey%20Sokolov.md) | [Pivotal import supports user creation](agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](tags/pivotal.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Am sync should give feedback](agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](tags/sync.md) |
-| [falconandy](users/Andrey%20Sokolov.md) | [Pivotal import should add proper placeholders](agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](tags/pivotal.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Downcase everything on sync](agilemarkdown-project/downcase-everything-on-sync.md) | 1 | [clean-things](tags/clean-things.md) |
-| Total Points | | 6 | |
+| Total Points | | 3 | |
 
 ### Unplanned
 | User | Title | Points | Tags |

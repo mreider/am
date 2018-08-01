@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: Pivotal  
-Status: planned  
+Status: doing  
 Assigned: Falconandy  
 Estimate: 2  
 
@@ -27,5 +27,5 @@ sent by @mreider at 2018-07-27 04:53 AM
 ## Metadata
 
 Created: 2018-07-27 04:51 AM  
-Modified: 2018-07-27 04:51 AM  
+Modified: 2018-08-01 08:51 PM  
 Author: Matt Reider  
