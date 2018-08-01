@@ -6,6 +6,7 @@
   
 [bug](tags/bug.md)  
 [clean-things](tags/clean-things.md)  
+[foo](tags/foo.md)  
 [pivotal](tags/pivotal.md)  
 [sprints](tags/sprints.md)  
 [stuff](tags/stuff.md)  

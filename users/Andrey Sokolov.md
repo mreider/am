@@ -9,7 +9,7 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 ### Doing
 | Title | Points | Tags |
 |---|:---:|---|
-| [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](../tags/clean-things.md) |
+| [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) [foo](../tags/foo.md) |
 | [Stories can be on more than one timeline](../agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](../tags/timelines.md) |
 | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) |
 | [Tags can have timelines](../agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](../tags/timelines.md) |

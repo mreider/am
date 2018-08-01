@@ -6,6 +6,10 @@
 
 ![clean-things](timeline/clean-things.png)
 
+## Tag: [foo](tags/foo)
+
+![foo](timeline/foo.png)
+
 ## Tag: [stuff](tags/stuff)
 
 ![stuff](timeline/stuff.png)
