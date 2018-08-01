@@ -26,6 +26,9 @@ There should be a command ‘am change-user’ with old user (name, email, or pr
 @falconandy another one.
 sent by @mreider at 2018-07-27 05:43 AM
 
+@mreider Ready for testing
+sent by @falconandy at 2018-08-01 08:40 PM
+
 ## Attachments
 
 ## Metadata
