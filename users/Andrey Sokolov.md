@@ -13,7 +13,8 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Users can be created, deleted and changed](../agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](../tags/users.md) |
 | [Pivotal import supports user creation](../agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](../tags/pivotal.md) |
 | [Pivotal import should add proper placeholders](../agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](../tags/pivotal.md) |
-| Total Points | 7 | |
+| [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) |
+| Total Points | 9 | |
 
 ### Planned
 | Title | Points | Tags |

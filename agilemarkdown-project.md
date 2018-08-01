@@ -9,7 +9,8 @@
 | [falconandy](users/Andrey%20Sokolov.md) | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
 | [Falconandy](users/Andrey%20Sokolov.md) | [Pivotal import supports user creation](agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](tags/pivotal.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Pivotal import should add proper placeholders](agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](tags/pivotal.md) |
-| Total Points | | 7 | |
+| [falconandy](users/Andrey%20Sokolov.md) | [Archived stories are not forecasted](agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](tags/clean-things.md) [stuff](tags/stuff.md) |
+| Total Points | | 9 | |
 
 ### Planned
 | User | Title | Points | Tags |
