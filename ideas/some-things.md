@@ -25,6 +25,9 @@ sent by @falconandy at 2018-07-31 09:32 AM
 @mreider Currently it works for 'Comments' section only (not 'comments'). I'll fix it later. 
 sent by @falconandy at 2018-07-31 09:32 AM
 
+@mreider Fixed. Should work. In 'Comments' section only (case-insensitive)
+sent by @falconandy at 2018-08-01 08:49 PM
+
 
 ## Stories
 

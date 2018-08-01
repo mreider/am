@@ -25,6 +25,9 @@ sent by @mreider at 2018-07-05 09:22 PM
 @falconandy I saw you made a commit here, but it doesn't work to email folks from ideas, only stories.
 sent by @mreider at 2018-07-31 05:08 AM
 
+@mreider Should work. In 'Comments' section only (case-insensitive)
+sent by @falconandy at 2018-08-01 08:49 PM
+
 ## Attachments
 
 
