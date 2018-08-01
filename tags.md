@@ -8,6 +8,7 @@
 [clean-things](tags/clean-things.md)  
 [pivotal](tags/pivotal.md)  
 [sprints](tags/sprints.md)  
+[stuff](tags/stuff.md)  
 [sync](tags/sync.md)  
 [tags](tags/tags.md)  
 [timelines](tags/timelines.md)  
