@@ -15,8 +15,7 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Comments and emails can be sent from ideas](../agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | [Tags can have timelines](../agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](../tags/timelines.md) |
 | [Users can be created, deleted and changed](../agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](../tags/users.md) |
-| [Create users via stories](../agilemarkdown-project/Create-users-via-stories.md) | 2 | [users](../tags/users.md) [stories](../tags/stories.md) |
-| Total Points | 18 | |
+| Total Points | 16 | |
 
 ### Planned
 | Title | Points | Tags |

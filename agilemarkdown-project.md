@@ -11,8 +11,7 @@
 | [falconandy](users/Andrey%20Sokolov.md) | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
-| [falconandy](users/Andrey%20Sokolov.md) | [Create users via stories](agilemarkdown-project/Create-users-via-stories.md) | 2 | [users](tags/users.md) [stories](tags/stories.md) |
-| Total Points | | 18 | |
+| Total Points | | 16 | |
 
 ### Planned
 | User | Title | Points | Tags |
