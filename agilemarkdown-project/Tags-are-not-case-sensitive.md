@@ -8,7 +8,7 @@ Tags: clean-things
 Status: doing  
 Assigned: Falconandy  
 Estimate: 1  
-Timeline clean-things: 2018-08-01 2018-08-05  
+Timeline: 2018-08-01 2018-08-05  
 
 ## Problem statement
 
