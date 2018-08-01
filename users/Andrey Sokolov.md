@@ -13,8 +13,7 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Users can be created, deleted and changed](../agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](../tags/users.md) |
 | [Pivotal import supports user creation](../agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](../tags/pivotal.md) |
 | [Pivotal import should add proper placeholders](../agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](../tags/pivotal.md) |
-| [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) |
-| Total Points | 9 | |
+| Total Points | 7 | |
 
 ### Planned
 | Title | Points | Tags |
@@ -66,3 +65,4 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Comments and emails can be sent from ideas](../agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | [Stories can be on more than one timeline](../agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](../tags/timelines.md) |
 | [Tags can have timelines](../agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](../tags/timelines.md) |
+| [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) |

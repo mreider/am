@@ -5,10 +5,11 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: clean-things, stuff  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 2  
 Timeline: 2018-08-06 2018-08-10  
+Finished: 2018-08-01 06:10 PM  
   
 
 ## Problem statement
@@ -30,5 +31,5 @@ sent by @mreider at 2018-07-05 04:10 PM
 ## Metadata
 
 Created: 2018-07-05 04:09 PM  
-Modified: 2018-07-15 12:21 PM  
+Modified: 2018-08-01 06:10 PM  
 Author: Matt Reider  
