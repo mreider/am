@@ -8,6 +8,7 @@ Tags: clean-things, stuff
 Status: doing  
 Assigned: falconandy  
 Estimate: 2  
+Archived: true
 Timeline: 2018-08-06 2018-08-10  
 
 ## Problem statement
