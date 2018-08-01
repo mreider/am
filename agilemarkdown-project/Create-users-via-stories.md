@@ -25,6 +25,8 @@ sent by @mreider at 2018-07-27 04:58 AM
 @mreider Should it work in Pendulum editor in some way?
 sent by @falconandy at 2018-07-31 10:59 PM
 
+@falconandy - don't you think it would be better to use am sync? if you assigned a user to "someuser" and there was no user file, you would just create it. That's all. Why do you think pendulum would be helpful?
+
 ## Attachments
 
 ## Metadata
