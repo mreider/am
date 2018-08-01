@@ -6,13 +6,12 @@
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | [Falconandy](users/Andrey%20Sokolov.md) | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](tags/clean-things.md) [stuff](tags/stuff.md) [foo](tags/foo.md) |
-| [falconandy](users/Andrey%20Sokolov.md) | [Stories can be on more than one timeline](agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](tags/timelines.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Archived stories are not forecasted](agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](tags/clean-things.md) [stuff](tags/stuff.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
 | [Falconandy](users/Andrey%20Sokolov.md) | [Pivotal import supports user creation](agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](tags/pivotal.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Pivotal import should add proper placeholders](agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](tags/pivotal.md) |
-| Total Points | | 17 | |
+| Total Points | | 14 | |
 
 ### Planned
 | User | Title | Points | Tags |
@@ -66,3 +65,4 @@
 | [falconandy](users/Andrey%20Sokolov.md) | [There should be a view by user](agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](tags/users.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Pages and work commands have sums](agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](tags/sprints.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
+| [falconandy](users/Andrey%20Sokolov.md) | [Stories can be on more than one timeline](agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](tags/timelines.md) |
