@@ -2,6 +2,12 @@
 
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md)
 
+### Doing
+| User | Title | Points | Tags |
+|---|---|:---:|---|
+| [falconandy](../users/Andrey%20Sokolov.md) | [Archived stories are not forecasted](archive/archived-stories-are-not-forecasted.md) | 2 | [clean-things](tags/clean-things.md) [stuff](tags/stuff.md) |
+| Total Points | | 2 | |
+
 ### Finished
 | User | Title | Points | Tags |
 |---|---|:---:|---|
