@@ -33,6 +33,9 @@ Also misprint are possible: there were 3 misprints - falconamdy, falconany and f
 Three new user files for them?
 sent by @falconandy at 2018-08-01 08:40 AM
 
+@falconandy - ok, I agree. we will solve this using the atom plugin I was telling you about. I am going to delete this story, and change the other one a little.
+sent by @mreider at 2018-08-01 05:17 AM
+
 ## Attachments
 
 ## Metadata
