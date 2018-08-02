@@ -22,6 +22,9 @@ Look at the columns in the pivotal csv that contain user names and create user f
 @falconandy - new bit
 sent by @mreider at 2018-07-27 04:53 AM
 
+@falconandy I am also noticing that "assigned" does not show the user that is assigned to the story. Do you still have the Pivotal csv?
+sent by @mreider at 2018-08-02 02:22 AM
+
 ## Attachments
 
 ## Metadata
