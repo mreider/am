@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: sync  
-Status: planned  
+Status: doing  
 Assigned: falconandy  
 Estimate: 2  
 
@@ -41,5 +41,5 @@ sent by @mreider at 2018-07-27 05:52 AM
 ## Metadata
 
 Created: 2018-07-27 05:47 AM  
-Modified: 2018-07-27 05:47 AM  
+Modified: 2018-08-02 11:40 AM  
 Author: Matt Reider  
