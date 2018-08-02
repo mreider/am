@@ -40,8 +40,18 @@ foo@foo.om
 Email: foo
 sent by @mreider at 2018-08-02 02:07 AM
 
+@mreider Misprint. Fixed.
+Sorry, I forgot to mention - you could use more simple command:
+am create user foo foo@foo.om
+am create user John Green john@foo.om
+--name and --email flags were for Pendulum, I've hidden them
+sent by @falconandy at 2018-08-02 10:10 AM
+
 @falconandy also - it looks like am delete-user foo won't work, but am delete-user foo@foo.om works. I was thinking both would work. The change-user command works perfectly, thanks.
 sent by @mreider at 2018-08-02 02:12 AM
+
+@mreider It works for me. Could you try with updated am, please? 
+sent by @falconandy at 2018-08-02 10:10 AM
 
 ## Attachments
 
