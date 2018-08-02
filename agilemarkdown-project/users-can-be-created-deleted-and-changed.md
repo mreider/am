@@ -29,6 +29,18 @@ sent by @mreider at 2018-07-27 05:43 AM
 @mreider Ready for testing
 sent by @falconandy at 2018-08-01 08:40 PM
 
+@falconandy not sure this is working as we want. See below:
+
+am create-user --name foo --email foo@foo.om
+ubuntu@ip-172-26-1-7:~/reider.club$ cd users/
+ubuntu@ip-172-26-1-7:~/reider.club/users$ ls
+Andrey Sokolov.md  foo@foo.om.md  Matt Reider.md
+ubuntu@ip-172-26-1-7:~/reider.club/users$ cat foo@foo.om.md
+sent by @mreider at 2018-08-02 02:07 AM
+# foo@foo.om
+
+Email: foo
+
 ## Attachments
 
 ## Metadata
