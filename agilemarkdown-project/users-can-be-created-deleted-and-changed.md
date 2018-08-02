@@ -36,12 +36,12 @@ ubuntu@ip-172-26-1-7:~/reider.club$ cd users/
 ubuntu@ip-172-26-1-7:~/reider.club/users$ ls
 Andrey Sokolov.md  foo@foo.om.md  Matt Reider.md
 ubuntu@ip-172-26-1-7:~/reider.club/users$ cat foo@foo.om.md
-sent by @mreider at 2018-08-02 02:07 AM
-# foo@foo.om
-
+foo@foo.om
 Email: foo
+sent by @mreider at 2018-08-02 02:07 AM
 
-@falconandy also - it looks like am delete-user foo won't work, but am delete-user foo@foo.om works. I was thinking both would work.
+@falconandy also - it looks like am delete-user foo won't work, but am delete-user foo@foo.om works. I was thinking both would work. The change-user command works perfectly, thanks.
+sent by @mreider at 2018-08-02 02:12 AM
 
 ## Attachments
 
