@@ -5,7 +5,7 @@
 ## Doing
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
-| [Falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](clean-things.md) [stuff](stuff.md) [foo](foo.md) |
+| [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](clean-things.md) [stuff](stuff.md) [foo](foo.md) |
 | Total Points | | | 1 | |
 
 ## Planned
@@ -17,8 +17,8 @@
 ## Finished
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
+| [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Change file when story title changes](../agilemarkdown-project/change-file-when-story-title-changes.md) | 3 | [clean-things](clean-things.md) |
 | [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](clean-things.md) [stuff](stuff.md) |
-| [Falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Change file when story title changes](../agilemarkdown-project/change-file-when-story-title-changes.md) | 3 | [clean-things](clean-things.md) |
 | [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags can be deleted](../agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [clean-things](clean-things.md) |
 | [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Move some metadata to the bottom](../agilemarkdown-project/Move-some-metadata-to-the-bottom.md) | 3 | [clean-things](clean-things.md) |
 | [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Closing pendulum should refresh](../agilemarkdown-project/closing-pendulum-should-refresh.md) | 3 | [clean-things](clean-things.md) |

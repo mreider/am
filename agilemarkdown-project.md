@@ -5,9 +5,9 @@
 ### Doing
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| [Falconandy](users/Andrey%20Sokolov.md) | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](tags/clean-things.md) [stuff](tags/stuff.md) [foo](tags/foo.md) |
+| [falconandy](users/Andrey%20Sokolov.md) | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](tags/clean-things.md) [stuff](tags/stuff.md) [foo](tags/foo.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
-| [Falconandy](users/Andrey%20Sokolov.md) | [Pivotal import supports user creation](agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](tags/pivotal.md) |
+| [falconandy](users/Andrey%20Sokolov.md) | [Pivotal import supports user creation](agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](tags/pivotal.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Pivotal import should add proper placeholders](agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](tags/pivotal.md) |
 | Total Points | | 7 | |
 
@@ -57,8 +57,8 @@
 | [falconandy](users/Andrey%20Sokolov.md) | [Modified-bug](agilemarkdown-project/modified-bug.md) | 2 | [bug](tags/bug.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Tags can be deleted](agilemarkdown-project/Tags-can-be-deleted.md) | 2 | [clean-things](tags/clean-things.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Tags can be changed](agilemarkdown-project/Tags-can-be-changed.md) | 2 | [tags](tags/tags.md) |
-| [Falconandy](users/Andrey%20Sokolov.md) | [Change file when story title changes](agilemarkdown-project/change-file-when-story-title-changes.md) | 3 | [clean-things](tags/clean-things.md) |
-| [Falconandy](users/Andrey%20Sokolov.md) | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 |  |
+| [falconandy](users/Andrey%20Sokolov.md) | [Change file when story title changes](agilemarkdown-project/change-file-when-story-title-changes.md) | 3 | [clean-things](tags/clean-things.md) |
+| [falconandy](users/Andrey%20Sokolov.md) | [Generate story list with same tag in ideas](agilemarkdown-project/Generate-story-list-with-same-tag-in-ideas.md) | 2 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Velocity is based on finished date](agilemarkdown-project/velocity-is-based-on-finished-date.md) | 2 | [velocity](tags/velocity.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [There should be a view by user](agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](tags/users.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Pages and work commands have sums](agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](tags/sprints.md) |

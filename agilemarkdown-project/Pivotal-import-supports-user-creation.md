@@ -6,7 +6,7 @@ Project: Agilemarkdown-project
 
 Tags: Pivotal  
 Status: doing  
-Assigned: Falconandy  
+Assigned: falconandy  
 Estimate: 2  
 
 ## Problem statement
@@ -27,5 +27,5 @@ sent by @mreider at 2018-07-27 04:53 AM
 ## Metadata
 
 Created: 2018-07-27 04:51 AM  
-Modified: 2018-08-01 08:51 PM  
+Modified: 2018-08-02 02:11 AM  
 Author: Matt Reider  

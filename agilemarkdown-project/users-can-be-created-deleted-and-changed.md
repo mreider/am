@@ -41,6 +41,8 @@ sent by @mreider at 2018-08-02 02:07 AM
 
 Email: foo
 
+@falconandy also - it looks like am delete-user foo won't work, but am delete-user foo@foo.om works. I was thinking both would work.
+
 ## Attachments
 
 ## Metadata

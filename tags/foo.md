@@ -5,5 +5,5 @@
 ## Doing
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
-| [Falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](clean-things.md) [stuff](stuff.md) [foo](foo.md) |
+| [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](clean-things.md) [stuff](stuff.md) [foo](foo.md) |
 | Total Points | | | 1 | |

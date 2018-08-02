@@ -6,7 +6,7 @@ Project: Agilemarkdown-project
 
 Tags: clean-things  
 Status: finished  
-Assigned: Falconandy  
+Assigned: falconandy  
 Estimate: 3  
 Finished: 2018-07-27 02:54 AM  
 
@@ -34,5 +34,5 @@ sent by @mreider at 2018-07-27 02:54 AM
 ## Metadata
 
 Created: 2018-07-04 02:46 PM  
-Modified: 2018-07-27 02:54 AM  
+Modified: 2018-08-02 02:11 AM  
 Author: Matt Reider  
