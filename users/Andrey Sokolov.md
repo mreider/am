@@ -10,7 +10,7 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | Title | Points | Tags |
 |---|:---:|---|
 | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) [foo](../tags/foo.md) |
-| [Pivotal import supports user creation](../agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](../tags/pivotal.md) |
+| [Pivotal import supports user creation](../agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [pivotal](../tags/pivotal.md) |
 | [Am sync should give feedback](../agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](../tags/sync.md) |
 | [Downcase everything on sync](../agilemarkdown-project/downcase-everything-on-sync.md) | 1 | [clean-things](../tags/clean-things.md) |
 | Total Points | 6 | |
@@ -56,7 +56,7 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [There should be a view by user](../agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](../tags/users.md) |
 | [Pages and work commands have sums](../agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](../tags/sprints.md) |
 | [Comments and emails can be sent from ideas](../agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
-| [Stories can be on more than one timeline](../agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [Timelines](../tags/timelines.md) |
+| [Stories can be on more than one timeline](../agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [timelines](../tags/timelines.md) |
 | [Tags can have timelines](../agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](../tags/timelines.md) |
 | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) |
 | [Pivotal import should add proper placeholders](../agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](../tags/pivotal.md) |

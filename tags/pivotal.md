@@ -5,7 +5,7 @@
 ## Doing
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
-| [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Pivotal import supports user creation](../agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](pivotal.md) |
+| [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Pivotal import supports user creation](../agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [pivotal](pivotal.md) |
 | Total Points | | | 2 | |
 
 ## Finished
