@@ -39,6 +39,9 @@ sent by @mreider at 2018-07-27 05:52 AM
 @mreider Ready for testing
 sent by @falconandy at 2018-08-03 09:29 PM
 
+@falconandy - Looks good - except the git commit exits 1 if there is nothing to commit? Makes it seem like there is an error, when there isn't. 
+sent by @mreider at 2018-08-03 10:02 PM
+
 
 ## Attachments
 
