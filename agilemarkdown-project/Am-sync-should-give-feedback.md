@@ -36,6 +36,10 @@ Errors in git, or in sending emails, should be shown.
 @falconandy another new bit
 sent by @mreider at 2018-07-27 05:52 AM
 
+@mreider Ready for testing
+sent by @falconandy at 2018-08-03 09:29 PM
+
+
 ## Attachments
 
 ## Metadata

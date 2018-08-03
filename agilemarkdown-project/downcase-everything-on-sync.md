@@ -22,6 +22,9 @@ When we am sync, we should downcase those things.
 @falconandy another bit
 sent by @mreider at 2018-07-28 12:15 AM
 
+@mreider Ready for testing
+sent by @falconandy at 2018-08-03 09:29 PM
+
 ## Attachments
 
 ## Metadata
