@@ -4,7 +4,7 @@ Project: Agilemarkdown-project
 
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
-Tags: clean-things, stuff, foo  
+Tags: clean-things, stuff, foo, test  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  

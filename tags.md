@@ -12,6 +12,7 @@
 [stuff](tags/stuff.md)  
 [sync](tags/sync.md)  
 [tags](tags/tags.md)  
+[test](tags/test.md)  
 [timelines](tags/timelines.md)  
 [users](tags/users.md)  
 [velocity](tags/velocity.md)
