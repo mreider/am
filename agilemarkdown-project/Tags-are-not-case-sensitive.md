@@ -5,10 +5,11 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: clean-things, stuff, foo  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 1  
 Timeline: 2018-08-01 2018-08-05  
+Finished: 2018-08-03 10:02 PM  
 
 ## Problem statement
 
@@ -26,5 +27,5 @@ You can downcase everything when am sync runs or just list tags as downcased
 ## Metadata
 
 Created: 2018-07-04 03:20 PM  
-Modified: 2018-08-02 02:11 AM  
+Modified: 2018-08-03 10:02 PM  
 Author: Matt Reider  
