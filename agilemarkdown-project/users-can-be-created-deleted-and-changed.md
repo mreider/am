@@ -5,9 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: users  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 3  
+Finished: 2018-08-03 04:04 AM  
 
 ## Problem statement
 
@@ -53,10 +54,13 @@ sent by @mreider at 2018-08-02 02:12 AM
 @mreider It works for me. Could you try with updated am, please? 
 sent by @falconandy at 2018-08-02 10:10 AM
 
+@falconandy works. Thanks.
+sent by @mreider at 2018-08-03 04:04 AM
+
 ## Attachments
 
 ## Metadata
 
 Created: 2018-07-27 05:34 AM  
-Modified: 2018-07-30 08:42 AM  
+Modified: 2018-08-03 04:04 AM  
 Author: Matt Reider  
