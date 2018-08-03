@@ -34,6 +34,9 @@ sent by @falconandy at 2018-08-02 11:39 AM
 @falconandy it looks like there can be more than one 'owned by' column in the sheet. When I imported a sheet, it only created 3 users. I looked and there are a few colums, all called 'owned by' my guess is they are historical. You are taking the last column. Please take the first instead - it is the most recent person who owned the story (I think)
 sent by @mreider at 2018-08-03 04:01 AM
 
+@mreider fixed
+sent by @falconandy at 2018-08-03 06:29 PM
+
 ## Attachments
 
 ## Metadata
