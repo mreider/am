@@ -5,9 +5,10 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: pivotal  
-Status: doing  
+Status: finished  
 Assigned: falconandy  
 Estimate: 2  
+Finished: 2018-08-03 09:58 PM  
 
 ## Problem statement
 
@@ -50,5 +51,5 @@ sent by @falconandy at 2018-08-03 08:35 PM
 ## Metadata
 
 Created: 2018-07-27 04:51 AM  
-Modified: 2018-08-02 02:11 AM  
+Modified: 2018-08-03 09:58 PM  
 Author: Matt Reider  
