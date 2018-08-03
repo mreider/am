@@ -5,14 +5,9 @@
 ## Doing
 | User | Project | Title | Points | Tags |
 |---|---|---|:---:|---|
-| [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](clean-things.md) [stuff](stuff.md) [foo](foo.md) |
-| Total Points | | | 1 | |
-
-## Planned
-| User | Project | Title | Points | Tags |
-|---|---|---|:---:|---|
 | [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Downcase everything on sync](../agilemarkdown-project/downcase-everything-on-sync.md) | 1 | [clean-things](clean-things.md) |
-| Total Points | | | 1 | |
+| [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](clean-things.md) [stuff](stuff.md) [foo](foo.md) |
+| Total Points | | | 2 | |
 
 ## Finished
 | User | Project | Title | Points | Tags |

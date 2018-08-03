@@ -12,13 +12,8 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) [foo](../tags/foo.md) |
 | [Pivotal import supports user creation](../agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [Pivotal](../tags/pivotal.md) |
 | [Am sync should give feedback](../agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](../tags/sync.md) |
-| Total Points | 5 | |
-
-### Planned
-| Title | Points | Tags |
-|---|:---:|---|
 | [Downcase everything on sync](../agilemarkdown-project/downcase-everything-on-sync.md) | 1 | [clean-things](../tags/clean-things.md) |
-| Total Points | 1 | |
+| Total Points | 6 | |
 
 ### Finished
 | Title | Points | Tags |

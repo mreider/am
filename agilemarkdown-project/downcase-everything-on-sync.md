@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: clean-things  
-Status: planned  
+Status: doing  
 Assigned: falconandy  
 Estimate: 1  
 
@@ -27,5 +27,5 @@ sent by @mreider at 2018-07-28 12:15 AM
 ## Metadata
 
 Created: 2018-07-28 12:14 AM  
-Modified: 2018-07-28 12:14 AM  
+Modified: 2018-08-03 08:36 PM  
 Author: Matt Reider  
