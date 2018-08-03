@@ -11,6 +11,8 @@
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
+| [falconandy](users/Andrey%20Sokolov.md) | [Finished-stories-should-be-editable](agilemarkdown-project/finished-stories-should-be-editable.md) | 1 | [cleanup](tags/cleanup.md) |
+| Total Points | | 1 | |
 
 ### Unplanned
 | User | Title | Points | Tags |

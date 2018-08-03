@@ -12,6 +12,12 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Am sync should give feedback](../agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](../tags/sync.md) |
 | Total Points | 2 | |
 
+### Planned
+| Title | Points | Tags |
+|---|:---:|---|
+| [Finished-stories-should-be-editable](../agilemarkdown-project/finished-stories-should-be-editable.md) | 1 | [cleanup](../tags/cleanup.md) |
+| Total Points | 1 | |
+
 ### Finished
 | Title | Points | Tags |
 |---|:---:|---|
