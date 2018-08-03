@@ -37,6 +37,11 @@ sent by @mreider at 2018-08-03 04:01 AM
 @mreider fixed
 sent by @falconandy at 2018-08-03 06:29 PM
 
+@falconandy - well, it's tricky. Looks like there can be up to 3 'owned by' and the CSV sometimes has the first column empty, and only the second column populated. So I think we should do this: For 'assigned' - find the first name that appears, in whatever column. For creating users - create a user for each person in each column.
+
+Make sense?
+sent by @mreider at 2018-08-03 03:06 PM
+
 ## Attachments
 
 ## Metadata
