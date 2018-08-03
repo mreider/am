@@ -10,8 +10,7 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | Title | Points | Tags |
 |---|:---:|---|
 | [Am sync should give feedback](../agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](../tags/sync.md) |
-| [Downcase everything on sync](../agilemarkdown-project/downcase-everything-on-sync.md) | 1 | [clean-things](../tags/clean-things.md) |
-| Total Points | 3 | |
+| Total Points | 2 | |
 
 ### Finished
 | Title | Points | Tags |
@@ -61,3 +60,4 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Users can be created, deleted and changed](../agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](../tags/users.md) |
 | [Pivotal import supports user creation](../agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [pivotal](../tags/pivotal.md) |
 | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) [foo](../tags/foo.md) [test](../tags/test.md) |
+| [Downcase everything on sync](../agilemarkdown-project/downcase-everything-on-sync.md) | 1 | [clean-things](../tags/clean-things.md) |
