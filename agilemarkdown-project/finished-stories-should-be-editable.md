@@ -23,6 +23,9 @@ sent by @mreider at 2018-08-03 10:08 PM
 @falconandy try Tags-are-not-case-sensitive.md
 sent by @mreider at 2018-08-04 02:27 PM
 
+@falconandy - and try this story in pendulum? Always exits 1?
+sent by @mreider at 2018-08-04 02:28 PM
+
 ## Attachments
 
 ## Metadata
