@@ -20,6 +20,9 @@ Not sure what is going on - but I had a story that was marked as finished, and h
 @falconandy - bug?
 sent by @mreider at 2018-08-03 10:08 PM
 
+@mreider Can't reproduce. Both on local Pendulum and on reider.club
+sent by @falconandy at 2018-08-04 10:52 AM
+
 ## Attachments
 
 ## Metadata
