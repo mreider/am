@@ -32,8 +32,12 @@ sent by @mreider at 2018-08-04 02:27 PM
 @falconandy - and try this story in pendulum? Always exits 1?
 sent by @mreider at 2018-08-04 02:28 PM
 
+@mreider I tried with Tags-are-not-case-sensitive.md on reider.club.
+I modified 'Assigned' to mreider, saved, to falconandy, saved, to falconandy555, saved, to falconandy, saved.
+No errors, all saves were successful.
+sent by @falconandy at 2018-08-04 07:31 PM
+
 ## Attachments
 
 ## Metadata
-
 
