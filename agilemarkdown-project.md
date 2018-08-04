@@ -65,5 +65,5 @@
 | [falconandy](users/Andrey%20Sokolov.md) | [Pivotal import should add proper placeholders](agilemarkdown-project/pivotal-import-should-add-proper-placeholders.md) | 1 | [pivotal](tags/pivotal.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Users can be created, deleted and changed](agilemarkdown-project/users-can-be-created-deleted-and-changed.md) | 3 | [users](tags/users.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Pivotal import supports user creation](agilemarkdown-project/Pivotal-import-supports-user-creation.md) | 2 | [pivotal](tags/pivotal.md) |
-| [mreider](users/Matt%20Reider.md) | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](tags/clean-things.md) [stuff](tags/stuff.md) [foo](tags/foo.md) [test](tags/test.md) |
+| [falconandy](users/Andrey%20Sokolov.md) | [Tags are not case sensitive](agilemarkdown-project/Tags-are-not-case-sensitive.md) | 1 | [clean-things](tags/clean-things.md) [stuff](tags/stuff.md) [foo](tags/foo.md) [test](tags/test.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Downcase everything on sync](agilemarkdown-project/downcase-everything-on-sync.md) | 1 | [clean-things](tags/clean-things.md) |
