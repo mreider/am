@@ -37,6 +37,10 @@ I modified 'Assigned' to mreider, saved, to falconandy, saved, to falconandy555,
 No errors, all saves were successful.
 sent by @falconandy at 2018-08-04 07:31 PM
 
+@mreider It seems, reider.club doesn't sync periodically - finished-stories-should-be-editable.md still has unresoveld conflicts (I've resolved them manually).
+I think, a merge conflict was the reason of 'exit status 1'
+sent by @falconandy at 2018-08-04 07:50 PM
+
 ## Attachments
 
 ## Metadata
