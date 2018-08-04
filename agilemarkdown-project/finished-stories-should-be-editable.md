@@ -8,29 +8,6 @@ Tags: cleanup
 Status: planned  
 Assigned: falconandy  
 Estimate: 1  
-<<<<<<< HEAD
-
-## Problem statement
-
-Not sure what is going on - but I had a story that was marked as finished, and had a finished date. When I tried to change the assignee, in pendulum, it exited 1. Maybe this is the problem that am sync had in the other story. Unclear.
-
-## Possible solution
-
-## Comments
-
-@falconandy - bug?
-sent by @mreider at 2018-08-03 10:08 PM
-
-@falconandy try Tags-are-not-case-sensitive.md
-sent by @mreider at 2018-08-04 02:27 PM
-
-@falconandy - and try this story in pendulum? Always exits 1?
-sent by @mreider at 2018-08-04 02:28 PM
-
-## Attachments
-
-## Metadata
-=======
 
 ## Problem statement
 
@@ -49,7 +26,14 @@ sent by @falconandy at 2018-08-04 10:52 AM
 @mreider Could you provide the story name?
 sent by @falconandy at 2018-08-04 10:54 AM
 
+@falconandy try Tags-are-not-case-sensitive.md
+sent by @mreider at 2018-08-04 02:27 PM
+
+@falconandy - and try this story in pendulum? Always exits 1?
+sent by @mreider at 2018-08-04 02:28 PM
+
 ## Attachments
 
 ## Metadata
+
 
