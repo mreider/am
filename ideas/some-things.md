@@ -33,7 +33,7 @@ sent by @falconandy at 2018-08-01 08:49 PM
 
 | User | Project | Title | Status | Points | Tags |
 |---|---|---|---|:---:|---|
-| falconandy555 | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | finished | 1 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) [foo](../tags/foo.md) [test](../tags/test.md) |
+| [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Tags are not case sensitive](../agilemarkdown-project/Tags-are-not-case-sensitive.md) | finished | 1 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) [foo](../tags/foo.md) [test](../tags/test.md) |
 | [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Downcase everything on sync](../agilemarkdown-project/downcase-everything-on-sync.md) | finished | 1 | [clean-things](../tags/clean-things.md) |
 | [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Change file when story title changes](../agilemarkdown-project/change-file-when-story-title-changes.md) | finished | 3 | [clean-things](../tags/clean-things.md) |
 | [falconandy](../users/Andrey%20Sokolov.md) | [Agilemarkdown-project](../agilemarkdown-project.md) | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | finished | 2 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) |
