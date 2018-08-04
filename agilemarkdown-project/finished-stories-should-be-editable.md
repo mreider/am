@@ -8,6 +8,7 @@ Tags: cleanup
 Status: planned  
 Assigned: falconandy  
 Estimate: 1  
+<<<<<<< HEAD
 
 ## Problem statement
 
@@ -29,7 +30,26 @@ sent by @mreider at 2018-08-04 02:28 PM
 ## Attachments
 
 ## Metadata
+=======
 
-Created: 2018-08-03 10:05 PM  
-Modified: 2018-08-03 10:05 PM  
-Author: Matt Reider  
+## Problem statement
+
+Not sure what is going on - but I had a story that was marked as finished, and had a finished date. When I tried to change the assignee, in pendulum, it exited 1. Maybe this is the problem that am sync had in the other story. Unclear.
+
+## Possible solution
+
+## Comments
+
+@falconandy - bug?
+sent by @mreider at 2018-08-03 10:08 PM
+
+@mreider Can't reproduce. Both on local Pendulum and on reider.club
+sent by @falconandy at 2018-08-04 10:52 AM
+
+@mreider Could you provide the story name?
+sent by @falconandy at 2018-08-04 10:54 AM
+
+## Attachments
+
+## Metadata
+
