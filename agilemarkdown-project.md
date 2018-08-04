@@ -58,7 +58,7 @@
 | [falconandy](users/Andrey%20Sokolov.md) | [Velocity is based on finished date](agilemarkdown-project/velocity-is-based-on-finished-date.md) | 2 | [velocity](tags/velocity.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [There should be a view by user](agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](tags/users.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Pages and work commands have sums](agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](tags/sprints.md) |
-| [falconandy](users/Andrey%20Sokolov.md) | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
+| [mreider](users/Matt%20Reider.md) | [Comments and emails can be sent from ideas](agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | [falconandy](users/Andrey%20Sokolov.md) | [Stories can be on more than one timeline](agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [timelines](tags/timelines.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Tags can have timelines](agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](tags/timelines.md) |
 | [falconandy](users/Andrey%20Sokolov.md) | [Archived stories are not forecasted](agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](tags/clean-things.md) [stuff](tags/stuff.md) |

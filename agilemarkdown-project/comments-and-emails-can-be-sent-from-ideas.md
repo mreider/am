@@ -6,7 +6,7 @@ Project: Agilemarkdown-project
 
 Tags:   
 Status: finished  
-Assigned: falconandy  
+Assigned: mreider  
 Estimate: 2  
 Finished: 2018-08-01 05:49 PM  
 
@@ -35,5 +35,5 @@ sent by @falconandy at 2018-08-01 08:49 PM
 ## Metadata
 
 Created: 2018-07-05 09:20 PM  
-Modified: 2018-08-01 05:49 PM  
+Modified: 2018-08-04 06:49 AM  
 Author: Matt Reider  
