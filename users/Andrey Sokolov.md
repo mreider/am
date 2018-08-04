@@ -58,6 +58,7 @@ Email: falconandy@yandex.ru, falconandy1980@gmail.com
 | [Velocity is based on finished date](../agilemarkdown-project/velocity-is-based-on-finished-date.md) | 2 | [velocity](../tags/velocity.md) |
 | [There should be a view by user](../agilemarkdown-project/There-should-be-a-view-by-user.md) | 3 | [users](../tags/users.md) |
 | [Pages and work commands have sums](../agilemarkdown-project/Pages-and-work-commands-have-sums.md) | 2 | [sprints](../tags/sprints.md) |
+| [Comments and emails can be sent from ideas](../agilemarkdown-project/comments-and-emails-can-be-sent-from-ideas.md) | 2 |  |
 | [Stories can be on more than one timeline](../agilemarkdown-project/stories-can-be-on-more-than-one-timeline.md) | 3 | [timelines](../tags/timelines.md) |
 | [Tags can have timelines](../agilemarkdown-project/Tags-can-have-timelines.md) | 5 | [timelines](../tags/timelines.md) |
 | [Archived stories are not forecasted](../agilemarkdown-project/archived-stories-are-not-forecasted.md) | 2 | [clean-things](../tags/clean-things.md) [stuff](../tags/stuff.md) |
