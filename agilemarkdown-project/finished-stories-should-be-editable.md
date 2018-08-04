@@ -20,7 +20,7 @@ Not sure what is going on - but I had a story that was marked as finished, and h
 @falconandy - bug?
 sent by @mreider at 2018-08-03 10:08 PM
 
-@falconandy try https://reider.club/agilemarkdown-project/Tags-are-not-case-sensitive.md
+@falconandy try Tags-are-not-case-sensitive.md
 sent by @mreider at 2018-08-04 02:27 PM
 
 ## Attachments
