@@ -41,7 +41,8 @@ sent by @falconandy at 2018-08-04 07:31 PM
 I think, a merge conflict was the reason of 'exit status 1'
 sent by @falconandy at 2018-08-04 07:50 PM
 
-test
+@mreider I added more verbose errors to both agilemarkdown and pendulum. Maybe it can help to catch the error
+sent by @falconandy at 2018-08-05 04:04 PM
 
 ## Attachments
 
