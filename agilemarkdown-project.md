@@ -6,13 +6,12 @@
 | User | Title | Points | Tags |
 |---|---|:---:|---|
 | [falconandy](users/Andrey%20Sokolov.md) | [Am sync should give feedback](agilemarkdown-project/Am-sync-should-give-feedback.md) | 2 | [sync](tags/sync.md) |
-| Total Points | | 2 | |
+| [falconandy](users/Andrey%20Sokolov.md) | [Finished-stories-should-be-editable](agilemarkdown-project/finished-stories-should-be-editable.md) | 1 | [cleanup](tags/cleanup.md) |
+| Total Points | | 3 | |
 
 ### Planned
 | User | Title | Points | Tags |
 |---|---|:---:|---|
-| [falconandy](users/Andrey%20Sokolov.md) | [Finished-stories-should-be-editable](agilemarkdown-project/finished-stories-should-be-editable.md) | 1 | [cleanup](tags/cleanup.md) |
-| Total Points | | 1 | |
 
 ### Unplanned
 | User | Title | Points | Tags |

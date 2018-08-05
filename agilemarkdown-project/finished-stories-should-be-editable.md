@@ -5,7 +5,7 @@ Project: Agilemarkdown-project
 [home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: cleanup  
-Status: planned  
+Status: doing  
 Assigned: falconandy  
 Estimate: 1  
 
@@ -48,3 +48,4 @@ sent by @falconandy at 2018-08-05 04:04 PM
 
 ## Metadata
 
+Modified: 2018-08-05 04:05 PM  
