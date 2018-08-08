@@ -2,13 +2,12 @@
 
 Project: Agilemarkdown-project
 
-[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [users](../users.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
+[home](../index.md) • [idea list](../ideas.md) • [tag list](../tags.md) • [velocity](../velocity.md) • [timeline](../timeline.md) • [project page](../agilemarkdown-project.md) • [archive](archive.md)
 
 Tags: clean-things, stuff, foo, test  
 Status: finished  
 Assigned: falconandy  
 Estimate: 1  
-Timeline: 2018-08-01 2018-08-05  
 Finished: 2018-08-03 10:02 PM  
 
 
